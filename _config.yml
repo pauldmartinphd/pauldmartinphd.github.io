@@ -6,7 +6,7 @@ tagline:     "Researcher · Educator · Innovator"
 description: "Teaching, writing, and projects."
 url:         "https://pauldmartinphd.github.io"   # no trailing slash
 baseurl:     ""                                   # blank for user-site repos
-logo:        "/ProfilePicturePhoto.jpg"           # adjust path if you relocate the file
+logo:        "/assets/ProfilePicturePhoto.jpg"           # adjust path if you relocate the file
 
 ###############################################################################
 #  Theme selection
@@ -27,7 +27,7 @@ plugins:
 ###############################################################################
 author:
   name:   "Paul D. Martin, Ph.D."
-  avatar: "/ProfilePicturePhoto.jpg"     # reuse the same headshot
+  avatar: "/assets/ProfilePicturePhoto.jpg"     # reuse the same headshot
   bio:    "Researcher · Educator · Innovator"
   links:
     - label: "GitHub"
