@@ -11,6 +11,7 @@ baseurl: ""                                # keep blank for a user-page repo
 # Theme – GitHub’s built-in **Minimal** theme
 ###############################################################################
 theme: jekyll-theme-minimal                # Gem theme, zero local tooling
+logo: "/ProfilePicturePhoto.jpg"
 
 ###############################################################################
 # Navigation – choose which pages appear in the top bar & in what order
