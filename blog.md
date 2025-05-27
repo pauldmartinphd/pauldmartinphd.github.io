@@ -5,4 +5,18 @@ permalink: /blog/
 #author_profile: false
 ---
 
-### Blog Posts
+## Blog Posts
+
+
+
+---
+
+## Latest notes
+
+{% if site.posts == empty %}
+*No posts yet.*  
+{% else %}
+{% for post in site.posts limit:3 %}
+* {{ post.date | date: "%b %d %Y" }} — **[{{ post.title }}]({{ post.url }})**
+{% endfor %}
+{% endif %}
