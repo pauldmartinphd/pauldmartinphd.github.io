@@ -30,12 +30,19 @@ author:
   avatar: "/assets/ProfilePicturePhoto.jpg"     # reuse the same headshot
   bio:    "Researcher · Educator · Innovator"
   links:
-    - label: "GitHub"
-      icon:  "fab fa-github"
-      url:   "https://github.com/pauldmartinphd"
+    - label: "CV (PDF)"
+      icon:  "fas fa-file-alt"
+      url:   "/assets/PaulMartin-CV.pdf"
     - label: "LinkedIn"
       icon:  "fab fa-linkedin"
       url:   "https://www.linkedin.com/in/pauldmartinphd/"
+    - label: "Google Scholar"
+      icon:  "ai ai-google-scholar"        # Academicons icon; works with Minimal Mistakes
+      url:   "https://scholar.google.com/citations?user=YOUR_ID"
+    - label: "GitHub"
+      icon:  "fab fa-github"
+      url:   "https://github.com/pauldmartinphd"
+
 
 ###############################################################################
 #  Site-wide defaults for pages & posts
