@@ -1,8 +1,8 @@
 ---
 title: "Blog"
-layout: year-archive    # shows posts grouped by year
+layout: single    # shows posts grouped by year
 permalink: /blog/
-author_profile: true
+#author_profile: true
 ---
 
 ## Blog Posts
