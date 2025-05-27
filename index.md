@@ -4,8 +4,6 @@
 
 # Paul D. Martin
 
-**Hacker · Maker · Educator**
-
 </div>
 
 I study and teach computer architecture, operating systems, and security.  
@@ -32,7 +30,3 @@ from 8-bit micros to modern cloud platforms. When I’m not lecturing at Johns H
 * {{ post.date | date: "%b %d %Y" }} — **[{{ post.title }}]({{ post.url }})**
 {% endfor %}
 {% endif %}
-
----
-
-*Site generated with [Jekyll](https://jekyllrb.com/) &nbsp;·&nbsp; Source on [GitHub](https://github.com/pauldmartinphd/pauldmartinphd.github.io)*
