@@ -6,7 +6,7 @@ tagline:     "Researcher · Educator · Innovator"
 description: "Teaching, writing, and projects."
 url:         "https://pauldmartinphd.github.io"   # no trailing slash
 baseurl:     ""                                   # blank for user-site repos
-logo:        "/assets/ProfilePicturePhoto.jpg"           # adjust path if you relocate the file
+#logo:        "/assets/ProfilePicturePhoto.jpg"           # adjust path if you relocate the file
 
 ###############################################################################
 #  Theme selection

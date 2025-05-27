@@ -1,0 +1,9 @@
+main:
+  - title: "Bio"          # your homepage
+    url:   /
+  - title: "Courses"      # teaching materials / syllabi
+    url:   /courses/
+  - title: "Projects"
+    url:   /projects/
+  - title: "Blog"
+    url:   /blog/
