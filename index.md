@@ -1,11 +1,3 @@
-<div align="center">
-
-![Paul Martin headshot](/ProfilePicturePhoto.jpg)
-
-# Paul D. Martin
-
-</div>
-
 I study and teach computer architecture, operating systems, and security.  
 My work blends low-level engineering with a historical perspective—  
 from 8-bit micros to modern cloud platforms. When I’m not lecturing at Johns Hopkins, I restore vintage hardware, design open-source tools, and write about the craft of building reliable systems.
