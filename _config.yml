@@ -1,0 +1,46 @@
+###############################################################################
+# Basic site identity
+###############################################################################
+title:  "Paul D. Martin"
+description: |
+  Computer scientist and educator.  Research, writing, and personal projects.
+url:  "https://pauldmartinphd.github.io"   # no trailing slash
+baseurl: ""                                # keep blank for a user-page repo
+
+###############################################################################
+# Theme – GitHub’s built-in **Minimal** theme
+###############################################################################
+theme: jekyll-theme-minimal                # Gem theme, zero local tooling
+
+###############################################################################
+# Navigation – choose which pages appear in the top bar & in what order
+###############################################################################
+header_pages:                              # add pages in the order you want
+  - index.md        # Home / Bio
+  - cv.md           # Curriculum Vitae
+  - projects.md     # Personal projects
+  - contact.md      # How to reach me
+
+###############################################################################
+# Social links (shown as small icons in the header)
+###############################################################################
+github_username:  pauldmartinphd
+linkedin_username: pauldmartinphd
+# twitter_username:  <if you ever add one>
+
+###############################################################################
+# Build-time plugins that GitHub Pages supports natively
+###############################################################################
+plugins:
+  - jekyll-feed     # automatic RSS/Atom feed
+  - jekyll-seo-tag  # basic SEO / social-card metadata
+
+###############################################################################
+# Defaults – apply the same layout to every Markdown file automatically
+###############################################################################
+defaults:
+  - scope:
+      path: ""              # all files
+      type: "pages"
+    values:
+      layout: default       # provided by the Minimal theme
