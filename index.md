@@ -20,15 +20,3 @@ Impact & outreach
 When not teaching or writing code, I restore vintage hardware, curate retro-computing archives, and mentor emerging engineers on hands-on security and technical projects.
 
 [Download CV (PDF)](/assets/PaulMartin-CV.pdf)
-
----
-
-## Latest notes
-
-{% if site.posts == empty %}
-*No posts yet.*  
-{% else %}
-{% for post in site.posts limit:3 %}
-* {{ post.date | date: "%b %d %Y" }} — **[{{ post.title }}]({{ post.url }})**
-{% endfor %}
-{% endif %}
