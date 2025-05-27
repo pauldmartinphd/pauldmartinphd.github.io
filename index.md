@@ -1,15 +1,8 @@
-I study and teach computer architecture, operating systems, and security.  
-My work blends low-level engineering with a historical perspective—  
-from 8-bit micros to modern cloud platforms. When I’m not lecturing at Johns Hopkins, I restore vintage hardware, design open-source tools, and write about the craft of building reliable systems.
+I am Chief Scientist at **Harbor Experts, Inc.** and a part-time Lecturer in the Department of Computer Science at **Johns Hopkins University**, where I teach courses on computer and network security, applied cryptography, and programming. I hold B.S., M.S.E., and Ph.D. degrees in computer science from Johns Hopkins.
 
----
+My work spans secure system architecture, embedded-device security, and large-scale source-code analysis. Recent projects range from automated firmware-vulnerability detection to control-flow-integrity profiling hardware for embedded CPUs. I am a named inventor on six U.S. patents and have served on the program committee for the IEEE Symposium on Security and Privacy.
 
-## Quick links
-
-- **Curriculum Vitae:** [PDF](/assets/PaulMartin-CV.pdf)  
-- **Projects:** [see the projects page](/projects/)  
-- **Publications & writing:** [Google Scholar](https://scholar.google.com/citations?user=XXXXX)  
-- **Contact:** [how to reach me](/contact/)
+In my spare time, I restore vintage hardware, design open-source tools, and mentor students on hands-on security projects. A full curriculum vitae is available on the sidebar.
 
 ---
 
