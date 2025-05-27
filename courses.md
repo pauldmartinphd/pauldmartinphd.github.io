@@ -6,9 +6,7 @@ permalink: /courses/
 ---
 
 ### Courses
-
-- **Computer Architecture (JHU 600.4xx)** – lecture notes, labs, and slide decks.  
-- **Operating Systems Security (JHU 600.6xx)** – syllabus & assignments.
-
-*(Fill in links or embed PDFs as you prefer.)*
-
+- **Intermediate Programming (JHU EN.601.220.87)** – Summer 2025.
+- **Security & Privacy in Computing (JHU EN.600.443/643)** – Fall 2024.  
+- **Security & Privacy in Computing (JHU EN.600.443/643)** – Fall 2023.  
+- **Introduction to Hardware Hacking (JHU EN.600.243.13)** – Winter 2015.
