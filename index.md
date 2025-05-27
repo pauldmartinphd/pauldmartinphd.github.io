@@ -1,10 +1,10 @@
 <div align="center">
 
-![Paul Martin headshot](/portrait.jpg)
+![Paul Martin headshot](/ProfilePicturePhoto.jpg)
 
 # Paul D. Martin
 
-**Computer scientist · Educator · Systems builder**
+**Hacker · Maker · Educator**
 
 </div>
 
