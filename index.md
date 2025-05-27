@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Paul Martin headshot](/portrait.jpg)
 
 # Paul D. Martin
