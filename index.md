@@ -1,8 +1,3 @@
----
-title: "Paul D. Martin"
-layout: default
----
-
 <div align="center">
 
 ![Paul Martin headshot](/assets/img/headshot.jpg){: width="160" style="border-radius:50%;"}
