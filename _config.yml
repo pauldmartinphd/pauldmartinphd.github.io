@@ -1,47 +1,68 @@
 ###############################################################################
-# Basic site identity
+#  Basic site identity
 ###############################################################################
-title:  "Paul D. Martin Ph.D."
-description: |
-  Hacker · Educator · Innovator
-url:  "https://pauldmartinphd.github.io"   # no trailing slash
-baseurl: ""                                # keep blank for a user-page repo
+title:       "Paul D. Martin, Ph.D."
+tagline:     "Researcher · Educator · Innovator"
+description: "Teaching, writing, and projects."
+url:         "https://pauldmartinphd.github.io"   # no trailing slash
+baseurl:     ""                                   # blank for user-site repos
+logo:        "/ProfilePicturePhoto.jpg"           # adjust path if you relocate the file
 
 ###############################################################################
-# Theme – GitHub’s built-in **Minimal** theme
+#  Theme selection
 ###############################################################################
-theme: jekyll-theme-minimal                # Gem theme, zero local tooling
-logo: "/ProfilePicturePhoto.jpg"
+remote_theme: mmistakes/minimal-mistakes@4.26.1
+minimal_mistakes_skin: default           # other built-in skins: air, sun, dark, etc.
 
 ###############################################################################
-# Navigation – choose which pages appear in the top bar & in what order
-###############################################################################
-header_pages:                              # add pages in the order you want
-  - index.md        # Home / Bio
-  - cv.md           # Curriculum Vitae
-  - projects.md     # Personal projects
-  - contact.md      # How to reach me
-
-###############################################################################
-# Social links (shown as small icons in the header)
-###############################################################################
-github_username:  pauldmartinphd
-linkedin_username: pauldmartinphd
-# twitter_username:  <if you ever add one>
-
-###############################################################################
-# Build-time plugins that GitHub Pages supports natively
+#  Plugins (GitHub Pages-compatible)
 ###############################################################################
 plugins:
-  - jekyll-feed     # automatic RSS/Atom feed
-  - jekyll-seo-tag  # basic SEO / social-card metadata
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache                 # required by Minimal Mistakes’ sidebar
 
 ###############################################################################
-# Defaults – apply the same layout to every Markdown file automatically
+#  Author information (used in sidebars & meta tags)
+###############################################################################
+author:
+  name:   "Paul D. Martin, Ph.D."
+  avatar: "/ProfilePicturePhoto.jpg"     # reuse the same headshot
+  bio:    "Researcher · Educator · Innovator"
+  links:
+    - label: "GitHub"
+      icon:  "fab fa-github"
+      url:   "https://github.com/pauldmartinphd"
+    - label: "LinkedIn"
+      icon:  "fab fa-linkedin"
+      url:   "https://www.linkedin.com/in/pauldmartinphd/"
+
+###############################################################################
+#  Site-wide defaults for pages & posts
 ###############################################################################
 defaults:
   - scope:
-      path: ""              # all files
+      path: ""            # all posts
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+  - scope:
+      path: ""            # all standalone pages
       type: "pages"
     values:
-      layout: default       # provided by the Minimal theme
+      layout: single
+      author_profile: false
+
+###############################################################################
+#  Pagination (blog index) – optional
+###############################################################################
+paginate:      5
+paginate_path: "/blog/page:num/"
+
+###############################################################################
+#  Optional features
+###############################################################################
+search: true                     # enables Lunr-based on-site search
+# google_analytics: "G-XXXXXXXXXX"  # uncomment & add your ID if desired
