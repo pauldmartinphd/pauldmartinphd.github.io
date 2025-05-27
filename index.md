@@ -1,6 +1,5 @@
 I build trustworthy computing systems—from bare-metal firmware to cloud-scale analytics.  
 
-
 Today I serve as **Chief Scientist at Harbor Experts**, leading embedded-security R & D and supervising a multilingual team that has performed **100 + source-code reviews** in C/C++, Go, Java, Python, Swift, Kotlin, JavaScript, TypeScript and other languages. I also provide **expert-witness testimony** in high-stakes technology matters, performing analysis and translating evidence for judges and juries.
 At **Johns Hopkins University** I lecture on computer & network security, applied cryptography, hardware systems and software development.
 
