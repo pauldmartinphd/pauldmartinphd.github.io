@@ -7,8 +7,8 @@ Selected projects
 ---------------
 
 * **Firmware IQ** – automated engine that unpacks embedded-device firmware and runs 100 + static checks to surface vulnerabilities including through cross-reference to NIST National Vulnerability Database.  
-* **CPU-side control-flow monitor** – CPU add-on that enforces control-flow integrity on IoT-class CPUs.  
-* **Smart-grid anomaly dashboard** – real-time traffic-visualisation platform now sold commercially as part of SecureSmart MSS.
+* **Sentinel** – CPU add-on that builds control-flow subgraph profiles on IoT-class CPUs.  
+* **Smart-grid Anamoly Detection** – real-time traffic-visualisation platform now sold commercially as part of SecureSmart MSS.
 
 Impact & outreach
 -----------------
