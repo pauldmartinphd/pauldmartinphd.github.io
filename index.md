@@ -1,6 +1,6 @@
 <div align="center">
 
-![Paul Martin headshot](/Personal Portrait.jpg){: width="160" style="border-radius:50%;"}
+![Paul Martin headshot](/portrait.jpg){: width="160" style="border-radius:50%;"}
 
 # Paul D. Martin
 
