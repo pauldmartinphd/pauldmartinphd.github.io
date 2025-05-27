@@ -14,20 +14,3 @@ A selection of ongoing and archived projects.
 | 2023 | **MARS Initiative** | Non-profit for digital preservation & right-to-repair education. |
 
 Add rows (or sub-sections) as you like; the table keeps things concise.
-
----
-
-## 3  Ensure navigation links exist
-
-Edit (or create) `_data/navigation.yml` so it lists the two pages **exactly**:
-
-```yaml
-main:
-  - title: "Bio"
-    url:   /
-  - title: "CV"
-    url:   /cv/
-  - title: "Projects"
-    url:   /projects/
-  - title: "Contact"
-    url:   /contact/
