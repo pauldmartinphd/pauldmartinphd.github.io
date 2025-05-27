@@ -1,9 +1,9 @@
 ###############################################################################
 # Basic site identity
 ###############################################################################
-title:  "Paul D. Martin"
+title:  "Paul D. Martin, Ph.D."
 description: |
-  Computer scientist and educator.  Research, writing, and personal projects.
+  **Hacker · Educator · Innovator**  Courses, writing, and projects.
 url:  "https://pauldmartinphd.github.io"   # no trailing slash
 baseurl: ""                                # keep blank for a user-page repo
 
