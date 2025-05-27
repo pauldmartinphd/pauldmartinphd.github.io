@@ -64,5 +64,5 @@ paginate_path: "/blog/page:num/"
 ###############################################################################
 #  Optional features
 ###############################################################################
-search: true                     # enables Lunr-based on-site search
+search: false                     # enables Lunr-based on-site search
 # google_analytics: "G-XXXXXXXXXX"  # uncomment & add your ID if desired
