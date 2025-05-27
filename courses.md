@@ -5,7 +5,7 @@ permalink: /courses/
 #author_profile: false
 ---
 
-### Current teaching
+### Courses
 
 - **Computer Architecture (JHU 600.4xx)** – lecture notes, labs, and slide decks.  
 - **Operating Systems Security (JHU 600.6xx)** – syllabus & assignments.
