@@ -38,7 +38,7 @@ author:
       url:   "https://www.linkedin.com/in/pauldmartinphd/"
     - label: "Google Scholar"
       icon:  "ai ai-google-scholar"        # Academicons icon; works with Minimal Mistakes
-      url:   "https://scholar.google.com/citations?user=YOUR_ID"
+      url:   "https://scholar.google.com/citations?user=lmafl-QAAAAJ"
     - label: "GitHub"
       icon:  "fab fa-github"
       url:   "https://github.com/pauldmartinphd"
@@ -71,5 +71,6 @@ paginate_path: "/blog/page:num/"
 ###############################################################################
 #  Optional features
 ###############################################################################
+academicons: true
 search: false                     # enables Lunr-based on-site search
 # google_analytics: "G-XXXXXXXXXX"  # uncomment & add your ID if desired
