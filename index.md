@@ -8,7 +8,7 @@ Selected projects
 
 * **[Firmware IQ](https://harborlabs.com/firmwareiq/)** – automated engine that unpacks embedded-device firmware and runs 100 + static checks to surface vulnerabilities including through cross-reference to NIST National Vulnerability Database.  
 * **[Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC)** – CPU add-on that builds control-flow subgraph profiles on IoT-class CPUs.  
-* **[Smart-grid Anamoly Detection](https://patents.google.com/patent/US9667521B2/en?oq=US+9%2c667%2c521+B2)** – real-time smart-grid traffic-visualisation platform.
+* **[Smart grid traffic profiling and visualization](https://patents.google.com/patent/US9667521B2/en?oq=US+9%2c667%2c521+B2)** – real-time smart grid traffic-visualisation platform.
 
 Impact & outreach
 -----------------
