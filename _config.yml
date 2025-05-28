@@ -2,7 +2,7 @@
 #  Basic site identity
 ###############################################################################
 title:       "Paul D. Martin, Ph.D."
-tagline:     "Researcher · Educator · Innovator"
+tagline:     "Scientist · Educator · Innovator"
 description: "Teaching, writing, and projects."
 url:         "https://pauldmartinphd.github.io"   # no trailing slash
 baseurl:     ""                                   # blank for user-site repos
