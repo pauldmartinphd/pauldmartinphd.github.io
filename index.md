@@ -15,7 +15,7 @@ Impact & outreach
 
 * Author of peer-reviewed papers on embedded security, multifactor authentication, and large-scale audit analysis.  
 * Six U.S. patents; program-committee member for the **IEEE Symposium on Security & Privacy**.  
-* **Whitepapers** on best practices for source-code review, differential comparison, and code quality analysis.  
+* **Whitepapers** on best practices for source-code review, differential code comparison, and code quality analysis.  
 
 When not teaching or writing code, I restore vintage hardware, curate retro-computing archives, and mentor emerging engineers on hands-on security and technical projects.
 
