@@ -3,7 +3,7 @@
 ###############################################################################
 title:       "Paul D. Martin, Ph.D."
 tagline:     "Scientist · Educator · Innovator"
-description: "Teaching, writing, and projects."
+description: "Teaching, projects, and writing."
 url:         "https://pauldmartinphd.github.io"   # no trailing slash
 baseurl:     ""                                   # blank for user-site repos
 #logo:        "/assets/ProfilePicturePhoto.jpg"           # adjust path if you relocate the file
