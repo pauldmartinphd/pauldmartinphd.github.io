@@ -1,5 +1,5 @@
 ---
-title: "Paul Martin"
+title: "Bio"
 layout: single
 permalink: /
 
