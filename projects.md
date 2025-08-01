@@ -14,6 +14,8 @@ This page highlights a selection of my ongoing and archived projects. These incl
 |------|---------|---------|
 | 2025 | [**RetroGPU vGPU**](https://github.com/pauldmartinphd/RetroGPU-vGPU) | Virtual GPU engineering project converting the Xbox NV2A core into a GeForce 3-class vGPU and enabling Radeon 7000-class virtualization for accurate 3D-accelerated QEMU emulation of PowerPC and UNIX workstations. |
 
+| 2025 | [**CrystalHD macOS PowerPC Port**](https://github.com/davilla/crystalhd-for-osx) | Porting the CrystalHD driver to Mac OS X 10.4 and 10.5 on PowerPC systems to enable hardware-accelerated 1080p H.264 video decoding. This project restores high-definition video playback capabilities to legacy PowerPC Macs, extending their practical use for modern media. |
+
 ---
 
 ## TechniComp Labs
@@ -29,7 +31,6 @@ This page highlights a selection of my ongoing and archived projects. These incl
 | Year | Project | Summary |
 |------|---------|---------|
 | 2025 | [**TechniComp LabStation**](https://github.com/TechniCompLabs/LabStation) | Stable Linux workstation OS built on an immutable openSUSE Slowroll base with the Linux LTS kernel, GNOME Oldstable, and substantial latency improvements. Designed for long-term reliability and scientific workloads. |
-| 2025 | [**TechniComp Labs Organization**](https://github.com/TechniCompLabs) | Central hub for TechniComp’s open-source initiatives, including OS development, digital preservation tools, and educational resources. |
 
 ---
 

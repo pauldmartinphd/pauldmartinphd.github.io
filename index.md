@@ -36,7 +36,7 @@ An inventor on **six U.S. patents** and a published researcher, I specialize in 
   - Holder of six U.S. patents in binary analysis, network traffic profiling, data-security analytics, and IoT monitoring.  
 
 - **Teaching and Mentorship**  
-  - Lecturer at Johns Hopkins University, teaching courses in computer security, applied cryptography, and hardware systems.  
+  - Lecturer at Johns Hopkins University, teaching courses in computer science, computer security security and applied cryptography.  
   - Mentor to engineers and students in hands-on security research and technical projects.  
 
 ---
