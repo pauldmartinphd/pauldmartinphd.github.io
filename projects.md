@@ -4,7 +4,7 @@ layout: single
 permalink: /projects/
 ---
 
-This page highlights a selection of my ongoing and archived projects. These span my current research and development efforts, litigation-related experimental work, decades of hardware and firmware engineering, and my long-standing contributions to security research and computing history.
+This page highlights a selection of my ongoing and archived projects. These include current research and open-source development, litigation-related experimental work, decades of BIOS and firmware engineering, and contributions to security research and computing history.
 
 ---
 
@@ -12,46 +12,43 @@ This page highlights a selection of my ongoing and archived projects. These span
 
 | Year | Project | Summary |
 |------|---------|---------|
-| 2025 | [**TechniComp LabStation**](https://github.com/pauldmartinphd/TechniComp-LabStation) | Developing an immutable Linux workstation OS based on openSUSE MicroOS with a binary update pipeline designed for long-term stability and reproducible builds. |
-| 2025 | [**RetroGPU vGPU**](https://github.com/pauldmartinphd/RetroGPU-vGPU) | Building a Radeon 7000-class virtual GPU and adapting the Xbox NV2A core to a GeForce 3 vGPU for 3D-accelerated QEMU emulation of PowerPC and UNIX workstations. |
-| 2025 | [**TechniComp Labs**](https://github.com/pauldmartinphd/TechniComp-Labs) | Non-profit organization focused on digital preservation, right-to-repair advocacy, and educational outreach to teach modern computing concepts through historical systems. |
-| 2022 | [**Firmware Security Research**](https://github.com/pauldmartinphd/Firmware-Security) | Research on automated analysis of embedded firmware, including binary version extraction and vulnerability profiling for large-scale IoT ecosystems. |
-| 2021 | [**Vintage Computing Archives**](https://github.com/pauldmartinphd/Vintage-Computing) | Preservation and restoration of legacy hardware and software, curating archives of early operating systems, development tools, and computing artifacts for educational use. |
+| 2025 | [**TechniComp LabStation**](https://github.com/pauldmartinphd/TechniComp-LabStation) | Stable Linux workstation OS under the TechniComp Labs umbrella. Built on openSUSE Slowroll with an immutable, LTS kernel and significant latency improvements, designed for long-term reliability and scientific workloads. |
+| 2025 | [**RetroGPU vGPU**](https://github.com/pauldmartinphd/RetroGPU-vGPU) | Virtual GPU engineering project converting the Xbox NV2A core into a GeForce 3-class vGPU and enabling Radeon 7000-class virtualization for accurate 3D-accelerated QEMU emulation of PowerPC and UNIX workstations. |
+| 2025 | [**TechniComp Labs**](https://github.com/pauldmartinphd/TechniComp-Labs) | Non-profit organization dedicated to digital preservation, right-to-repair advocacy, education, and open-source development. Home to TechniComp LabStation and other long-term software projects. |
 
 ---
 
 ## Hardware and Embedded Systems Engineering
 
-Over more than a decade, I have built, modified, and restored dozens of computing systems, focusing on firmware security, embedded hardware modification, and performance engineering. Selected projects include:
+For over a decade, I have modified and engineered computing systems with a focus on BIOS development, custom firmware, and embedded device security. Selected projects include:
 
-- **ThinkPad BIOS Modifications** – Custom BIOS and embedded controller work for ThinkPad X-series and T-series laptops, including overclocking, advanced firmware tuning, and coreboot installations.
-- **Custom Console Firmware** – Engineering custom firmware and hardware modifications for Xbox 360, PS3, PSP, and other gaming systems, including reverse engineering and exploitation research.
-- **Embedded Firmware Reverse Engineering** – Analysis of embedded devices without access to source code, reconstructing binary artifacts for security review and litigation-related experiments.
-- **CPU-Level Control-Flow Integrity Tooling** – Designed a processor add-on for IoT-class CPUs that performs control-flow profiling to improve execution integrity and detect tampering.
-- **High-Performance Linux Workstations** – Numerous custom Linux workstation builds optimized for low-latency, high-performance computing and reverse engineering workloads.
+- **Computer BIOS Modification and Custom Firmware** – Engineering BIOS and low-level firmware for laptops, desktops, and servers to enable advanced features, custom hardware support, and secure boot processes.
+- **Embedded Firmware Reverse Engineering** – Analysis and reconstruction of firmware for embedded devices without source code access, used in both security research and litigation support.
+- **Processor-Level Control-Flow Integrity Tooling** – Designed an add-on security mechanism for IoT-class CPUs that profiles and enforces control-flow integrity.
+- **Scientific Performance Engineering on Linux Workstations** – Profiling, measuring, and improving Linux system latency and throughput for research and high-performance computing environments.
 
 ---
 
 ## Security Research Tools and Platforms
 
-I have developed a range of tools and techniques for vulnerability analysis, binary security research, and large-scale data analytics. Highlights include:
+I have developed platforms and proprietary tooling for large-scale vulnerability discovery, binary analysis, and forensic software engineering:
 
-- **Firmware IQ** – Automated firmware unpacking and vulnerability detection engine performing more than 100 static checks and NVD cross-referencing.
-- **Binary Analysis Tooling** – A suite of proprietary tools for differential code comparison, reverse engineering, and vulnerability discovery used in over 100 litigation engagements.
-- **Audit Log Analytics Platform** – A Hadoop-based system for large-scale healthcare IT audit analysis, generating human-readable compliance reports and visualizations.
-- **Smart Grid Traffic Profiling and Visualization** – A patented platform for real-time network traffic analysis and anomaly detection in smart grid environments.
-- **Custom Experimental Design** – Bespoke experiments developed to reconstruct technical evidence and analyze device behavior in cases where source code is incomplete, missing, or inaccessible.
+- **Firmware IQ** – Automated firmware unpacking and vulnerability detection engine performing 100+ static checks with NVD cross-referencing.
+- **Binary Analysis Tools** – A suite of techniques for reverse engineering, code differencing, and security flaw identification, deployed in over 100 litigation and consulting engagements.
+- **Audit Log Analytics Platform** – Hadoop-based healthcare IT compliance analysis system producing automated reports and data visualizations.
+- **Smart Grid Traffic Profiling and Visualization** – Patented real-time anomaly detection system for monitoring and securing smart grid network traffic.
+- **Custom Technical Experiments** – Bespoke experiments and device-level analysis to reconstruct technical evidence where source code is incomplete or missing.
 
 ---
 
 ## Teaching, Outreach, and Digital Preservation
 
-In addition to my litigation and R&D work, I have contributed extensively to education and digital history initiatives:
+Beyond active consulting and research, I maintain long-term commitments to teaching and preserving computing history:
 
-- **Hardware Hacking Course** – Designed and taught a top-rated course at Johns Hopkins University covering hardware analysis, firmware reverse engineering, and secure embedded system design.
-- **Mentorship and Advising** – Guided engineers and students in hands-on security research, embedded development, and technical expert work.
-- **Retrocomputing Archives** – Long-running effort to restore, document, and curate vintage computing hardware, from early IBM PCs and Apple systems to classic gaming consoles.
-- **Digital Preservation** – Created and maintained archives of early operating systems, compilers, and digital artifacts to support research, education, and historical preservation.
+- **Hardware Hacking Course** – Designed and instructed a top-rated course at Johns Hopkins University on hardware modification, binary reverse engineering, and embedded system security.
+- **Mentorship and Advising** – Guided engineers and students in hands-on technical security research and expert witness methodology.
+- **Retrocomputing Archives and Restoration** – Restored and curated a large collection of historical computing systems and peripherals for preservation and study.
+- **Digital Preservation Projects** – Created and maintained archives of early operating systems, compilers, and computing artifacts for public access and education.
 
 ---
 
