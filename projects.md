@@ -18,7 +18,7 @@ This page highlights a selection of my ongoing and archived projects. These incl
 
 ## TechniComp Labs
 
-[TechniComp Labs](https://github.com/TechniCompLabs) is a non-profit organization and dedicated GitHub organization focused on:
+[TechniComp](https://github.com/TechniCompLabs) is focused on:
 
 - **Digital Preservation and Right-to-Repair** – Maintaining and documenting historical computing systems and advocating for open repairability.  
 - **Educational Outreach** – Teaching modern computing concepts through hands-on engineering and historical computing paradigms.  

@@ -1,3 +1,10 @@
+---
+title: "Paul Martin"
+layout: single
+permalink: /
+
+---
+
 I build trustworthy computing systems—from bare-metal firmware to cloud-scale analytics.  
 
 As **Chief Scientist at Harbor Experts** and a **Lecturer in Computer Science at Johns Hopkins University**, I combine hands-on engineering with expert testimony in high-stakes litigation. I’ve performed **technical analyses and source code reviews in over 100 matters**, testified in federal and state courts, and am known for designing **custom experiments and reconstructing technical evidence even in cases where source code is lost or unavailable**.  
