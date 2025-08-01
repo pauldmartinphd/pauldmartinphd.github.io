@@ -1,22 +1,27 @@
+# Paul D. Martin, Ph.D.
+
 I build trustworthy computing systems—from bare-metal firmware to cloud-scale analytics.  
 
-Today I serve as **Chief Scientist at Harbor Experts**, leading embedded-security R & D and supervising a multilingual team that has performed **100 + source-code reviews** in C/C++, Go, Java, Python, Swift, Kotlin, JavaScript, TypeScript and other languages. I also provide **expert-witness testimony** in high-stakes technology matters, performing analysis and presenting evidence to judges and juries.
-At **Johns Hopkins University** I lecture on computer & network security, applied cryptography, hardware systems and software development.
+As **Chief Scientist at Harbor Experts** and a **Lecturer in Computer Science at Johns Hopkins University**, I combine hands-on engineering with expert testimony in high-stakes litigation. I’ve performed **technical analyses and source code reviews in over 100 matters**, testified in federal and state courts, and am known for designing **custom experiments and reconstructing technical evidence even in cases where source code is lost or unavailable**.  
 
-Selected projects
----------------
+An inventor on **six U.S. patents** and a published researcher, I specialize in software and operating system security, embedded systems, reverse engineering, and network protocol analysis. My work spans everything from modifying hardware and firmware to designing automated analysis engines and building secure cloud-based platforms.  
 
-* **[Firmware IQ](https://harborlabs.com/firmwareiq/)** – automated engine that unpacks embedded-device firmware and runs 100 + static checks to surface vulnerabilities including through cross-reference to NIST National Vulnerability Database.  
-* **[Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC)** – CPU add-on that builds control-flow subgraph profiles on IoT-class CPUs.  
-* **[Smart grid traffic profiling and visualization](https://patents.google.com/patent/US9667521B2/en?oq=US+9%2c667%2c521+B2)** – real-time smart grid traffic-visualisation platform.
+---
 
-Impact & outreach
------------------
+## Selected Projects
 
-* Author of peer-reviewed papers on embedded security, multifactor authentication, and large-scale audit analysis.  
-* Six U.S. patents; program-committee member for the **IEEE Symposium on Security & Privacy**.  
-* **Whitepapers** on best practices for source-code review, differential code comparison, and code quality analysis.  
+- **[Firmware IQ](https://harborlabs.com/firmwareiq/):** Automated engine that unpacks embedded-device firmware and performs 100+ security checks, cross-referencing vulnerabilities with NIST’s National Vulnerability Database.  
+- **[Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC):** A CPU add-on for IoT-class processors that builds control-flow profiles to enhance embedded system security.  
+- **[Smart Grid Traffic Profiling](https://patents.google.com/patent/US9667521B2/en?oq=US+9%2c667%2c521+B2):** Real-time visualization platform for analyzing and securing smart grid network traffic.  
 
-When not teaching or writing code, I restore vintage hardware, curate retro-computing archives, and mentor emerging engineers on hands-on security and technical projects.
+---
+
+## Impact & Outreach
+
+- **Publications:** Peer-reviewed research in embedded security, multifactor authentication, and large-scale audit analysis.  
+- **Patents:** Six U.S. patents in binary analysis, data security analytics, and network traffic profiling.  
+- **Community:** Mentor to emerging engineers; restorer and curator of vintage computing hardware; creator of retro-computing archives and educational resources.  
+
+---
 
 [Download CV (PDF)](/assets/PaulMartin-CV.pdf)
