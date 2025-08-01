@@ -12,9 +12,24 @@ This page highlights a selection of my ongoing and archived projects. These incl
 
 | Year | Project | Summary |
 |------|---------|---------|
-| 2025 | [**TechniComp LabStation**](https://github.com/pauldmartinphd/TechniComp-LabStation) | Stable Linux workstation OS under the TechniComp Labs umbrella. Built on openSUSE Slowroll with an immutable, LTS kernel and significant latency improvements, designed for long-term reliability and scientific workloads. |
 | 2025 | [**RetroGPU vGPU**](https://github.com/pauldmartinphd/RetroGPU-vGPU) | Virtual GPU engineering project converting the Xbox NV2A core into a GeForce 3-class vGPU and enabling Radeon 7000-class virtualization for accurate 3D-accelerated QEMU emulation of PowerPC and UNIX workstations. |
-| 2025 | [**TechniComp Labs**](https://github.com/pauldmartinphd/TechniComp-Labs) | Non-profit organization dedicated to digital preservation, right-to-repair advocacy, education, and open-source development. Home to TechniComp LabStation and other long-term software projects. |
+
+---
+
+## TechniComp Labs
+
+[TechniComp Labs](https://github.com/TechniCompLabs) is a non-profit organization and dedicated GitHub organization focused on:
+
+- **Digital Preservation and Right-to-Repair** – Maintaining and documenting historical computing systems and advocating for open repairability.  
+- **Educational Outreach** – Teaching modern computing concepts through hands-on engineering and historical computing paradigms.  
+- **Open-Source Development** – Producing tools and software that promote sustainability, hardware longevity, and secure computing practices.
+
+### TechniComp Projects
+
+| Year | Project | Summary |
+|------|---------|---------|
+| 2025 | [**TechniComp LabStation**](https://github.com/TechniCompLabs/LabStation) | Stable Linux workstation OS built on an immutable openSUSE Slowroll base with the Linux LTS kernel, GNOME Oldstable, and substantial latency improvements. Designed for long-term reliability and scientific workloads. |
+| 2025 | [**TechniComp Labs Organization**](https://github.com/TechniCompLabs) | Central hub for TechniComp’s open-source initiatives, including OS development, digital preservation tools, and educational resources. |
 
 ---
 
