@@ -59,4 +59,4 @@ An inventor on **six U.S. patents** and a published researcher, I specialize in 
 
 ---
 
-[Download CV (PDF)](/assets/PaulMartin-CV.pdf)
+[Download CV (PDF)](/files/PaulMartin-CV.pdf)
