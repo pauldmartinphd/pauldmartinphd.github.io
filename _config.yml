@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "files/ProfilePicturePhoto.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Paul D. Martin, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Scientist · Educator · Innovator"
   location         : "Washington, DC"
-  employer         : # "Red Brick University"
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "pmartin@pauldmartin.org" 
 
