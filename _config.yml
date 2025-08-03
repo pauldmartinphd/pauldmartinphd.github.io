@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title:                   : "Paul D. Martin, Ph.D."
+title                    : "Paul D. Martin, Ph.D."
 title_separator          : "-"
 name                     : &name "Paul D. Martin, Ph.D."
 description              : &description "Teaching, projects, and writing"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "files/ProfilePicturePhoto.jpg"
-  name             : "Paul D. Martin, Ph.D."
+  name             : "Paul D. Martin"
   pronouns         : # example: "she/her"  
   bio              : "Scientist · Educator · Innovator"
   location         : "Washington, DC"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "pmartin@pauldmartin.org" 
 
