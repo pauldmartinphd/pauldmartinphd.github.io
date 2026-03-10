@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Publications</h2>
-
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -21,7 +19,7 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
+        <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
@@ -33,33 +31,22 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-<h2>U.S. Patents</h2>
+<h2>U.S. Patents</h2><hr />
 
-<div class="archive__item">
-  <h2 class="archive__item-title">System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries</h2>
-  <p class="archive__item-excerpt">US 10,762,214 B1</p>
-</div>
+<p><strong>US 10,762,214 B1</strong> &mdash; System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries</p>
 
-<div class="archive__item">
-  <h2 class="archive__item-title">System and Method for Network Traffic Profiling and Visualization</h2>
-  <p class="archive__item-excerpt">US 10,230,599 B2</p>
-</div>
+<p><strong>US 10,230,599 B2</strong> &mdash; System and Method for Network Traffic Profiling and Visualization</p>
 
-<div class="archive__item">
-  <h2 class="archive__item-title">System and Method for Network Traffic Profiling and Visualization</h2>
-  <p class="archive__item-excerpt"><a href="https://patents.google.com/patent/US9667521B2/">US 9,667,521 B2</a></p>
-</div>
+<p><strong><a href="https://patents.google.com/patent/US9667521B2/">US 9,667,521 B2</a></strong> &mdash; System and Method for Network Traffic Profiling and Visualization</p>
 
-<div class="archive__item">
-  <h2 class="archive__item-title">Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control</h2>
-  <p class="archive__item-excerpt">US 8,984,583 B2</p>
-</div>
+<p><strong>US 8,984,583 B2</strong> &mdash; Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control</p>
 
-<div class="archive__item">
-  <h2 class="archive__item-title">Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control</h2>
-  <p class="archive__item-excerpt">US 9,438,632 B2</p>
-</div>
+<p><strong>US 9,438,632 B2</strong> &mdash; Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control</p>
 
-<h2>Program Committees</h2>
+<h2>Dissertation</h2><hr />
+
+<p>P. Martin, <em>Securing Medical Devices and Protecting Patient Privacy in the Technological Age of Healthcare</em>, Ph.D. Dissertation, Johns Hopkins University, February 2016. [<a href="https://www.cs.jhu.edu/seminars/2016/spring/february12/paul-martin/">JHU Seminar</a>]</p>
+
+<h2>Program Committees</h2><hr />
 
 <p>IEEE Symposium on Security and Privacy &mdash; Program Committee Member (Winter 2024, Summer 2024)</p>
