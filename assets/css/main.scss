@@ -40,3 +40,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom font size override: reduce body text while preserving heading sizes */
+body {
+  font-size: 14px;
+}
+
+h1 { font-size: 25px; }
+h2 { font-size: 20px; }
+h3 { font-size: 16px; }
+
+.page__title {
+  font-size: 25px;
+  @media (min-width: 48em) {
+    font-size: 31px;
+  }
+}
