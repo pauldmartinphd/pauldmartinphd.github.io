@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Paul D. Martin, Ph.D.",
+    "email": "paul@harborexperts.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://pauldmartinphd.github.io",
+    "summary": "Chief Scientist at Harbor Experts and Lecturer at Johns Hopkins University. Expert witness in software security, embedded systems, and reverse engineering with testimony experience in federal and state courts, the ITC, and inter partes reviews.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Washington",
       "countryCode": "US",
-      "region": ""
+      "region": "DC"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=lmafl-QAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0000-0002-6035-7496"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "pauldmartinphd",
+        "url": "https://github.com/pauldmartinphd"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Johns Hopkins University",
+      "area": "Ph.D. Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2011",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Johns Hopkins University",
+      "area": "M.S.E. Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2011",
+      "endDate": "2013",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Johns Hopkins University",
+      "area": "B.S. Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2007",
+      "endDate": "2011",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +66,71 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Sentinel: Secure Mode Profiling and Enforcement for Embedded Systems",
+      "publisher": "Proc. ACM/IEEE International Conference on Internet-of-Things Design and Implementation (IoTDI '18)",
+      "releaseDate": "2018-04-01",
+      "website": "",
+      "summary": "Hardware-based security system for IoT-class embedded devices providing control-flow integrity through runtime profiling and enforcement."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Applications of Secure Location Sensing in Healthcare",
+      "publisher": "Proc. ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB '16)",
+      "releaseDate": "2016-10-01",
+      "website": "",
+      "summary": "Secure indoor location tracking system using unspoofable Bluetooth Low Energy beacons for healthcare authentication."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "KBID: Kerberos Bracelet Identification",
+      "publisher": "Proc. Financial Cryptography and Data Security (FC '16)",
+      "releaseDate": "2016-02-01",
+      "website": "",
+      "summary": "Authentication bracelet using Kerberos tickets transmitted over the wearer's skin for password-free authentication."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Classifying Network Protocol Implementation Versions: An OpenSSL Case Study",
+      "publisher": "Technical Report 13-01, Johns Hopkins University",
+      "releaseDate": "2013-12-01",
+      "website": "",
+      "summary": "Techniques for fingerprinting and classifying specific versions of network protocol implementations."
+    },
+    {
+      "name": "Enforcing Minimum Necessary Access in Healthcare Through Integrated Audit and Access Control",
+      "publisher": "Proc. ACM BCB-HIS",
+      "releaseDate": "2013-09-01",
+      "website": "",
+      "summary": "System for enforcing minimum necessary access in healthcare through large-scale audit log analysis and access control integration."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Intermediate Programming",
+      "institution": "Johns Hopkins University",
+      "date": "2025-01-01",
+      "role": "Lecturer",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Security and Privacy in Computing",
+      "institution": "Johns Hopkins University",
+      "date": "2024-01-01",
+      "role": "Lecturer",
       "description": ""
+    },
+    {
+      "course": "Security and Privacy in Computing",
+      "institution": "Johns Hopkins University",
+      "date": "2023-01-01",
+      "role": "Lecturer",
+      "description": ""
+    },
+    {
+      "course": "Introduction to Hardware Hacking",
+      "institution": "Johns Hopkins University",
+      "date": "2015-01-01",
+      "role": "Instructor",
+      "description": "Highest-rated course in the CS department during its session."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

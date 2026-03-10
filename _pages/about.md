@@ -1,61 +1,55 @@
 ---
 permalink: /
-title: "Bio"
+title: "Paul D. Martin, Ph.D."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I build trustworthy computing systems—from bare-metal firmware to cloud-scale analytics.  
+I am the Chief Scientist at [Harbor Experts](https://harborexperts.com) and a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/). I build trustworthy computing systems, from bare-metal firmware to cloud-scale analytics, and I help attorneys and their clients understand complex technical issues in high-stakes litigation.
 
-As **Chief Scientist at Harbor Experts** and a **Lecturer in Computer Science at Johns Hopkins University**, I combine hands-on engineering with expert testimony in high-stakes litigation. I’ve performed **technical analyses and source code reviews in over 100 matters**, testified in federal and state courts, and am known for designing **custom experiments and reconstructing technical evidence even in cases where source code is lost or unavailable**.  
-
-An inventor on **six U.S. patents** and a published researcher, I specialize in software and operating system security, embedded systems, reverse engineering, and network protocol analysis. My work spans everything from modifying hardware and firmware to designing automated analysis engines and building secure cloud-based platforms.  
+I earned my B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where my doctoral research focused on securing medical devices and protecting patient privacy. I am a named inventor on six U.S. patents, a published researcher in embedded security and applied cryptography, and a member of the program committee for the IEEE Symposium on Security and Privacy.
 
 ---
 
-## Capabilities
+## Expert Witness
 
-- **Expert Witness Services**  
-  - Testimony in federal and state courts, International Trade Commission investigations, and inter partes reviews.  
-  - Proven ability to explain complex technical concepts to judges and juries.  
+I have served as a testifying and consulting expert in over 50 matters across federal and state courts, the International Trade Commission, and inter partes reviews. I have been deposed more than a dozen times and have testified at trial in the ITC and in federal district court. Attorneys have praised my ability to teach complex technical concepts to judges and juries in a clear and approachable manner.
 
-- **Custom Experimental Design**  
-  - Designs and executes bespoke technical experiments to address critical questions in litigation, cybersecurity, and advanced engineering analysis.  
-  - Reconstructs technical evidence and performs forensic analysis even in cases where source code is lost or unavailable.  
+My expert work spans software and firmware security, reverse engineering, source code analysis, cryptography, embedded systems, network protocols, and more. I have led and managed **over 100 large-scale source code reviews** spanning systems that range from thousands to billions of lines of code.
 
-- **Source Code and Binary Analysis**  
-  - Led over 100 large-scale source code reviews spanning millions of lines of code.  
-  - Deep expertise in binary reverse engineering, differential code comparison, and code quality analysis.  
+What distinguishes my practice is that I design and execute **custom experiments** to answer critical questions in litigation, and I can work cases where **source code is lost or unavailable** through binary reverse engineering and forensic reconstruction. I do not simply opine on paper; I build, test, and demonstrate.
 
-- **Embedded Systems and Hardware Security**  
-  - Hands-on experience with firmware, device security, and embedded control systems.  
-  - Inventor of tools and techniques for vulnerability detection in embedded devices.  
-
-- **Software and Network Security Research**  
-  - Published peer-reviewed research in embedded security, authentication technologies, and secure communications protocols.  
-  - Holder of six U.S. patents in binary analysis, network traffic profiling, data-security analytics, and IoT monitoring.  
-
-- **Teaching and Mentorship**  
-  - Lecturer at Johns Hopkins University, teaching courses in computer science, computer security security and applied cryptography.  
-  - Mentor to engineers and students in hands-on security research and technical projects.  
+[View all expert witness engagements &rarr;](/expert-witness/)
 
 ---
 
-## Selected Projects
+## Research & Invention
 
-- **[Firmware IQ](https://harborlabs.com/firmwareiq/):** Automated engine that unpacks embedded-device firmware and performs 100+ security checks, cross-referencing vulnerabilities with NIST’s National Vulnerability Database.  
-- **[Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC):** A CPU add-on for IoT-class processors that builds control-flow profiles to enhance embedded system security.  
-- **[Smart Grid Traffic Profiling](https://patents.google.com/patent/US9667521B2/en?oq=US+9%2c667%2c521+B2):** Real-time visualization platform for analyzing and securing smart grid network traffic.  
+My research interests include embedded system security, operating system security, vulnerability analysis, reverse engineering, network protocol analysis, applied cryptography, and privacy-preserving protocols. Some of my research has formed the basis for commercial products: the integrated audit and access control system I developed was subsequently patented by Accenture, and the smart grid traffic visualization platform I designed at Applied Communication Sciences became part of their SecureSmart product offering.
+
+I designed and led development of [Firmware IQ](https://harborlabs.com/firmwareiq/), an automated engine that unpacks embedded-device firmware and performs over 100 security checks, cross-referencing discovered vulnerabilities with NIST's National Vulnerability Database. I also designed [Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC), a CPU add-on for IoT-class processors that builds control-flow profiles to enhance embedded system security.
+
+[View publications & patents &rarr;](/publications/)
 
 ---
 
-## Impact & Outreach
+## Teaching
 
-- **Publications:** Peer-reviewed research in embedded security, multifactor authentication, and large-scale audit analysis.  
-- **Patents:** Six U.S. patents in binary analysis, data security analytics, and network traffic profiling.  
-- **Community:** Mentor to emerging engineers; restorer and curator of vintage computing hardware; creator of retro-computing archives and educational resources.  
+At Johns Hopkins, I teach courses on computer and network security, applied cryptography, C/C++ programming, and developer tools. Previously, I co-instructed a course on hardware hacking that received the highest student ratings in the Computer Science department during its session. I was awarded the Computer Science Department Outstanding Teaching Assistant Award in 2014.
+
+My courses cover hardware and software security design, vulnerability assessment, reverse engineering, applied cryptography, computer architecture, networking, and hands-on emulation and virtualization techniques. My teaching philosophy emphasizes giving students real-world environments to work in and the tools to think critically about the systems they will build and secure.
+
+[View teaching experience &rarr;](/teaching/)
+
+---
+
+## Projects
+
+Beyond my professional and academic work, I maintain a deep hands-on practice with computing hardware and systems. I have built and maintained servers, modified hardware at the component level, designed custom firmware solutions, and reverse-engineered embedded systems. This hands-on experience directly informs my expert witness work, where the ability to understand systems at every layer of the stack, from transistors to application code, is essential.
+
+[View selected projects &rarr;](/portfolio/)
 
 ---
 

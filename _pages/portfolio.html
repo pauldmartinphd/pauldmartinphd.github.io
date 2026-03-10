@@ -1,14 +1,36 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<p>A selection of professional and personal projects spanning firmware security, embedded systems, hardware modification, server infrastructure, and systems engineering. These projects reflect the hands-on, full-stack approach I bring to my research, teaching, and expert witness work.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<hr />
+
+<h2>Professional & Research</h2>
+
+{% for post in site.portfolio reversed %}
+  {% if post.category == "professional" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
+<h2>Hardware & Embedded Systems</h2>
+
+{% for post in site.portfolio reversed %}
+  {% if post.category == "hardware" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Server Infrastructure & Virtualization</h2>
+
+{% for post in site.portfolio reversed %}
+  {% if post.category == "infrastructure" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
