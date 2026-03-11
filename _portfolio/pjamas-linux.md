@@ -2,7 +2,7 @@
 title: "PJAMAS Linux Distribution"
 excerpt: "Custom Gentoo-based Linux distribution and LiveCD build system designed for malware removal on low-performance Windows-era hardware."
 collection: portfolio
-category: professional
+category: student
 ---
 
 Developed in 2007, PJAMAS was a minimal Linux distribution compiled from scratch on Gentoo with a custom LiveCD build system. The distribution was tuned at the kernel and operating system level, including performance-critical subsystems, to minimize RAM footprint, reduce runtime overhead, and constrain binary size, allowing it to fully boot and run on low-performance desktop computers for the purpose of identifying and removing malware from infected Windows systems.

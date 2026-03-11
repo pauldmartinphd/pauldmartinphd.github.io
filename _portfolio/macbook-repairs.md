@@ -1,8 +1,10 @@
 ---
-title: "MacBook Component-Level Repair and Modification"
-excerpt: "Extensive component-level repair and modification work on Apple laptops, including logic board repair, ECU firmware flashing, screen upgrades, and serial number programming."
+title: "Component-Level Computer Repair and Restoration"
+excerpt: "Dedicated electronics lab for component-level repair, modification, and restoration of computers and vintage hardware including ThinkPads, MacBooks, and classic game consoles."
 collection: portfolio
 category: hardware
 ---
 
-Extensive hands-on repair and modification work across multiple generations of Apple MacBook and PowerBook hardware, including keyboard and trackpad replacements, screen upgrades (1920x1200 LCD modifications on MacBook Pro 15"), logic board heat gun repair, ECU firmware manual flashing (bypassing the ECU on boot), logic board serial number programming, and SuperDrive and RAM replacements. This work requires understanding of Apple's hardware design, firmware validation chains, and component-level electronics repair.
+Extensive hands-on component-level repair, modification, and restoration work across a wide range of computer hardware. Primary focus areas include ThinkPad and MacBook logic board repair, screen upgrades, ECU firmware flashing, serial number programming, and custom hardware modifications. I also repair and restore vintage computers and game consoles in a dedicated electronics lab equipped for surface-mount rework, diagnostic testing, and firmware programming.
+
+This work spans multiple generations of hardware and requires understanding of schematics, board-level diagnostics, firmware validation chains, and component-level electronics repair techniques.

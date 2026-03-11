@@ -34,3 +34,11 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<h2>Student & Early Projects</h2>
+
+{% for post in site.portfolio reversed %}
+  {% if post.category == "student" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
