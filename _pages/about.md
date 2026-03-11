@@ -13,6 +13,14 @@ He has provided expert testimony 18 times across 3 trials, 2 evidentiary hearing
 
 He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on six U.S. patents, a published researcher in embedded security and applied cryptography, and a member of the program committee for the IEEE Symposium on Security and Privacy.
 
+### Litigation Experience
+
+- 18 testimony appearances
+- 13 depositions
+- 3 trials
+- 2 evidentiary hearings
+- 100+ large-scale source code reviews
+
 ---
 
 ## Expert Witness
@@ -50,6 +58,10 @@ My courses cover hardware and software security design, vulnerability assessment
 Beyond my professional and academic work, I maintain a deep hands-on practice with computing hardware and systems. My [hardware analysis laboratory](/portfolio/#lab) is equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
 
 [View selected projects &rarr;](/portfolio/)
+
+---
+
+Dr. Martin also maintains a [technical laboratory site](https://technicomp.io) documenting systems research and hardware projects.
 
 ---
 

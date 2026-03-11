@@ -5,9 +5,9 @@ permalink: /expert-witness/
 author_profile: true
 ---
 
-I have served as a testifying and consulting expert in over 50 matters involving software security, firmware analysis, reverse engineering, source code review, cryptography, embedded systems, and network protocols. My engagements span federal and state courts, the International Trade Commission, and inter partes reviews before the Patent Trial and Appeal Board.
+Dr. Martin serves as both a testifying and consulting expert in complex litigation involving software systems, cybersecurity, embedded devices, and computer architecture. His work frequently involves large-scale source code review, reverse engineering of complex systems, analysis of embedded firmware, and explanation of computing systems to judges and juries.
 
-I design and execute custom experiments tailored to the specific technical questions at issue, and I am able to work cases where source code is lost or unavailable through binary reverse engineering and forensic reconstruction. I have led and managed over 100 large-scale source code reviews spanning systems from thousands to billions of lines of code.
+He has served as a testifying or consulting expert in over 50 matters across federal and state courts, the International Trade Commission, and inter partes reviews before the Patent Trial and Appeal Board. He designs and executes custom experiments tailored to the specific technical questions at issue, and is able to work cases where source code is lost or unavailable through binary reverse engineering and forensic reconstruction. He has led and managed over 100 large-scale source code reviews spanning systems from thousands to billions of lines of code.
 
 ---
 
@@ -33,6 +33,18 @@ Forensic analysis of mobile devices including software update mechanisms, device
 
 **Malware Analysis & Antivirus Technologies**
 Analysis of malware scanning gateways, endpoint protection systems, URL filtering, vulnerability assessment tools, and anti-phishing technologies. Includes evaluation of detection methodologies and assessment of security product effectiveness.
+
+---
+
+## Technical Methodology
+
+Dr. Martin's analyses typically involve:
+
+- Large-scale source code review across systems ranging from thousands to billions of lines
+- Reverse engineering of software and firmware when source code is unavailable
+- Firmware extraction and embedded system analysis
+- Design and execution of custom experiments to answer specific technical questions in dispute
+- Technical explanation of computing systems in depositions, hearings, and trial testimony
 
 ---
 
