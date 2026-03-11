@@ -3,7 +3,6 @@ title: "Smart Grid Traffic Profiling and Visualization"
 excerpt: "Real-time web-based dashboard for analyzing and securing smart grid network traffic. Subsequently patented and commercialized."
 collection: portfolio
 category: professional
-date: 2013-06-01
 ---
 
 Designed and implemented at Applied Communication Sciences (2013), this web-based traffic visualization dashboard and analysis system for field area smart grid networks provides real-time aggregation and visualization of multiple data streams. The system enables operators to quickly understand the current state of a smart grid network and detect unexpected anomalies.
