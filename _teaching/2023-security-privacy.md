@@ -1,5 +1,5 @@
 ---
-title: "Security and Privacy in Computing"
+title: "Security and Privacy in Computing (2023)"
 collection: teaching
 type: "Graduate/Undergraduate course"
 permalink: /teaching/2023-security-privacy
@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Baltimore, MD"
 ---
 
-Lecturer for the Security and Privacy in Computing course.
+Lecturer. See the [2024 offering](/teaching/2024-security-privacy) for course description.

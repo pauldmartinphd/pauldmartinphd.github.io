@@ -7,7 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-<p>A selection of professional and personal projects spanning firmware security, embedded systems, hardware modification, server infrastructure, and systems engineering. These projects reflect the hands-on, full-stack approach I bring to my research, teaching, and expert witness work.</p>
+<p>Selected projects reflecting the technical depth I bring to expert witness work, research, and teaching. These span firmware security, embedded systems, systems engineering, and hardware investigation.</p>
+
+<hr />
+
+<h2 id="lab">Hardware Analysis Laboratory</h2>
+
+<p>I maintain a dedicated hardware analysis laboratory equipped for the component-level investigation, firmware extraction, and forensic analysis that my expert witness and research work requires. The lab includes oscilloscopes, logic analyzers, stereo microscopes, hot-air and infrared rework stations, soldering stations, programmable power supplies, and a range of device-specific diagnostic tools.</p>
+
+<p>This equipment supports board-level fault isolation, firmware dumping and analysis, signal capture and protocol decoding, and component-level repair &mdash; capabilities that are directly applied in litigation involving hardware failures, embedded system disputes, and firmware forensics.</p>
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="flex: 1; min-width: 280px;">
+    <img src="/images/homelab-overview.jpg" alt="Electronics workbench with oscilloscope, soldering and rework stations, and diagnostic equipment" style="width: 100%; border-radius: 4px;" />
+  </div>
+  <div style="flex: 1; min-width: 280px;">
+    <img src="/images/sentinel-lab.jpg" alt="Hardware analysis lab with embedded systems development and testing equipment" style="width: 100%; border-radius: 4px;" />
+  </div>
+</div>
 
 <hr />
 
@@ -31,14 +48,6 @@ author_profile: true
 
 {% for post in site.portfolio reversed %}
   {% if post.category == "infrastructure" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-<h2>Student & Early Projects</h2>
-
-{% for post in site.portfolio reversed %}
-  {% if post.category == "student" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}

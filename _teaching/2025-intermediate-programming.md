@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Programming"
+title: "Intermediate Programming (2025)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-intermediate-programming
@@ -8,4 +8,4 @@ date: 2025-01-01
 location: "Baltimore, MD"
 ---
 
-Lecturer for the undergraduate Intermediate Programming course, covering C and C++ programming, developer tools, Linux environments, data structures, and software development practices.
+Lecturer. Covers C and C++ programming, developer tools, Linux environments, data structures, and software development practices.

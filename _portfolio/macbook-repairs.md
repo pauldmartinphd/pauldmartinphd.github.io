@@ -1,12 +1,10 @@
 ---
-title: "Component-Level Computer Repair and Restoration"
-excerpt: "Dedicated electronics lab for component-level repair, modification, and restoration of computers and vintage hardware including ThinkPads, MacBooks, and classic game consoles."
+title: "Component-Level Hardware Analysis and Repair"
+excerpt: "Board-level diagnostics, component-level repair, firmware extraction, and hardware investigation across laptop and embedded system platforms."
 collection: portfolio
 category: hardware
 ---
 
-![Game Boy disassembled for IPS LCD and audio modification](/images/gameboy-restoration.jpg)
+Board-level diagnostic and repair work across laptop platforms including ThinkPads and MacBooks, requiring schematic reading, fault isolation, and surface-mount rework. This work involves ECU firmware extraction and flashing, serial number and firmware validation chain analysis, and component-level modifications to enable non-standard hardware configurations.
 
-Extensive hands-on component-level repair, modification, and restoration work across a wide range of computer hardware. Primary focus areas include ThinkPad and MacBook logic board repair, screen upgrades, ECU firmware flashing, serial number programming, and custom hardware modifications. I also repair and restore vintage computers and game consoles in a dedicated electronics lab equipped for surface-mount rework, diagnostic testing, and firmware programming.
-
-This work spans multiple generations of hardware and requires understanding of schematics, board-level diagnostics, firmware validation chains, and component-level electronics repair techniques.
+These techniques directly support expert witness engagements involving hardware failure analysis, firmware forensics, and component-level investigation of electronic systems.
