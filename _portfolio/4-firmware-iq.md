@@ -9,4 +9,4 @@ Firmware IQ is a firmware security analysis platform I designed and led developm
 
 The engine handles a wide range of firmware formats from different embedded device manufacturers and can identify known vulnerable software components, insecure configurations, hardcoded credentials, and other common firmware security issues at scale.
 
-[Learn more at Harbor Labs](https://harborlabs.com/firmwareiq/)
+[Learn more at Harbor Labs](https://harborlabs.com/regulatory-support/persistent-vulnerability-monitoring/)
