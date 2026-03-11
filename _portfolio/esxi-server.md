@@ -1,8 +1,8 @@
 ---
-title: "Virtualization and GPU Compute Infrastructure"
-excerpt: "Design and operation of virtualization infrastructure including VMware ESXi and Proxmox environments, with GPU compute servers for running large language models."
+title: "Homelab Virtualization Infrastructure"
+excerpt: "Ongoing design and operation of homelab virtualization environments across VMware ESXi and Proxmox, supporting development, security research, expert witness work, and AI inference workloads."
 collection: portfolio
 category: infrastructure
 ---
 
-Design, build, and operation of virtualization infrastructure for development, security testing, research, and AI workloads. This includes VMware ESXi environments on Dell PowerEdge server hardware as well as a Proxmox-based GPU compute server with 768 GB RAM and four AMD Radeon V620 (32 GB each) GPUs configured for running large language models. These systems support rapid provisioning of test environments for security research and expert witness work, along with compute-intensive AI inference tasks.
+Ongoing design, build, and operation of homelab virtualization infrastructure for development, security testing, research, and AI workloads. Current primary infrastructure runs on Proxmox with PCIe passthrough for dedicated firewall (OPNsense) and storage (TrueNAS) VMs, consolidating what was previously a full rack of separate appliances into a single chassis. Previous generations used VMware ESXi on Dell PowerEdge server hardware. The lab supports rapid provisioning of test environments for security research and expert witness work, including isolated networks, multi-OS configurations, and compute-intensive workloads.
