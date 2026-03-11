@@ -48,6 +48,39 @@ Dr. Martin's analyses typically involve:
 
 ---
 
+## Selected Litigation Matters
+
+Dr. Martin has provided expert testimony and analysis in matters involving:
+
+- Source code analysis of large-scale distributed software systems
+- Reverse engineering of embedded firmware in consumer and industrial devices
+- Cybersecurity and vulnerability analysis of networked systems
+- Intellectual property disputes involving complex software architectures
+- Forensic analysis of software behavior, system logs, and execution artifacts
+- Trade secret misappropriation involving proprietary source code and development timelines
+- Analysis of cryptographic implementations and security protocol design
+
+---
+
+## Representative Technical Investigations
+
+- Reverse engineering proprietary communication protocols in embedded devices
+- Analyzing firmware update mechanisms and boot chains in consumer electronics
+- Reconstructing system behavior from source code, execution traces, and log artifacts
+- Identifying security vulnerabilities in distributed and networked software systems
+- Conducting large-scale automated and manual source code comparison across codebases
+- Extracting and analyzing firmware from hardware devices using SPI and JTAG interfaces
+
+---
+
+## Teaching and Communication
+
+Dr. Martin teaches courses on software systems, computer security, and applied cryptography in the Department of Computer Science at Johns Hopkins University. His teaching emphasizes explaining complex computing systems clearly to students with diverse technical backgrounds, without sacrificing depth or rigor.
+
+This experience translates directly to expert testimony, where complicated technical concepts must be communicated clearly to judges and juries who may have no prior technical background.
+
+---
+
 ## Trial & Hearing Testimony
 
 **Certain Flash-Spun Nonwoven Materials and Products Containing Same**
