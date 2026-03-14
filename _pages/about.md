@@ -11,7 +11,7 @@ Dr. Martin serves as both a testifying and consulting expert in complex software
 
 He has provided expert testimony 18 times across 3 trials, 2 evidentiary hearings, and 13 depositions, in federal and state courts, the International Trade Commission, and inter partes reviews. He has served as a testifying or consulting expert in over 50 matters and has led **over 100 large-scale source code reviews** spanning systems that range from thousands to billions of lines of code.
 
-He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on six U.S. patents, a published researcher in embedded security and applied cryptography, and a member of the program committee for the IEEE Symposium on Security and Privacy.
+He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on six U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
 ### Litigation Experience
 
