@@ -33,7 +33,7 @@ What distinguishes my practice is that I design and execute **custom experiments
 
 ---
 
-## Research & Invention
+## Research & Innovation
 
 My research interests include embedded system security, operating system security, vulnerability analysis, reverse engineering, network protocol analysis, applied cryptography, and privacy-preserving protocols. Some of my research has formed the basis for commercial products: the integrated audit and access control system I developed was subsequently patented by Accenture, and the smart grid traffic visualization platform I designed at Applied Communication Sciences became part of their SecureSmart product offering.
 
