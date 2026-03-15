@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Martin serves as both a testifying and consulting expert in complex software, cybersecurity, embedded systems, and hardware-related litigation. He is the Chief Scientist at [Harbor Experts](https://harborexperts.com) and a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/).
+Dr. Martin serves as both a testifying and consulting expert in complex software, cybersecurity, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand complex technical systems and the evidence they produce in high-stakes disputes. He is the Chief Scientist at Harbor Experts and a Lecturer in Computer Science at Johns Hopkins University.
 
-He has provided expert testimony 18 times across 3 trials, 2 evidentiary hearings, and 13 depositions, in federal and state courts, the International Trade Commission, and inter partes reviews. He has served as a testifying or consulting expert in over 50 matters and has led **over 100 large-scale source code reviews** spanning systems that range from thousands to billions of lines of code.
+He has provided expert testimony 18 times across 3 trials, 2 evidentiary hearings, and 13 depositions in federal and state courts, the International Trade Commission, and inter partes reviews. Across more than 50 matters, he has led over 100 large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
-He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on six U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
+He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on six U.S. patents, a published researcher in embedded security and applied cryptography, and a member of the program committee for the IEEE Symposium on Security and Privacy.
 
 ### Litigation Experience
 

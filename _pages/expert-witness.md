@@ -5,9 +5,9 @@ permalink: /expert-witness/
 author_profile: true
 ---
 
-Dr. Martin serves as both a testifying and consulting expert in complex litigation involving software systems, cybersecurity, embedded devices, and computer architecture. His work frequently involves large-scale source code review, reverse engineering of complex systems, analysis of embedded firmware, and explanation of computing systems to judges and juries.
+Dr. Martin serves as both a testifying and consulting expert in complex litigation involving software systems, cybersecurity, embedded devices, and computer architecture. His work frequently involves large-scale source code review, reverse engineering of complex systems, analysis of embedded firmware, and the explanation of computing systems and technical evidence to judges and juries.
 
-He has served as a testifying or consulting expert in over 50 matters across federal and state courts, the International Trade Commission, and inter partes reviews before the Patent Trial and Appeal Board. He designs and executes custom experiments tailored to the specific technical questions at issue, and is able to work cases where source code is lost or unavailable through binary reverse engineering and forensic reconstruction. He has led and managed over 100 large-scale source code reviews spanning systems from thousands to billions of lines of code.
+He has served as a testifying or consulting expert in over 50 matters across federal and state courts, the International Trade Commission, and inter partes reviews before the Patent Trial and Appeal Board. He designs and conducts custom experiments tailored to the specific technical questions at issue and regularly works cases where source code is incomplete or unavailable through binary reverse engineering and forensic reconstruction. He has led and managed over 100 large-scale source code reviews spanning systems ranging from thousands to billions of lines of code.
 
 ---
 
