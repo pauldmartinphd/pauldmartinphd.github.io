@@ -46,7 +46,7 @@ redirect_from:
 
 **Student Software Developer**, Johns Hopkins University DRCC (2008-2010)
 
-**Freelance Software Developer**, Brandeis University (2008)
+**Freelance Software Developer**, Brandeis University Computer Repair Shop (2008)
 
 ---
 
