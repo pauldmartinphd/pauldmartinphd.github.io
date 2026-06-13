@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Martin serves as both a testifying and consulting expert in complex software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand complex technical systems and the evidence they produce in high-stakes disputes. He is the Chief Scientist at Harbor Experts and a Lecturer in Computer Science at Johns Hopkins University.
+Dr. Martin serves as both a testifying and consulting expert in complex software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand complex technical systems and the evidence they produce in high-stakes disputes. He is the Chief Scientist at [Harbor Experts](https://harborexperts.com), where he previously served as Vice President of Applied Research and Director of Firmware Security, and a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/).
 
-He has provided expert testimony 19 times across 4 trials, 2 evidentiary hearings, and 13 depositions in federal and state courts, the International Trade Commission, and inter partes reviews. Across more than 100 matters, he has led over 100 large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
+He has provided expert testimony 19 times across 4 trials, 2 evidentiary hearings, and 13 depositions in federal and state courts, the International Trade Commission, and inter partes reviews. His engagements have involved parties including Apple, Google, Samsung, Microsoft, Netflix, Cisco, and other major technology companies, as well as criminal proceedings and international matters. Across more than 100 matters, he has led over 100 large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
 He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on six U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
@@ -57,7 +57,7 @@ My courses cover hardware and software security design, vulnerability assessment
 
 ## Projects & Lab
 
-Beyond my professional and academic work, I maintain a deep hands-on practice with computing hardware and systems. My [hardware analysis laboratory](/portfolio/#lab) is equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
+I have hands-on experience across 16 CPU architectures — from 8-bit microcontrollers (6502, 8051, Z80, AVR, PIC) through embedded processors (ARM, MIPS, MSP430) to server-class systems (x86-64, SPARC, PowerPC) — and I maintain a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
 
 [View selected projects &rarr;](/portfolio/)
 

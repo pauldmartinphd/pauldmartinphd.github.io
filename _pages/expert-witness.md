@@ -7,7 +7,7 @@ author_profile: true
 
 Dr. Martin serves as both a testifying and consulting expert in complex litigation involving software systems, cybersecurity, artificial intelligence, embedded devices, and computer architecture. His work frequently involves large-scale source code review, reverse engineering of complex systems, analysis of embedded firmware, and the explanation of computing systems and technical evidence to judges and juries.
 
-He has served as a testifying or consulting expert in over 100 matters across federal and state courts, the International Trade Commission, and inter partes reviews before the Patent Trial and Appeal Board. He designs and conducts custom experiments tailored to the specific technical questions at issue and regularly works cases where source code is incomplete or unavailable through binary reverse engineering and forensic reconstruction. He has led and managed over 100 large-scale source code reviews spanning systems ranging from thousands to billions of lines of code.
+He has served as a testifying or consulting expert in over 100 matters across federal and state courts, the International Trade Commission, inter partes reviews before the Patent Trial and Appeal Board, criminal proceedings, and international regulatory actions. He designs and conducts custom experiments tailored to the specific technical questions at issue and regularly works cases where source code is incomplete or unavailable through binary reverse engineering and forensic reconstruction. He has led and managed over 100 large-scale source code reviews spanning systems ranging from thousands to billions of lines of code.
 
 ---
 
@@ -536,6 +536,6 @@ Services: Attend depositions, source code review, report drafting.
 
 ## Analysis, Design & Development Clients
 
-In addition to litigation work, I have provided technical analysis, design, and development services to the following organizations:
+In addition to litigation work, I have provided technical analysis, design, and development services to organizations across medical devices, telecommunications, semiconductors, and security — including:
 
 Arai, Baxter, Bigfoot Medical, BT Group, Cardiac Sciences, Dyadic, Fresenius, HLFIP Holdings, Hospira, ICU Medical, Inexto, Intuitive Surgical, Merlin, Orpheus, Security First Corporation, Texas Instruments, Thesys, Vaxxin
