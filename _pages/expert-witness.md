@@ -37,6 +37,9 @@ Analysis of malware scanning gateways, endpoint protection systems, URL filterin
 **Artificial Intelligence & Language Model Systems**
 Analysis of AI and large language model systems including model hosting infrastructure, inference performance, GPU and memory architecture for model serving, security properties of AI systems, and the design and evaluation of AI-driven products. Covers model architecture, quantization and optimization techniques, training and fine-tuning pipelines, and the interaction between hardware constraints and model performance.
 
+**Virtualization, Containerization & Hosting Infrastructure**
+Analysis of virtualization platforms, container orchestration systems, hypervisor implementations, and cloud hosting architectures. Includes VM and container image forensics, PCIe passthrough and hardware isolation, storage virtualization, and the design and security of hosting infrastructure for compute-intensive workloads including AI model serving.
+
 **System & Network Performance Analysis**
 Measurement, quantification, and tuning of hardware and network system performance. Includes analysis of CPU, memory, GPU, and storage subsystem behavior; network throughput and latency characterization; benchmarking methodology; bottleneck identification; and performance regression analysis. This work spans embedded systems, datacenter infrastructure, and consumer devices, drawing on more than twenty years of hands-on performance engineering across computing platforms.
 
@@ -67,6 +70,7 @@ Dr. Martin has provided expert testimony and analysis in matters involving:
 - Analysis of cryptographic implementations and security protocol design
 - Disputes involving AI and machine learning system design and performance
 - Hardware and network performance measurement and optimization
+- Disputes involving emulation, virtualization, and container technologies
 
 ---
 
@@ -80,6 +84,7 @@ Dr. Martin has provided expert testimony and analysis in matters involving:
 - Extracting and analyzing firmware from hardware devices using SPI and JTAG interfaces
 - Benchmarking and performance analysis of GPU, CPU, memory, and network subsystems
 - Evaluating inference performance and security properties of large language model deployments
+- Analyzing virtualization, container, and hypervisor implementations and their security boundaries
 
 ---
 
