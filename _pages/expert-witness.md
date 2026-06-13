@@ -83,6 +83,12 @@ This experience translates directly to expert testimony, where complicated techn
 
 ## Trial & Hearing Testimony
 
+**The Nielsen Company v. TVision**
+Case No. 25-575-CJB
+*Analysis related to audience measurement and identification systems and audio fingerprinting systems.*
+Services: Source code review, expert report drafting, source code and algorithm analysis and simulations.
+Expert Testimony at Trial: Wilmington, DE (June 8-9, 2026)
+
 **Certain Flash-Spun Nonwoven Materials and Products Containing Same**
 ITC Investigation No. 337-TA-1424
 *ITC Investigation related to nation-state threat actors, unfair competition, and trade secret misappropriation.*
