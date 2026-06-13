@@ -27,7 +27,7 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 My expert work spans software and firmware security, reverse engineering, source code analysis, cryptography, embedded systems, network protocols, and more. Attorneys have described my ability to teach complex technical concepts to judges and juries in a clear and approachable manner.
 
-What distinguishes my practice is that I design and execute **custom experiments** to answer critical questions in litigation, and I can work cases where **source code is lost or unavailable** through binary reverse engineering and forensic reconstruction. I do not simply opine on paper; I build, test, and demonstrate.
+What distinguishes my practice is that I am not only an analyst — I have written production code deployed in FDA-regulated medical devices, identified and demonstrated remote code execution vulnerabilities in life-critical medical systems, and designed cryptographic protocols implemented in production healthcare environments. I design and execute **custom experiments** to answer critical questions in litigation, and I can work cases where **source code is lost or unavailable** through binary reverse engineering and forensic reconstruction.
 
 [View all expert witness engagements &rarr;](/expert-witness/)
 
