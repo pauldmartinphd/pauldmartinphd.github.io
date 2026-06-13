@@ -5,7 +5,7 @@ permalink: /expert-witness/
 author_profile: true
 ---
 
-Dr. Martin serves as both a testifying and consulting expert in complex litigation involving software systems, cybersecurity, embedded devices, and computer architecture. His work frequently involves large-scale source code review, reverse engineering of complex systems, analysis of embedded firmware, and the explanation of computing systems and technical evidence to judges and juries.
+Dr. Martin serves as both a testifying and consulting expert in complex litigation involving software systems, cybersecurity, artificial intelligence, embedded devices, and computer architecture. His work frequently involves large-scale source code review, reverse engineering of complex systems, analysis of embedded firmware, and the explanation of computing systems and technical evidence to judges and juries.
 
 He has served as a testifying or consulting expert in over 100 matters across federal and state courts, the International Trade Commission, and inter partes reviews before the Patent Trial and Appeal Board. He designs and conducts custom experiments tailored to the specific technical questions at issue and regularly works cases where source code is incomplete or unavailable through binary reverse engineering and forensic reconstruction. He has led and managed over 100 large-scale source code reviews spanning systems ranging from thousands to billions of lines of code.
 
@@ -34,6 +34,12 @@ Forensic analysis of mobile devices including software update mechanisms, device
 **Malware Analysis & Antivirus Technologies**
 Analysis of malware scanning gateways, endpoint protection systems, URL filtering, vulnerability assessment tools, and anti-phishing technologies. Includes evaluation of detection methodologies and assessment of security product effectiveness.
 
+**Artificial Intelligence & Language Model Systems**
+Analysis of AI and large language model systems including model hosting infrastructure, inference performance, GPU and memory architecture for model serving, security properties of AI systems, and the design and evaluation of AI-driven products. Covers model architecture, quantization and optimization techniques, training and fine-tuning pipelines, and the interaction between hardware constraints and model performance.
+
+**System & Network Performance Analysis**
+Measurement, quantification, and tuning of hardware and network system performance. Includes analysis of CPU, memory, GPU, and storage subsystem behavior; network throughput and latency characterization; benchmarking methodology; bottleneck identification; and performance regression analysis. This work spans embedded systems, datacenter infrastructure, and consumer devices, drawing on more than twenty years of hands-on performance engineering across computing platforms.
+
 ---
 
 ## Technical Methodology
@@ -59,6 +65,8 @@ Dr. Martin has provided expert testimony and analysis in matters involving:
 - Forensic analysis of software behavior, system logs, and execution artifacts
 - Trade secret misappropriation involving proprietary source code and development timelines
 - Analysis of cryptographic implementations and security protocol design
+- Disputes involving AI and machine learning system design and performance
+- Hardware and network performance measurement and optimization
 
 ---
 
@@ -70,6 +78,8 @@ Dr. Martin has provided expert testimony and analysis in matters involving:
 - Identifying security vulnerabilities in distributed and networked software systems
 - Conducting large-scale automated and manual source code comparison across codebases
 - Extracting and analyzing firmware from hardware devices using SPI and JTAG interfaces
+- Benchmarking and performance analysis of GPU, CPU, memory, and network subsystems
+- Evaluating inference performance and security properties of large language model deployments
 
 ---
 
