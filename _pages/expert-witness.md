@@ -17,31 +17,25 @@ He has served as a testifying or consulting expert in over 100 matters across fe
 Dr. Martin has led over 100 large-scale source code reviews in litigation, spanning systems from thousands to billions of lines of code. This work covers trade secret misappropriation, copyright infringement, breach of contract, and code quality disputes, and includes manual review, automated comparison, architectural analysis, development timeline reconstruction, and identification of exploitable vulnerabilities. He has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
 
 **Reverse Engineering & Binary Analysis**
-Disassembly, decompilation, and forensic reconstruction of software behavior when source code is unavailable, lost, or destroyed. Includes firmware extraction, binary diffing, and analysis using tools such as Ghidra and IDA Pro. This capability is central to cases involving embedded devices, compiled software, and situations where source code has not been produced.
+Disassembly, decompilation, and forensic reconstruction of software behavior when source code is unavailable, lost, or destroyed. Includes firmware extraction and analysis, binary diffing, and work with tools such as Ghidra and IDA Pro. This capability is central to cases involving embedded devices, compiled software, and situations where source code has not been produced.
 
-**Applied Cryptography & Security Protocols**
-Analysis of cryptographic implementations including elliptic curve cryptography, random number generation, key management, TLS/SSL, DRM systems, and authentication protocols. Covers both correctness of implementation and conformance to standards such as NIST and IEEE.
+**Cybersecurity, Cryptography & Network Security**
+Analysis of cryptographic implementations (elliptic curve cryptography, random number generation, key management, TLS/SSL, DRM, authentication protocols), network security infrastructure (firewalls, IPS, VPNs, content delivery networks, wireless handoff protocols), and endpoint security products (malware scanning gateways, URL filtering, anti-phishing technologies). Covers both correctness of implementation and conformance to standards such as NIST and IEEE.
 
-**Embedded Systems & IoT Security**
-Security analysis of firmware, microcontrollers, hardware security modules, trusted execution environments (TEEs), and hardware-software interfaces. Includes analysis of BIOS/UEFI, SPI interfaces, fTPM implementations, and control-flow integrity mechanisms for resource-constrained devices.
+**Embedded Systems, Firmware & Device Security**
+Security analysis of firmware, microcontrollers, hardware security modules, trusted execution environments (TEEs), mobile devices, and hardware-software interfaces. Includes BIOS/UEFI analysis, SPI and JTAG interfaces, fTPM implementations, control-flow integrity mechanisms, mobile device forensics across iOS and Android, and software update mechanism analysis.
 
-**Network Security & Infrastructure**
-Analysis of network monitoring systems, firewalls, intrusion prevention systems, content delivery networks, VPNs, wireless handoff protocols, and network management platforms. Includes traffic profiling, protocol analysis, and assessment of security gateway implementations.
-
-**Mobile Device Forensics & Security**
-Forensic analysis of mobile devices including software update mechanisms, device performance characteristics, and application behavior. Covers both iOS and Android platforms, including analysis of app store ecosystems and device management systems.
-
-**Malware Analysis & Antivirus Technologies**
-Analysis of malware scanning gateways, endpoint protection systems, URL filtering, vulnerability assessment tools, and anti-phishing technologies. Includes evaluation of detection methodologies and assessment of security product effectiveness.
+**Biomedical & Medical Device Security**
+Security analysis of medical devices, patient data systems, and healthcare computing infrastructure. Dr. Martin's doctoral research focused on securing medical devices and protecting patient privacy. He has written production code deployed in FDA-regulated medical devices, identified remote code execution vulnerabilities in life-critical infusion pump systems, and designed cryptographic protocols implemented in production healthcare environments.
 
 **Artificial Intelligence & Language Model Systems**
-Analysis of AI and large language model systems including model hosting infrastructure, inference performance, GPU and memory architecture for model serving, security properties of AI systems, and the design and evaluation of AI-driven products. Covers model architecture, quantization and optimization techniques, training and fine-tuning pipelines, and the interaction between hardware constraints and model performance.
+Analysis of AI and large language model systems including model hosting infrastructure, inference performance, GPU and memory architecture for model serving, security properties of AI systems, and the design and evaluation of AI-driven products. Covers model architecture, quantization and optimization, training and fine-tuning pipelines, and the interaction between hardware constraints and model performance.
 
 **Virtualization, Containerization & Hosting Infrastructure**
-Analysis of virtualization platforms, container orchestration systems, hypervisor implementations, and cloud hosting architectures. Includes VM and container image forensics, PCIe passthrough and hardware isolation, storage virtualization, and the design and security of hosting infrastructure for compute-intensive workloads including AI model serving.
+Analysis of virtualization platforms, container orchestration systems, hypervisor implementations, and cloud hosting architectures. Includes VM and container image forensics, PCIe passthrough and hardware isolation, storage virtualization, and the design and security of infrastructure for compute-intensive workloads including AI model serving.
 
 **System & Network Performance Analysis**
-Measurement, quantification, and tuning of hardware and network system performance. Includes analysis of CPU, memory, GPU, and storage subsystem behavior; network throughput and latency characterization; benchmarking methodology; bottleneck identification; and performance regression analysis. This work spans embedded systems, datacenter infrastructure, and consumer devices, drawing on more than twenty years of hands-on performance engineering across computing platforms.
+Measurement, quantification, and tuning of hardware and network system performance. Includes CPU, memory, GPU, and storage subsystem analysis; network throughput and latency characterization; benchmarking methodology; bottleneck identification; and performance regression analysis. Draws on more than twenty years of hands-on performance engineering across embedded systems, datacenter infrastructure, and consumer devices.
 
 ---
 
