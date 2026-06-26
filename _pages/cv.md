@@ -80,6 +80,13 @@ P. Martin, A. Rubin, R. Bhatti, "Enforcing Minimum Necessary Access in Healthcar
 
 ---
 
+## Open-Source Contributions
+
+**Charm: A Framework for Rapid Cryptographic Prototyping** (2010-2012)
+Contributor to Charm, an open-source rapid prototyping framework for advanced cryptographic algorithms, developed at Johns Hopkins University.
+
+---
+
 ## Patents
 
 **US 10,762,214 B1** — System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries
