@@ -45,6 +45,7 @@ redirect_from:
 **Security Intern**, Independent Security Evaluators (2009-2011)
 
 **Student Software Developer**, Johns Hopkins University DRCC (2008-2010)
+*Designed security architecture for a $20M digital preservation grant*
 
 **Freelance Software Developer**, Brandeis University Computer Repair Shop (2008)
 
