@@ -102,9 +102,11 @@ Contributor to Charm, an open-source rapid prototyping framework for advanced cr
 
 ---
 
-## Program Committees
+## Professional Committees & Standards Bodies
 
-IEEE Symposium on Security and Privacy (Winter 2024, Summer 2024)
+IEEE Symposium on Security and Privacy, Program Committee (Winter 2024, Summer 2024)
+
+IEEE 7024 Working Group — "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies" (Current Member)
 
 ---
 
