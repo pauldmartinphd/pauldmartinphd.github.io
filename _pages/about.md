@@ -11,7 +11,7 @@ Dr. Martin serves as both a testifying and consulting expert in complex software
 
 He has provided expert testimony 18 times across 4 trials, 2 evidentiary hearings, and 12 depositions in federal and state courts, the International Trade Commission, and inter partes reviews. His engagements have involved parties including Apple, Google, Samsung, Microsoft, Netflix, Cisco, and other major technology companies, as well as criminal proceedings and international matters. Across more than 100 matters, he has led over 100 large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
-He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on six U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
+He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
 ### Litigation Experience
 
