@@ -1,5 +1,5 @@
 ---
-title: "Open-Source PC Firmware (Coreboot)"
+title: "Coreboot-based Firmware Design"
 excerpt: "Replacing proprietary BIOS/UEFI with open-source Coreboot firmware on various platforms, including custom firmware builds and direct SPI flash chip programming."
 collection: portfolio
 category: technicomp

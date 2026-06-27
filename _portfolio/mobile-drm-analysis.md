@@ -1,5 +1,5 @@
 ---
-title: "Mobile DRM Security Analysis"
+title: "Cryptographic DRM Reverse Engineering and Circumvention"
 excerpt: "Engaged to analyze and defeat the digital rights management protections on a mobile digital content distribution platform, cataloguing multiple independent methods of circumvention."
 collection: portfolio
 category: professional

@@ -1,5 +1,5 @@
 ---
-title: "Component-Level Hardware Analysis and Repair"
+title: "Board-Level Component Diagnostics, Repair, and Modification"
 excerpt: "Board-level diagnostics, component-level repair, firmware extraction, and hardware investigation across laptop and embedded system platforms."
 collection: portfolio
 category: technicomp

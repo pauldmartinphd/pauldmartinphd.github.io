@@ -1,5 +1,5 @@
 ---
-title: "Custom Firewalls, Routers, and Network Appliances"
+title: "OpenBSD-based Next-Generation Firewall Design and Implementation"
 excerpt: "Design and deployment of high-performance network appliances including OpenBSD routers with custom DPI, PF and OPNSense firewalls, and purpose-built network security infrastructure."
 collection: portfolio
 category: hardware

@@ -1,5 +1,5 @@
 ---
-title: "Infusion Pump Vulnerability Research"
+title: "Commercial Infusion Pump Vulnerability Assessment with RCE Exploitation"
 excerpt: "Discovered multiple vulnerabilities in a commercially deployed infusion pump system, including a remote code execution vulnerability. Developed a working exploit achieving arbitrary code execution on the device."
 collection: portfolio
 category: professional
