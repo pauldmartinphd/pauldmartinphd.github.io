@@ -69,15 +69,15 @@ redirect_from:
 
 ## Publications
 
-P. Martin, D. Russel, M. Ben Salem, S. Checkoway, A. Rubin, "Sentinel: Secure Mode Profiling and Enforcement for Embedded Systems," *Proc. ACM/IEEE International Conference on Internet-of-Things Design and Implementation (IoTDI '18)*, 2018.
+P. Martin, D. Russel, M. Ben Salem, S. Checkoway, A. Rubin, "Sentinel: Secure Mode Profiling and Enforcement for Embedded Systems," *Proc. ACM/IEEE International Conference on Internet-of-Things Design and Implementation (IoTDI '18)*, 2018. ([Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC))
 
-P. Martin, M. Rushanan, T. Tantillo, C. Lehmann, A. Rubin, "Applications of Secure Location Sensing in Healthcare," *Proc. ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB '16)*, 2016.
+P. Martin, M. Rushanan, T. Tantillo, C. Lehmann, A. Rubin, "Applications of Secure Location Sensing in Healthcare," *Proc. ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB '16)*, 2016. ([Google Scholar](https://scholar.google.com/scholar?q=%22Applications+of+Secure+Location+Sensing+in+Healthcare%22))
 
-J. Carrigan, P. Martin, M. Rushanan, "KBID: Kerberos Bracelet Identification," *Proc. Financial Cryptography and Data Security (FC '16)*, 2016.
+J. Carrigan, P. Martin, M. Rushanan, "KBID: Kerberos Bracelet Identification," *Proc. Financial Cryptography and Data Security (FC '16)*, 2016. ([Google Scholar](https://scholar.google.com/scholar?q=%22KBID%3A+Kerberos+Bracelet+Identification%22))
 
-P. Martin, M. Rushanan, S. Checkoway, M. Green, A. Rubin, "Classifying Network Protocol Implementation Versions: An OpenSSL Case Study," *Technical Report 13-01, Johns Hopkins University*, December 2013.
+P. Martin, M. Rushanan, S. Checkoway, M. Green, A. Rubin, "Classifying Network Protocol Implementation Versions: An OpenSSL Case Study," *Technical Report 13-01, Johns Hopkins University*, December 2013. ([Google Scholar](https://scholar.google.com/scholar?q=%22Classifying+Network+Protocol+Implementation+Versions%3A+An+OpenSSL+Case+Study%22))
 
-P. Martin, A. Rubin, R. Bhatti, "Enforcing Minimum Necessary Access in Healthcare Through Integrated Audit and Access Control," *Proc. ACM Conference on Bioinformatics, Computational Biology, and Biomedical Informatics Health Informatics Symposium (BCB-HIS)*, September 2013.
+P. Martin, A. Rubin, R. Bhatti, "Enforcing Minimum Necessary Access in Healthcare Through Integrated Audit and Access Control," *Proc. ACM Conference on Bioinformatics, Computational Biology, and Biomedical Informatics Health Informatics Symposium (BCB-HIS)*, September 2013. ([Google Scholar](https://scholar.google.com/scholar?q=%22Enforcing+Minimum+Necessary+Access+in+Healthcare+Through+Integrated+Audit+and+Access+Control%22))
 
 ---
 
@@ -90,15 +90,15 @@ Contributor to Charm, an open-source rapid prototyping framework for advanced cr
 
 ## Patents
 
-**US 10,762,214 B1** — System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries
+**[US 10,762,214 B1](https://patents.google.com/patent/US10762214B1/)** — System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries
 
-**US 10,230,599 B2** — System and Method for Network Traffic Profiling and Visualization
+**[US 10,230,599 B2](https://patents.google.com/patent/US10230599B2/)** — System and Method for Network Traffic Profiling and Visualization
 
-**US 9,667,521 B2** — System and Method for Network Traffic Profiling and Visualization
+**[US 9,667,521 B2](https://patents.google.com/patent/US9667521B2/)** — System and Method for Network Traffic Profiling and Visualization
 
-**US 8,984,583 B2** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
+**[US 8,984,583 B2](https://patents.google.com/patent/US8984583B2/)** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
 
-**US 9,438,632 B2** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
+**[US 9,438,632 B2](https://patents.google.com/patent/US9438632B2/)** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
 
 ---
 

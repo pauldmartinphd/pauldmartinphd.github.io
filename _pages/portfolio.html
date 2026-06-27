@@ -28,25 +28,37 @@ author_profile: true
 
 <hr />
 
-<h2>Professional & Research</h2>
+<h2>Reverse Engineering, Binary & Malware Analysis</h2>
 
-{% assign professional = site.portfolio | where: "category", "professional" | sort: "weight" %}
-{% for post in professional %}
+{% assign re_malware = site.portfolio | where: "category", "analysis" | sort: "weight" %}
+{% for post in re_malware %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Hardware & Embedded Systems</h2>
+<h2>Embedded Systems, Firmware & Device Security</h2>
 
-{% for post in site.portfolio reversed %}
-  {% if post.category == "hardware" or post.category == "technicomp" %}
-    {% include archive-single.html %}
-  {% endif %}
+{% assign embedded = site.portfolio | where: "category", "embedded" | sort: "weight" %}
+{% for post in embedded %}
+  {% include archive-single.html %}
 {% endfor %}
 
-<h2>Server Infrastructure & Virtualization</h2>
+<h2>Cryptography & Network Security</h2>
 
-{% for post in site.portfolio reversed %}
-  {% if post.category == "infrastructure" %}
-    {% include archive-single.html %}
-  {% endif %}
+{% assign security = site.portfolio | where: "category", "security" | sort: "weight" %}
+{% for post in security %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Biomedical & Medical Device Security</h2>
+
+{% assign biomedical = site.portfolio | where: "category", "biomedical" | sort: "weight" %}
+{% for post in biomedical %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>AI, Virtualization & Infrastructure</h2>
+
+{% assign infra = site.portfolio | where: "category", "infrastructure" | sort: "weight" %}
+{% for post in infra %}
+  {% include archive-single.html %}
 {% endfor %}
