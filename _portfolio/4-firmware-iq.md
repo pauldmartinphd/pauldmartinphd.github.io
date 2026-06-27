@@ -3,6 +3,7 @@ title: "Firmware IQ"
 excerpt: "Commercial security analysis platform that scans firmware, containers, and virtual machine images for known vulnerabilities and cryptographic implementation flaws, with automated CVE cross-referencing against NIST's National Vulnerability Database."
 collection: portfolio
 category: professional
+weight: 13
 ---
 
 Firmware IQ is a commercial security analysis platform I designed and led development of at Harbor Labs. Customers use the system to assess the security posture of embedded device firmware, container images, and virtual machine appliances before deployment.

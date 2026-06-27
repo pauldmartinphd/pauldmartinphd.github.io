@@ -3,6 +3,7 @@ title: "Mobile DRM Security Analysis"
 excerpt: "Engaged to analyze and defeat the digital rights management protections on a mobile digital content distribution platform, cataloguing multiple independent methods of circumvention."
 collection: portfolio
 category: professional
+weight: 20
 ---
 
 Engaged to perform a comprehensive security analysis of the digital rights management (DRM) system protecting a mobile phone-based digital content store. The work involved reverse engineering the DRM implementation, identifying and exploiting multiple independent weaknesses in the protection scheme, and producing a detailed catalogue of circumvention methods.

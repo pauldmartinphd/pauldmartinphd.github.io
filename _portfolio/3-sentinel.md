@@ -3,6 +3,7 @@ title: "Sentinel"
 excerpt: "A hardware security add-on for IoT-class processors that builds control-flow profiles and enforces secure execution on embedded devices."
 collection: portfolio
 category: professional
+weight: 14
 ---
 
 ![Sentinel hardware prototyping on embedded device test bench](/images/sentinel-lab.jpg)

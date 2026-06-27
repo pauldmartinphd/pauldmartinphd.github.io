@@ -19,10 +19,10 @@ author_profile: true
 
 <div style="display: flex; gap: 16px; flex-wrap: wrap; margin: 20px 0;">
   <div style="flex: 1; min-width: 280px;">
-    <img src="/images/homelab-overview.jpg" alt="Electronics workbench with oscilloscope, soldering and rework stations, and diagnostic equipment" style="width: 100%; border-radius: 4px;" />
+    <img src="/images/homelab-overview.jpg" alt="Electronics workbench with oscilloscope, soldering and rework stations, and diagnostic equipment" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px;" />
   </div>
   <div style="flex: 1; min-width: 280px;">
-    <img src="/images/sentinel-lab.jpg" alt="Hardware analysis lab with embedded systems development and testing equipment" style="width: 100%; border-radius: 4px;" />
+    <img src="/images/sentinel-lab.jpg" alt="Hardware analysis lab with embedded systems development and testing equipment" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px;" />
   </div>
 </div>
 
@@ -30,16 +30,15 @@ author_profile: true
 
 <h2>Professional & Research</h2>
 
-{% for post in site.portfolio reversed %}
-  {% if post.category == "professional" %}
-    {% include archive-single.html %}
-  {% endif %}
+{% assign professional = site.portfolio | where: "category", "professional" | sort: "weight" %}
+{% for post in professional %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <h2>Hardware & Embedded Systems</h2>
 
 {% for post in site.portfolio reversed %}
-  {% if post.category == "hardware" %}
+  {% if post.category == "hardware" or post.category == "technicomp" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}

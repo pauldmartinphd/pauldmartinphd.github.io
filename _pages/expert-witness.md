@@ -19,6 +19,12 @@ Dr. Martin has led over 100 large-scale source code reviews in litigation, spann
 **Reverse Engineering & Binary Analysis**
 Disassembly, decompilation, and forensic reconstruction of software behavior when source code is unavailable, lost, or destroyed. Includes firmware extraction and analysis, binary diffing, and work with tools such as Ghidra and IDA Pro. This capability is central to cases involving embedded devices, compiled software, and situations where source code has not been produced.
 
+**Malware Analysis & Cyber-Attribution**
+Static and dynamic analysis of malicious software and the attribution of intrusions and code to the actors responsible, including nation-state activity. Includes reverse engineering of malware, automated large-scale sample analysis, identification of behavioral and code-level indicators, and evaluation of the reasonableness of an organization's security measures. This work spans ITC investigations and litigation involving trade secret theft and unfair competition, as well as the analysis of malware-scanning gateways, anti-phishing, and endpoint-protection technologies.
+
+**Digital & Mobile Forensics and Forensic-Software Reliability**
+Forensic examination of computers and mobile devices, reconstruction of system and user activity from logs and execution artifacts, and assessment of the reliability and validity of forensic software — including the validation scrutiny applied to forensic methods in criminal proceedings. Dr. Martin has evaluated the reliability of computerized DNA-analysis software in criminal matters, performed mobile-device forensics across iOS and Android, and is a member of the IEEE 7024 Working Group on the verification, validation, and life-cycle management of forensic technologies.
+
 **Cybersecurity, Cryptography & Network Security**
 Analysis of cryptographic implementations (elliptic curve cryptography, random number generation, key management, TLS/SSL, DRM, authentication protocols), network security infrastructure (firewalls, IPS, VPNs, content delivery networks, wireless handoff protocols), and endpoint security products (malware scanning gateways, URL filtering, anti-phishing technologies). Covers both correctness of implementation and conformance to standards such as NIST and IEEE.
 

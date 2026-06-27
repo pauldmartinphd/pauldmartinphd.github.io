@@ -3,6 +3,7 @@ title: "Local LLM Inference Server"
 excerpt: "Single-socket EPYC workstation running frontier-class 600B+ parameter language models locally, with 1TB RAM, 128GB VRAM across four AMD Radeon Pro V620 GPUs, and 200TB of integrated storage."
 collection: portfolio
 category: professional
+weight: 11
 ---
 
 ![LLM inference server build showing four AMD Radeon Pro V620 GPUs and EPYC 7713 in a Jonsbo N5 chassis](/images/llm-server-build.jpg)
