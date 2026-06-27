@@ -1,18 +1,8 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Paul D. Martin:
+  name        : "Paul D. Martin, Ph.D."
+  uri         : "https://pauldmartinphd.github.io"
+  email       : "pmartin@pauldmartin.org"
+  bio         : "Chief Scientist at Harbor Experts and Lecturer at Johns Hopkins University."
+  avatar      : "profile.jpg"

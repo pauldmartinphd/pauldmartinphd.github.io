@@ -116,11 +116,15 @@ Use of multimodal large language models for diagnosis of disease progression.
 
 Use of large language models for certain types of technical research and analysis.
 
+Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models.
+
 Automated binary version extraction for NVD cross-reference based on fuzzy matching.
 
 Automated analysis of vulnerabilities in containers and virtual appliances.
 
 Large-scale comparison of nature and kind of firmware vulnerabilities across and within product classes.
+
+Quantifying vulnerability divergence and patch lead time between rolling and enterprise Linux distributions, including the distribution-design question of whether enterprise distributions should share soft-forked package versions; related comparison of musl and glibc attack surface normalized by code size and severity.
 
 ---
 
