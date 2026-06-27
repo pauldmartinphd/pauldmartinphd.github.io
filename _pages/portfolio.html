@@ -28,10 +28,10 @@ author_profile: true
 
 <hr />
 
-<h2>Reverse Engineering, Binary & Malware Analysis</h2>
+<h2>AI, Virtualization & Infrastructure</h2>
 
-{% assign re_malware = site.portfolio | where: "category", "analysis" | sort: "weight" %}
-{% for post in re_malware %}
+{% assign infra = site.portfolio | where: "category", "infrastructure" | sort: "weight" %}
+{% for post in infra %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -39,6 +39,13 @@ author_profile: true
 
 {% assign embedded = site.portfolio | where: "category", "embedded" | sort: "weight" %}
 {% for post in embedded %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Reverse Engineering, Binary & Malware Analysis</h2>
+
+{% assign re_malware = site.portfolio | where: "category", "analysis" | sort: "weight" %}
+{% for post in re_malware %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -53,12 +60,5 @@ author_profile: true
 
 {% assign biomedical = site.portfolio | where: "category", "biomedical" | sort: "weight" %}
 {% for post in biomedical %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>AI, Virtualization & Infrastructure</h2>
-
-{% assign infra = site.portfolio | where: "category", "infrastructure" | sort: "weight" %}
-{% for post in infra %}
   {% include archive-single.html %}
 {% endfor %}

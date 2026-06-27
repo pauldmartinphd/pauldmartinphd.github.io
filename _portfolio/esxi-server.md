@@ -3,7 +3,7 @@ title: "Virtualization Infrastructure Design and Operation"
 excerpt: "Ongoing design and operation of virtualization environments across VMware ESXi and Proxmox, supporting development, security research, expert witness work, and AI inference workloads."
 collection: portfolio
 category: infrastructure
-weight: 42
+weight: 43
 ---
 
 <img src="/images/homelab-rack.jpg" alt="Server rack with virtualization host, hot-swap drive bays, and CyberPower UPS" style="max-height: 520px; border-radius: 4px;" />
