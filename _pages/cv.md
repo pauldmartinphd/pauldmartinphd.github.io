@@ -110,22 +110,6 @@ IEEE 7024 Working Group — "Standard for the Procurement, Verification and Vali
 
 ---
 
-## Media & Press
-
-[The Asbury Park Press](https://www.app.com/picture-gallery/news/crime/2026/04/20/paul-caneiro-murder-investigation-to-pretrial-hearings-2018-2026-photos/88996938007/) — photo gallery documenting the State of New Jersey v. Paul Caneiro case, 2018–2026 (April 2026)
-
-[Yahoo News](https://www.yahoo.com/news/articles/monster-paul-caneiro-mum-gets-144506455.html) — coverage of the State of New Jersey v. Paul Caneiro case
-
-[The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/) — "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
-
-Al Jazeera America and Al Jazeera English (international) — television interview on medical device security (February 13, 2015)
-
-[The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/02/01/AR2009020101732_pf.html) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
-
-[The Baltimore Sun](http://www.baltimoresun.com/news/bal-to.ratner03feb03,0,7987225.column) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
-
----
-
 ## Current Research
 
 Use of multimodal large language models for diagnosis of disease progression.
