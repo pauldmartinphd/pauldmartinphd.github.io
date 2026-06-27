@@ -411,6 +411,11 @@ Case No. 4:18-cv-07229-YGR
 *Litigation related to patents on vulnerability assessment products.*
 Services: Invalidity analysis, non-infringement analysis, source code review, report drafting.
 
+**Finjan v. SonicWall**
+Case No. 5:17-cv-04467-BLF-HRL
+*Litigation related to patents on malware scanning gateways.*
+Services: Invalidity analysis, non-infringement analysis, source code review, report drafting.
+
 **Carriere v. Symantec Corporation**
 Case No. 500-06-000894-176
 *Class action litigation related to product security.*
