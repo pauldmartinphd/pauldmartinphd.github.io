@@ -9,7 +9,7 @@ redirect_from:
 
 Dr. Martin serves as both a testifying and consulting expert in complex software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand complex technical systems and the evidence they produce in high-stakes disputes. He is the Chief Scientist at [Harbor Experts](https://harborexperts.com) and a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/).
 
-He has provided expert testimony 18 times across 4 trials, 2 evidentiary hearings, and 12 depositions in federal and state courts, the International Trade Commission, and inter partes reviews. His engagements have involved parties including Apple, Google, Samsung, Microsoft, Netflix, Cisco, and other major technology companies, as well as criminal proceedings and international matters. Across more than 100 matters, he has led over 100 large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
+He has provided expert testimony 18 times across 4 trials, 2 evidentiary hearings, and 12 depositions in federal and state courts, the International Trade Commission, and inter partes reviews. His engagements have spanned matters involving major technology companies, criminal proceedings, and international disputes. Across more than 100 matters, he has led over 100 large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
 He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
@@ -20,6 +20,22 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 - 4 trials
 - 2 evidentiary hearings
 - 100+ large-scale source code reviews
+
+---
+
+## In the Media
+
+[The Asbury Park Press](https://www.app.com/picture-gallery/news/crime/2026/04/20/paul-caneiro-murder-investigation-to-pretrial-hearings-2018-2026-photos/88996938007/) — photo gallery documenting the State of New Jersey v. Paul Caneiro case, 2018–2026 (April 2026)
+
+[Yahoo News](https://www.yahoo.com/news/articles/monster-paul-caneiro-mum-gets-144506455.html) — coverage of the State of New Jersey v. Paul Caneiro case
+
+[The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/) — "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
+
+Al Jazeera America and Al Jazeera English (international) — television interview on medical device security (February 13, 2015)
+
+[The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/02/01/AR2009020101732_pf.html) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
+
+[The Baltimore Sun](http://www.baltimoresun.com/news/bal-to.ratner03feb03,0,7987225.column) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
 
 ---
 
