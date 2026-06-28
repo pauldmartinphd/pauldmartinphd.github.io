@@ -13,7 +13,7 @@ title                    : "Paul D. Martin, Ph.D."
 title_separator          : "-"
 name                     : &name "Paul D. Martin, Ph.D."
 description              : &description "Chief Scientist at Harbor Experts · Lecturer at Johns Hopkins University · Expert Witness in Software, Security, and Embedded Systems"
-url                      : https://pauldmartinphd.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://pauldmartin.phd
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pauldmartinphd/pauldmartinphd.github.io"
 
