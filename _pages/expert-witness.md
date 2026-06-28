@@ -159,7 +159,7 @@ Case No. 23-136-GBW-CJB
 Expert Testimony at Deposition: Potomac, MD (February 5, 2025)
 
 **Jonathan Day and Michelle Dobek v. Advanced Micro Devices, Inc.**
-Case No. 4:22-cv-00312-CRB
+Case No. 3:22-cv-04305
 *Litigation related to computer fTPM and TEE design characteristics.*
 Services: Technical analysis and expert reports on security and performance characteristics of trusted execution environments and the design of NVRAM interfaces through SPI.
 Expert Testimony at Deposition: Washington, DC (February 7, 2025)
@@ -229,7 +229,7 @@ IPR2025-00100
 Services: Invalidity analysis, IPR drafting.
 
 **McKinney v. Corsair Gaming, Inc.**
-Case No. 4:22-cv-00312-CRB
+Case No. 4:22-cv-00312-JST
 *Litigation related to computer memory performance.*
 Services: Technical analysis and expert reports on characteristics of computer memory and forensic analysis of computer systems.
 
