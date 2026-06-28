@@ -33,9 +33,9 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 Al Jazeera America and Al Jazeera English (international) — television interview on medical device security (February 13, 2015)
 
-[The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/02/01/AR2009020101732_pf.html) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
+[The Washington Post](https://web.archive.org/web/20150907223319/http://www.washingtonpost.com/wp-dyn/content/article/2009/02/01/AR2009020101732_pf.html) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
 
-[The Baltimore Sun](http://www.baltimoresun.com/news/bal-to.ratner03feb03,0,7987225.column) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
+[The Baltimore Sun](https://www.baltimoresun.com/2009/02/03/tell-your-friends-hopkins-students-take-course-to-design-facebook-apps-2/) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
 
 ---
 
