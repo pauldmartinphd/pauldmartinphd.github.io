@@ -541,6 +541,6 @@ Services: Attend depositions, source code review, report drafting.
 
 ## Analysis, Design & Development Clients
 
-In addition to litigation work, I have provided technical analysis, design, and development services to organizations across medical devices, telecommunications, semiconductors, and security — including:
+In addition to litigation work, Dr. Martin has provided technical analysis, design, and development services to organizations across medical devices, telecommunications, semiconductors, and security — including:
 
 Arai, Baxter, Bigfoot Medical, BT Group, Cardiac Sciences, Dyadic, Fresenius, HLFIP Holdings, Hospira, ICU Medical, Inexto, Intuitive Surgical, Merlin, Orpheus, Security First Corporation, Texas Instruments, Thesys, Vaxxin
