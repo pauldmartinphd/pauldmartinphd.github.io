@@ -11,7 +11,7 @@ Dr. Martin serves as both a testifying and consulting expert in complex software
 
 He has provided expert testimony eighteen times across four trials, two evidentiary hearings, and twelve depositions in federal and state courts, the International Trade Commission, and inter partes reviews. His engagements have spanned matters involving major technology companies, criminal proceedings, and international disputes. Across more than one hundred matters, he has led over one hundred large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
-He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
+He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research, advised by [Avi Rubin](https://avirubin.com), focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
 ### Litigation Experience
 
@@ -31,7 +31,7 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 [The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/) — "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
 
-Al Jazeera America and Al Jazeera English (international) — television interview on medical device security (February 13, 2015)
+[Al Jazeera America and Al Jazeera English (international)](/files/al-jazeera-medical-device-security-2015.mp4) — television interview on medical device security (February 13, 2015)
 
 [The Washington Post](https://web.archive.org/web/20150907223319/http://www.washingtonpost.com/wp-dyn/content/article/2009/02/01/AR2009020101732_pf.html) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
 
