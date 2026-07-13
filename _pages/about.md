@@ -12,7 +12,7 @@ Dr. Martin is a Lecturer in Computer Science at [Johns Hopkins University](https
 
 He has provided expert testimony eighteen times across four trials, two evidentiary hearings, and twelve depositions in federal and state courts, the International Trade Commission, and inter partes reviews. His engagements have spanned matters involving major technology companies, criminal proceedings, and international disputes. Across more than one hundred matters, he has led over one hundred large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
-He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research, advised by [Avi Rubin](https://avirubin.com), focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
+He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research, advised by [Dr. Avi Rubin](https://avirubin.com), focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
 ### Litigation Experience
 

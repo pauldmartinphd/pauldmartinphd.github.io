@@ -18,7 +18,7 @@ redirect_from:
 
 **Ph.D. Computer Science**, Johns Hopkins University, Baltimore, MD (2011-2016)
 *Dissertation: "Securing Medical Devices and Protecting Patient Privacy in the Technological Age of Healthcare"*
-*Doctoral advisor: [Avi Rubin](https://avirubin.com)*
+*Doctoral advisor: [Dr. Avi Rubin](https://avirubin.com)*
 
 **M.S.E. Computer Science**, Johns Hopkins University, Baltimore, MD (2011-2013)
 
