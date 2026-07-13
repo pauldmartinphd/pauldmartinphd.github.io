@@ -2,6 +2,7 @@
 layout: archive
 title: "Al Jazeera Interview — Medical Device Security (2015)"
 permalink: /media/al-jazeera-2015/
+description: "Al Jazeera interview (2015) with Paul D. Martin, Ph.D. on the security of networked and implantable medical devices."
 author_profile: true
 ---
 

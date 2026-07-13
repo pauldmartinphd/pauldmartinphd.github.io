@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+description: "Curriculum vitae of Paul D. Martin, Ph.D. — expert witness, Chief Scientist at Harbor Experts, and Lecturer in Computer Science at Johns Hopkins University."
 author_profile: true
 redirect_from:
   - /resume

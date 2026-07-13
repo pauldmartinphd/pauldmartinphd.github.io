@@ -2,6 +2,7 @@
 layout: archive
 title: "Expert Witness Experience"
 permalink: /expert-witness/
+description: "Software and cybersecurity expert witness Paul D. Martin, Ph.D.: source code review, reverse engineering, embedded and medical device security across 100+ litigation matters."
 author_profile: true
 ---
 

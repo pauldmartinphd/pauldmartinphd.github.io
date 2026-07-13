@@ -62,7 +62,7 @@ author:
   keybase          : # pauldmartinphd
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # pauldmartinphd
+  linkedin         : "pauldmartinphd"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -137,7 +137,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "profile.jpg"  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles

@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Paul D. Martin, Ph.D."
+description: "Paul D. Martin, Ph.D. is a testifying and consulting expert witness in software, cybersecurity, AI, and embedded systems, with 100+ matters and large-scale source code review."
 author_profile: true
 redirect_from:
   - /about/
