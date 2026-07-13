@@ -27,8 +27,6 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 [The Asbury Park Press](https://www.app.com/picture-gallery/news/crime/2026/04/20/paul-caneiro-murder-investigation-to-pretrial-hearings-2018-2026-photos/88996938007/) — photo gallery documenting the State of New Jersey v. Paul Caneiro case, 2018–2026 (April 2026)
 
-[Yahoo News](https://www.yahoo.com/news/articles/monster-paul-caneiro-mum-gets-144506455.html) — coverage of the State of New Jersey v. Paul Caneiro case
-
 [The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/) — "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
 
 [Al Jazeera America and Al Jazeera English (international)](/files/al-jazeera-medical-device-security-2015.mp4) — television interview on medical device security (February 13, 2015)
