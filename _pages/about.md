@@ -29,7 +29,7 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 [The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/) — "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
 
-[Al Jazeera America and Al Jazeera English (international)](/files/al-jazeera-medical-device-security-2015.mp4) — television interview on medical device security (February 13, 2015)
+[Al Jazeera America and Al Jazeera English (international)](/media/al-jazeera-2015/) — television interview on medical device security (February 13, 2015)
 
 [The Washington Post](https://web.archive.org/web/20150907223319/http://www.washingtonpost.com/wp-dyn/content/article/2009/02/01/AR2009020101732_pf.html) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
 
