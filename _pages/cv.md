@@ -26,7 +26,7 @@ redirect_from:
 
 ## Industry Experience
 
-**Chief Scientist**, Harbor Experts (2024-Present)
+**Chief Scientist**, [Harbor Experts](https://harborexperts.com) (2024-Present)
 
 **Lecturer**, Johns Hopkins University (2023-Present)
 

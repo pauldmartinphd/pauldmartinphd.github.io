@@ -45,6 +45,8 @@ Dr. Martin's expert work spans software and firmware security, reverse engineeri
 
 What distinguishes his practice is that he is not only an analyst — he has written production code deployed in FDA-regulated medical devices, identified and demonstrated remote code execution vulnerabilities in life-critical medical systems, and designed cryptographic protocols implemented in production healthcare environments. He designs and executes **custom experiments** to answer critical questions in litigation, and he can work cases where **source code is lost or unavailable** through binary reverse engineering and forensic reconstruction.
 
+Dr. Martin accepts expert witness and consulting engagements through **[Harbor Experts](https://harborexperts.com)**.
+
 [View all expert witness engagements &rarr;](/expert-witness/)
 
 ---
