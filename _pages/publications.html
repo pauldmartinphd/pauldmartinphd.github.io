@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Patents & Publications"
+title: "Research, Patents & Publications"
 permalink: /publications/
 description: "Patents and publications by Paul D. Martin, Ph.D. in embedded security, applied cryptography, and network protocol analysis."
 author_profile: true
@@ -11,6 +11,23 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+<h2>Current Research</h2><hr />
+
+<p>A central thread in Dr. Martin's current research is software supply-chain security: quantifying, and then reducing, the gap between a software component's nominal version and its true vulnerability exposure &mdash; from firmware, through operating-system distributions, to language package managers.</p>
+
+<p>This work grows directly out of Firmware IQ, which identifies the components and versions inside a firmware image and maps them to known CVEs. Dr. Martin's current research stress-tests that premise one layer up, at the operating-system distribution. Enterprise and &ldquo;stable&rdquo; Linux distributions maintain soft forks of upstream packages &mdash; with incomplete backports, bespoke patches, and out-of-sync LTS trees &mdash; so two packages reporting the same upstream version can carry very different real-world exposure. He is quantifying this vulnerability divergence, along with patch lead time, across rolling and enterprise distributions, to ask three questions: whether rolling distributions are in fact more secure against known and unknown CVEs; whether enterprise distributions should be based on rolling LTS packages; and whether distributions should converge on shared soft-forked package versions so that maintenance effort can be pooled rather than duplicated. A planned follow-up extends the same analysis to programming-language package managers. These findings, in turn, motivate the Linux distribution he is currently building, whose patch-management model is designed around what the divergence measurements reveal.</p>
+
+<p>Related and ongoing work includes:</p>
+
+<ul>
+  <li>Automated binary version extraction for NVD cross-reference based on fuzzy matching</li>
+  <li>Automated analysis of vulnerabilities in containers and virtual appliances</li>
+  <li>Large-scale comparison of the nature and kind of firmware vulnerabilities across and within product classes</li>
+  <li>Comparison of musl and glibc attack surface normalized by code size and severity</li>
+  <li>Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models</li>
+  <li>Use of large language models for technical research and analysis, and of multimodal large language models for diagnosis of disease progression</li>
+</ul>
 
 <h2>U.S. Patents</h2><hr />
 

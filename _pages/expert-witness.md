@@ -8,7 +8,7 @@ author_profile: true
 
 Dr. Martin serves as both a testifying and consulting expert in complex litigation involving software systems, cybersecurity, artificial intelligence, embedded devices, and computer architecture. His work frequently involves large-scale source code review, reverse engineering of complex systems, analysis of embedded firmware, and the explanation of computing systems and technical evidence to judges and juries.
 
-He has served as a testifying or consulting expert in over 100 matters across federal and state courts, the International Trade Commission, inter partes reviews before the Patent Trial and Appeal Board, criminal proceedings, and international regulatory actions. Unlike many experts whose experience is limited to analysis, Dr. Martin has written production code deployed in FDA-regulated medical devices, identified remote code execution vulnerabilities in life-critical medical systems, and designed cryptographic protocols implemented in production healthcare environments. He is a current member of the IEEE 7024 Working Group on the "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies." He designs and conducts custom experiments tailored to the specific technical questions at issue and regularly works cases where source code is incomplete or unavailable through binary reverse engineering and forensic reconstruction. He has led over 100 large-scale source code reviews spanning systems ranging from thousands to billions of lines of code. At Johns Hopkins, he teaches C/C++ programming and security courses in which students analyze real codebases for exploitable vulnerabilities and write working exploits, directly mirroring the analytical work he performs in litigation.
+He has served as a testifying or consulting expert in over 100 matters across federal and state courts, the International Trade Commission, inter partes reviews before the Patent Trial and Appeal Board, criminal proceedings, and international regulatory actions. Unlike many experts whose experience is limited to analysis, Dr. Martin has written production code deployed in FDA-regulated medical devices, identified remote code execution vulnerabilities in life-critical medical systems, and designed cryptographic protocols implemented in production healthcare environments. He is a current member of the IEEE 7024 Working Group on the "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies." He designs and conducts custom experiments tailored to the specific technical questions at issue and regularly works cases where source code is incomplete or unavailable through binary reverse engineering and forensic reconstruction.
 
 Dr. Martin serves as Chief Scientist at **[Harbor Experts](https://harborexperts.com)**, through which he accepts expert witness and consulting engagements.
 
@@ -16,534 +16,142 @@ Dr. Martin serves as Chief Scientist at **[Harbor Experts](https://harborexperts
 
 ## Areas of Expertise
 
-**Source Code Analysis & Comparison**
-Dr. Martin has led over 100 large-scale source code reviews in litigation, spanning systems from thousands to billions of lines of code. This work covers trade secret misappropriation, copyright infringement, breach of contract, and code quality disputes, and includes manual review, automated comparison, architectural analysis, development timeline reconstruction, and identification of exploitable vulnerabilities. He has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
+**Software, Source Code & Intellectual Property Analysis**
+Dr. Martin has led over 100 large-scale source code reviews in litigation, spanning systems from thousands to billions of lines of code. This work covers trade secret misappropriation, copyright infringement, breach of contract, and code-quality disputes, and includes manual review, automated comparison, architectural analysis, development-timeline reconstruction, and identification of exploitable vulnerabilities. He has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
 
-**Reverse Engineering & Binary Analysis**
-Disassembly, decompilation, and forensic reconstruction of software behavior when source code is unavailable, lost, or destroyed. Includes firmware extraction and analysis, binary diffing, and work with tools such as Ghidra and IDA Pro. This capability is central to cases involving embedded devices, compiled software, and situations where source code has not been produced.
-
-**Malware Analysis & Cyber-Attribution**
-Static and dynamic analysis of malicious software and the attribution of intrusions and code to the actors responsible, including nation-state activity. Includes reverse engineering of malware, automated large-scale sample analysis, identification of behavioral and code-level indicators, and evaluation of the reasonableness of an organization's security measures. This work spans ITC investigations and litigation involving trade secret theft and unfair competition, as well as the analysis of malware-scanning gateways, anti-phishing, and endpoint-protection technologies.
-
-**Digital & Mobile Forensics and Forensic-Software Reliability**
-Forensic examination of computers and mobile devices, reconstruction of system and user activity from logs and execution artifacts, and assessment of the reliability and validity of forensic software — including the validation scrutiny applied to forensic methods in criminal proceedings. Dr. Martin has evaluated the reliability of computerized DNA-analysis software in criminal matters, performed mobile-device forensics across iOS and Android, and is a member of the IEEE 7024 Working Group on the verification, validation, and life-cycle management of forensic technologies.
+**Reverse Engineering, Malware & Digital Forensics**
+Disassembly, decompilation, and forensic reconstruction of software behavior when source code is unavailable, lost, or destroyed — including firmware extraction, binary diffing, and work with tools such as Ghidra and IDA Pro. This area encompasses static and dynamic malware analysis and the attribution of intrusions and code to the actors responsible, including nation-state activity; forensic examination of computers and mobile devices across iOS and Android; reconstruction of system and user activity from logs and execution artifacts; and assessment of the reliability and validity of forensic software, including the computerized DNA-analysis software scrutinized in criminal proceedings. Dr. Martin is a member of the IEEE 7024 Working Group on the verification, validation, and life-cycle management of forensic technologies.
 
 **Cybersecurity, Cryptography & Network Security**
-Analysis of cryptographic implementations (elliptic curve cryptography, random number generation, key management, TLS/SSL, DRM, authentication protocols), network security infrastructure (firewalls, IPS, VPNs, content delivery networks, wireless handoff protocols), and endpoint security products (malware scanning gateways, URL filtering, anti-phishing technologies). Covers both correctness of implementation and conformance to standards such as NIST and IEEE.
+Analysis of cryptographic implementations (elliptic curve cryptography, random number generation, key management, TLS/SSL, DRM, and authentication protocols), network security infrastructure (firewalls, IPS, VPNs, content delivery networks, and wireless handoff protocols), and endpoint security products (malware-scanning gateways, URL filtering, and anti-phishing technologies) — covering both correctness of implementation and conformance to standards such as NIST and IEEE.
 
-**Embedded Systems, Firmware & Device Security**
-Security analysis of firmware, microcontrollers, hardware security modules, trusted execution environments (TEEs), mobile devices, and hardware-software interfaces. Includes BIOS/UEFI analysis, SPI and JTAG interfaces, fTPM implementations, control-flow integrity mechanisms, mobile device forensics across iOS and Android, and software update mechanism analysis.
+**Embedded, Hardware & Medical Device Systems**
+Security analysis of firmware, microcontrollers, hardware security modules, trusted execution environments (TEEs), and hardware-software interfaces, including BIOS/UEFI analysis, SPI and JTAG interfaces, fTPM implementations, control-flow-integrity mechanisms, and software update mechanisms. It extends to medical devices, patient-data systems, and healthcare computing infrastructure: Dr. Martin's doctoral research focused on securing medical devices, and he has written production code deployed in FDA-regulated medical devices, identified remote code execution vulnerabilities in life-critical infusion pump systems, and designed cryptographic protocols implemented in production healthcare environments.
 
-**Biomedical & Medical Device Security**
-Security analysis of medical devices, patient data systems, and healthcare computing infrastructure. Dr. Martin's doctoral research focused on securing medical devices and protecting patient privacy. He has written production code deployed in FDA-regulated medical devices, identified remote code execution vulnerabilities in life-critical infusion pump systems, and designed cryptographic protocols implemented in production healthcare environments.
+**Artificial Intelligence, Virtualization & Computing Infrastructure**
+Analysis of AI and large language model systems — model hosting infrastructure, inference performance, GPU and memory architecture for model serving, quantization and optimization, training and fine-tuning pipelines, and the security properties of AI systems — together with the virtualization, containerization, and cloud hosting platforms on which they run. Includes hypervisor and container-orchestration analysis, VM and container image forensics, PCIe passthrough and hardware isolation, and storage virtualization.
 
-**Artificial Intelligence & Language Model Systems**
-Analysis of AI and large language model systems including model hosting infrastructure, inference performance, GPU and memory architecture for model serving, security properties of AI systems, and the design and evaluation of AI-driven products. Covers model architecture, quantization and optimization, training and fine-tuning pipelines, and the interaction between hardware constraints and model performance.
-
-**Virtualization, Containerization & Hosting Infrastructure**
-Analysis of virtualization platforms, container orchestration systems, hypervisor implementations, and cloud hosting architectures. Includes VM and container image forensics, PCIe passthrough and hardware isolation, storage virtualization, and the design and security of infrastructure for compute-intensive workloads including AI model serving.
-
-**System & Network Performance Analysis**
-Measurement, quantification, and tuning of hardware and network system performance. Includes CPU, memory, GPU, and storage subsystem analysis; network throughput and latency characterization; benchmarking methodology; bottleneck identification; and performance regression analysis. Draws on more than twenty years of hands-on performance engineering across embedded systems, datacenter infrastructure, and consumer devices.
+**Performance Analysis & Experimental Testing**
+Measurement, quantification, and tuning of hardware and network system performance across CPU, memory, GPU, storage, and network subsystems — including benchmarking methodology, bottleneck identification, and performance-regression analysis — and the design and execution of custom experiments and system reconstructions built to answer the specific technical questions in dispute. Draws on more than twenty years of hands-on performance engineering across embedded systems, datacenter infrastructure, and consumer devices.
 
 ---
 
-## Technical Methodology
+## Representative Analyses & Methods
 
-Dr. Martin's analyses typically involve:
+Dr. Martin's engagements typically involve:
 
-- Large-scale source code review across systems ranging from thousands to billions of lines
-- Reverse engineering of software and firmware when source code is unavailable
-- Firmware extraction and embedded system analysis
-- Design and execution of custom experiments to answer specific technical questions in dispute
-- Technical explanation of computing systems in depositions, hearings, and trial testimony
-
----
-
-## Selected Litigation Matters
-
-Dr. Martin has provided expert testimony and analysis in matters involving:
-
-- Source code analysis of large-scale distributed software systems
-- Reverse engineering of embedded firmware in consumer and industrial devices
-- Cybersecurity and vulnerability analysis of networked systems
-- Intellectual property disputes involving complex software architectures
-- Forensic analysis of software behavior, system logs, and execution artifacts
-- Trade secret misappropriation involving proprietary source code and development timelines
-- Analysis of cryptographic implementations and security protocol design
-- Disputes involving AI and machine learning system design and performance
-- Hardware and network performance measurement and optimization
-- Disputes involving emulation, virtualization, and container technologies
+- Large-scale source code review and automated and manual comparison across systems ranging from thousands to billions of lines of code, in trade secret, copyright, contract, and code-quality disputes
+- Reverse engineering and forensic reconstruction of software behavior from binaries, firmware, execution traces, and logs when source code is unavailable
+- Firmware extraction and embedded-system analysis, including boot chains and update mechanisms, using interfaces such as SPI and JTAG
+- Malware analysis and cyber-attribution, including large-scale automated sample analysis and evaluation of the reasonableness of an organization's security measures
+- Analysis of cryptographic implementations, network and endpoint security products, and conformance to applicable standards
+- Design and execution of custom experiments — including performance measurement and benchmarking of CPU, GPU, memory, storage, and network subsystems — to answer specific technical questions in dispute
+- Clear technical explanation of complex computing systems to judges and juries in depositions, hearings, and at trial
 
 ---
 
-## Representative Technical Investigations
+## Teaching & Communication
 
-- Reverse engineering proprietary communication protocols in embedded devices
-- Analyzing firmware update mechanisms and boot chains in consumer electronics
-- Reconstructing system behavior from source code, execution traces, and log artifacts
-- Identifying security vulnerabilities in distributed and networked software systems
-- Conducting large-scale automated and manual source code comparison across codebases
-- Extracting and analyzing firmware from hardware devices using SPI and JTAG interfaces
-- Benchmarking and performance analysis of GPU, CPU, memory, and network subsystems
-- Evaluating inference performance and security properties of large language model deployments
-- Analyzing virtualization, container, and hypervisor implementations and their security boundaries
+Dr. Martin teaches C/C++ programming, computer security, and applied cryptography in the Department of Computer Science at Johns Hopkins University, where his security courses require students to read through real codebases, identify exploitable vulnerabilities, and write working exploits — the same analytical discipline he applies in litigation source code review. That experience translates directly to expert testimony, where complex technical concepts must be communicated clearly to judges and juries who may have no prior technical background.
 
 ---
 
-## Teaching and Communication
+## Testimony
 
-Dr. Martin teaches C/C++ programming, computer security, and applied cryptography in the Department of Computer Science at Johns Hopkins University. His security courses require students to read through real codebases, identify exploitable vulnerabilities, and write working exploits — the same analytical discipline he applies in litigation source code review. His teaching emphasizes explaining complex computing systems clearly to students with diverse technical backgrounds, without sacrificing depth or rigor.
-
-This experience translates directly to expert testimony, where complicated technical concepts must be communicated clearly to judges and juries who may have no prior technical background.
-
----
-
-## Trial & Hearing Testimony
+Dr. Martin has provided expert testimony eighteen times — at trial, in evidentiary hearings, and at deposition — in the following matters:
 
 **The Nielsen Company v. TVision**
 Case No. 25-575-CJB
-*Analysis related to audience measurement and identification systems and audio fingerprinting systems.*
-Services: Source code review, expert report drafting, source code and algorithm analysis and simulations.
-Expert Testimony at Trial: Wilmington, DE (June 8-9, 2026)
+*Audience measurement and identification systems and audio fingerprinting.*
+Services: Source code review, expert report drafting, algorithm analysis and simulations.
+Testimony: Trial — Wilmington, DE (June 8–9, 2026)
 
 **Certain Flash-Spun Nonwoven Materials and Products Containing Same**
 ITC Investigation No. 337-TA-1424
-*ITC Investigation related to nation-state threat actors, unfair competition, and trade secret misappropriation.*
+*Nation-state threat actors, unfair competition, and trade secret misappropriation.*
 Services: Malware analysis and reverse engineering, cyber-attribution, computer forensics, reasonableness of security measures.
-Expert Testimony at Trial: Washington, DC (January 29, 2026)
+Testimony: Trial — Washington, DC (January 29, 2026); Deposition — Washington, DC (September 6, 2025)
 
-**The Nielsen Company v. Hyphametrics, Inc.**
-Case No. 23-136-GBW-CJB
-*Analysis related to audience measurement and identification systems and machine learning systems.*
-Services: Source code review, expert report drafting, validity analysis.
-Expert Testimony at Trial: Wilmington, DE (July 24-25, 2025)
-
-**State of New Jersey v. Paul Caneiro**
-Indictment No. 19-02-283
-*Analysis related to reliability of specific types of computerized DNA analysis in criminal proceedings.*
-Services: Source code review, expert report drafting.
-Expert Testimony at Hearing: Freehold, NJ (December 6, 2024)
-
-**Certain Routers, Access Points, Controllers, Network Management Devices, Other Networking Products, and Hardware and Software Components Thereof**
-ITC Investigation No. 337-TA-1227
-*ITC Investigation related to patents on wireless network handoff, network management, and QoS technologies.*
-Services: Source code review, validity and prior art analysis, expert report drafting.
-Expert Testimony at Trial: Washington, DC (July 28, 2021)
-
-**United States v. Laffon Ellis**
-Case No. 2:19-cr-00369-DWA
-*Analysis related to reliability of specific types of computerized DNA analysis in criminal proceedings.*
-Services: Source code review, expert report drafting.
-Expert Testimony at Hearing: Monrovia, MD (December 20, 2021)
-
----
-
-## Deposition Testimony
-
-**Malikie Innovations Ltd, Key Patent Innovations Ltd v. MARA Holdings, Inc.**
+**Malikie Innovations Ltd., Key Patent Innovations Ltd. v. MARA Holdings, Inc.**
 Case No. 7:25-cv-00222-DC-DTG
-*Analysis related to cryptography, elliptic curve cryptography, random number generation, and cryptocurrencies.*
+*Cryptography, elliptic curve cryptography, random number generation, and cryptocurrencies.*
 Services: Source code review, expert report drafting, validity analysis.
-Expert Testimony at Deposition: Potomac, MD (January 22, 2026)
+Testimony: Deposition — Potomac, MD (January 22, 2026)
 
 **Twitch Interactive, Inc. v. Razdog Holdings LLC**
 IPR2025-03017
-*Analysis related to cloud-based content aggregation and streaming.*
+*Cloud-based content aggregation and streaming.*
 Services: Invalidity analysis, IPR drafting.
-Expert Testimony at Deposition: Washington, DC (October 10, 2025)
-
-**Certain Flash-Spun Nonwoven Materials and Products Containing Same**
-ITC Investigation No. 337-TA-1424
-Expert Testimony at Deposition: Washington, DC (September 6, 2025)
+Testimony: Deposition — Washington, DC (October 10, 2025)
 
 **The Nielsen Company v. Hyphametrics, Inc.**
 Case No. 23-136-GBW-CJB
-Expert Testimony at Deposition: Potomac, MD (February 5, 2025)
+*Audience measurement and identification systems and machine learning systems.*
+Services: Source code review, expert report drafting, validity analysis.
+Testimony: Trial — Wilmington, DE (July 24–25, 2025); Deposition — Potomac, MD (February 5, 2025)
 
 **Jonathan Day and Michelle Dobek v. Advanced Micro Devices, Inc.**
 Case No. 3:22-cv-04305
-*Litigation related to computer fTPM and TEE design characteristics.*
-Services: Technical analysis and expert reports on security and performance characteristics of trusted execution environments and the design of NVRAM interfaces through SPI.
-Expert Testimony at Deposition: Washington, DC (February 7, 2025)
+*Computer fTPM and TEE design characteristics.*
+Services: Technical analysis and expert reports on the security and performance characteristics of trusted execution environments and the design of NVRAM interfaces through SPI.
+Testimony: Deposition — Washington, DC (February 7, 2025)
+
+**State of New Jersey v. Paul Caneiro**
+Indictment No. 19-02-283
+*Reliability of specific types of computerized DNA analysis in criminal proceedings.*
+Services: Source code review, expert report drafting.
+Testimony: Evidentiary Hearing — Freehold, NJ (December 6, 2024)
 
 **LoganTree v. Fossil**
 Case No. 21-cv-0385-JDW
-*Litigation related to fitness tracking wearables.*
+*Fitness-tracking wearables.*
 Services: Technical analysis and expert reports on validity and infringement.
-Expert Testimony at Deposition: Monrovia, MD (August 11, 2023)
+Testimony: Deposition — Monrovia, MD (August 11, 2023)
 
 **ISI v. Intuitive Surgical, Inc.**
 Case No. 3:21-cv-03496-VC
-*Litigation related to cryptographic security protections.*
+*Cryptographic security protections.*
 Services: Technical analysis and expert reports on security and technical aspects of surgical devices.
-Expert Testimony at Deposition: Monrovia, MD (March 16, 2023)
+Testimony: Deposition — Monrovia, MD (March 16, 2023)
+
+**United States v. Laffon Ellis**
+Case No. 2:19-cr-00369-DWA
+*Reliability of specific types of computerized DNA analysis in criminal proceedings.*
+Services: Source code review, expert report drafting.
+Testimony: Evidentiary Hearing — Monrovia, MD (December 20, 2021)
 
 **Sysmex Corporation and Sysmex America, Inc. v. Beckman Coulter, Inc.**
 Case No. 19-1642-RGA-CJB
-*Litigation related to hematology analysis machine patents.*
+*Hematology analysis machine patents.*
 Services: Source code review, expert report drafting.
-Expert Testimony at Deposition: Monrovia, MD (November 22, 2021)
+Testimony: Deposition — Monrovia, MD (November 22, 2021)
 
-**Certain Routers, Access Points, Controllers, Network Management Devices**
+**Certain Routers, Access Points, Controllers, Network Management Devices, Other Networking Products, and Hardware and Software Components Thereof**
 ITC Investigation No. 337-TA-1227
-Expert Testimony at Deposition: Monrovia, MD (June 9-10, 2021)
+*Patents on wireless network handoff, network management, and QoS technologies.*
+Services: Source code review, validity and prior art analysis, expert report drafting.
+Testimony: Trial — Washington, DC (July 28, 2021); Deposition — Monrovia, MD (June 9–10, 2021)
 
 **Micro Focus, Inc. v. Insurance Services Organization**
 DE Civil Action No. 15-252-RGA
-*Litigation related to unlicensed use of runtime environments, libraries, and software compilers.*
+*Unlicensed use of runtime environments, libraries, and software compilers.*
 Services: Source code review, binary reverse engineering and analysis, affidavit drafting, expert report drafting.
-Expert Testimony at Deposition: Wilmington, DE (February 2, 2021)
+Testimony: Deposition — Wilmington, DE (February 2, 2021)
 
 **loanDepot.com, LLC v. Sigma Infosolutions, Inc.**
 AAA Case No. 01-18-0001-5821
-*Litigation related to software development practices.*
+*Software development practices.*
 Services: Source code analysis, experimentation, report drafting.
-Expert Testimony at Deposition: Baltimore, MD (December 17, 2019)
+Testimony: Deposition — Baltimore, MD (December 17, 2019)
 
 **Cypress Lake Software, Inc. v. Samsung Electronics America and Dell, Inc.**
 Case No. 6:18-cv-00030-RWS
-*Litigation related to infringement of UX patents.*
+*Infringement of UX patents.*
 Services: Source code analysis, report drafting.
-Expert Testimony at Deposition: Baltimore, MD (July 9, 2019)
+Testimony: Deposition — Baltimore, MD (July 9, 2019)
 
 ---
 
-## Testifying Expert Engagements
+The matters above reflect Dr. Martin's testimony record. He has been retained as a testifying or consulting expert in over 100 matters in total.
 
-**Bayerische Motoren Werke Aktiengesellschaft v. Onesta IP, LLC**
-Case No. 6:2025-cv-00581
-*Analysis related to power and latency-sensitive process scheduling.*
-Services: Expert declaration drafting, patent analysis.
-
-**Toyota Motor Corp v. AutoConnect Holdings LLC**
-PGR2025-00041
-*Analysis related to cloud-based vehicle management and security systems.*
-Services: Expert report drafting, validity analysis.
-
-**Amazon.com, Inc. v. B.S.D. Crown, Ltd.**
-IPR2025-00057
-*Analysis related to emulation and virtualization technology.*
-Services: Invalidity analysis, IPR drafting.
-
-**MediaTek Inc. v. Daedalus Prime LLC**
-IPR2025-00100
-*Analysis related to security processors embedded in microprocessors.*
-Services: Invalidity analysis, IPR drafting.
-
-**McKinney v. Corsair Gaming, Inc.**
-Case No. 4:22-cv-00312-JST
-*Litigation related to computer memory performance.*
-Services: Technical analysis and expert reports on characteristics of computer memory and forensic analysis of computer systems.
-
-**Nielsen v. TVSquared**
-Case No. 6:22-cv-00244-ADA
-*Litigation related to network-based audience measurement.*
-Services: Technical analysis and expert reports on patentable subject matter.
-
-**Healthcare Advanced Risk Technologies, Inc. and Inspirien Holdings Corp. v. Terrence Mills, AI.io Corp., Jane Nemcova and VEUU, Inc.**
-Case No. 2:22-cv-04192-JS-AYS
-*Litigation related to timeline of software development and misappropriation of trade secrets.*
-Services: Source code and documentation review, source code copying analysis, expert report drafting.
-
-**Communication Technologies, Inc. v. Samsung Electronics America, Inc. and Samsung Electronics Co. Ltd.**
-Case No. 2:21-cv-444-JRG
-*Litigation related to patents on secure erase processes.*
-Services: Source code review of algorithms related to secure erase processes, declaration on aspects of source code review process and representativeness of source code.
-
-**Planck, LLC D/B/A Patch Media v. Particle Media, Inc. D/B/A News Break, Et. Al.**
-Case No. 20-cv-10959 (LGS)
-*Litigation related to copyright.*
-Services: Review of web scraping facts, contracts and agreements and syndicated web feed technology, declaration on web scraping and syndicated web feed technology.
-
-**WSOU Investments, LLC D/B/A Brazos Licensing and Development v. Cisco, Inc.**
-Case No. 6:21-cv-00128-ADA
-*Litigation related to patents on wireless network handoff, network management, and authentication technologies.*
-Services: Source code review of accused products, declaration on aspects of source code review process.
-
-**Apple, Inc. Device Performance Litigation**
-CA Civil Action No. 18-md-02827-EJD
-*Litigation related to business practices.*
-Services: Technical analysis and expert reports on security and technical aspects of mobile phone forensics.
-
-**Italian Antitrust Authority v. Apple, Inc.**
-Case No. PS/11309
-*Litigation related to business practices.*
-Services: Technical analysis and expert reports on security and technical aspects of software update processes.
-
-**Carl Zeiss AG and ASML Netherlands B.V. v. Nikon**
-Case No. 2:17-cv-07083-RGK (MRWx)
-*Litigation related to patents on image detection algorithms.*
-Services: Source code review of algorithms related to image processing and detection, declaration on aspects of source code review process.
-
-**Decision Resources, LLC v. Brigham Hyde, Precision Health Intelligence, LLC and Orr Inbar**
-MA Civil Action No. 17-2834J
-*Litigation related to timeline of software development and misappropriation of trade secrets.*
-Services: Source code and documentation review, development timeline analysis, affidavit drafting.
-
----
-
-## Litigation Support & Consulting
-
-**Video Solutions v. Cisco, Inc.**
-Case No. 2:23-cv-222-JRG
-*Litigation related to videoconferencing and network performance optimization.*
-Services: Infringement analysis, source code review.
-
-**OmniTracs, LLC v. Motive Technologies, Inc.**
-Case No. 3:23-cv-05261-RFL
-*Litigation related to driver fleet management.*
-Services: Infringement analysis, source code review.
-
-**Proxense, LLC. v. Google, LLC**
-Case No. 6:23-cv-00320-ADA
-*Litigation related to patents on biometrics and payment processing.*
-Services: Claim construction analysis and report drafting.
-
-**Robocast v. Netflix, Inc.**
-Case No. 1:22-cv-00305-JLH-CJB
-*Litigation related to hypermedia and multimedia node structures.*
-Services: Invalidity and noninfringement analysis and report drafting, source code review.
-
-**Mediapointe, Inc v. Microsoft Corporation**
-Case No. 2:22-cv-01009-MCS-MRW
-*Litigation related to content delivery networks.*
-Services: Claim construction analysis, source code review, validity analysis, infringement analysis, report drafting.
-
-**Mediapointe, Inc v. Akamai Corporation**
-Case No. 2:22-cv-06233-MCS-AFM
-*Litigation related to content delivery networks.*
-Services: Claim construction analysis, source code review, validity analysis, infringement analysis, report drafting.
-
-**Lauri Valjakka v. Netflix, Inc.**
-Case No. 4:22-cv-01490-JST
-*Litigation related to content delivery networks.*
-Services: Claim construction analysis, invalidity analysis, noninfringement analysis, report review.
-
-**Softex LLC v. Absolute Software Corporation, Dell Technologies Inc, and HP Inc.**
-Case No. 1:22-cv-01309-DAE
-*Litigation related to computer anti-theft technology.*
-Services: Claim construction analysis, source code review, report review, binary reverse engineering and product testing.
-
-**Fanduel, Inc v. Winview, Inc**
-IPR 2022-01306, IPR-01307
-*Litigation related to patents on probability systems.*
-Services: Document review, invalidity analysis, report review.
-
-**Proxense, LLC. v. Samsung Electronics America, Inc. and Samsung Electronics**
-Case No. 6:21-cv-00210-ADA
-*Litigation related to patents on biometrics and payment processing.*
-Services: Source code review, documentation review, product testing, validity analysis, infringement analysis, report drafting.
-
-**Global Eticket Exchange Ltd. vs. TicketMaster LLC**
-Case No. 6:21-cv-00399-ADA
-*Litigation related to patents on electronic ticketing.*
-Services: Source code review, documentation review, product testing, invalidity analysis, non-infringement analysis, report drafting.
-
-**AGIS Software Development LLC v. Uber Technologies**
-Case No. 2:21-cv-00026-JRG-RSP
-*Litigation related to patents on map overlays and messaging systems.*
-Services: Source code review.
-
-**WSOU Investments, LLC D/B/A Brazos Licensing and Development v. Microsoft Corporation**
-Case No. 6:20-cv-00464-ADA, 6:20-cv-00460-ADA, 6:20-cv-00457-ADA
-*Litigation related to patents on telephony management systems and skill-based matchmaking.*
-Services: Source code review, documentation review, validity analysis, infringement analysis, report drafting.
-
-**US Dominion, Inc. vs. Fox News Network**
-Case No. N21C-03-257-EMD
-*Litigation related to defamation and voting machine security.*
-Services: Source code review, documentation review, product testing, report drafting.
-
-**Centripetal Networks, Inc. vs. Keysight Technologies, Inc.**
-Case No. 2:22-cv-0002-AWA-DEM
-*Litigation related to patents on network monitoring devices and security gateways.*
-Services: Source code review, documentation review, product testing, noninfringement analysis, infringement analysis.
-
-**Milliman, Inc and Vigilytics LLC, vs. Gradient A.I. Corp.**
-Case No. 1:21-cv-10865-NMG
-*Litigation related to breach of contract and source code copying.*
-Services: Source code review, documentation review.
-
-**Huawei Technologies Co. v. Verizon Communications Inc.**
-Case No. 6:20-CV-00090
-*Litigation related to patents on malware scanning gateways with cloud components.*
-Services: Source code review, non-infringement analysis.
-
-**Epic Games, Inc. vs. Apple, Inc.**
-Case No. 4:20-cv-05640-YGR-TSH
-*Litigation related to security and competition.*
-Services: Document review, interviews, report drafting.
-
-**Epic Games, Inc. & Anor vs. Apple Inc & Anor**
-Case No. NSD 1236 of 2020
-*Litigation related to security and competition.*
-Services: Document review, interviews, report drafting.
-
-**10Tales Inc. v. TikTok PTE. Ltd.**
-Case No. 1:18-cv-826-WCB
-*Litigation related to patents on user-adapted video streams.*
-Services: Claim construction analysis.
-
-**Rimini Street, Inc. v. Oracle International Corporation, et al.**
-Case No. 2:14-cv-01699 LRH-CWH
-*Litigation related to false claims on security.*
-Services: Large-scale testing of IPS techniques including custom test infrastructure and implementation of techniques to block exploitation of vulnerabilities, technical analysis of vulnerabilities.
-
-**Philips North America LLC; Koninklijke Philips N.V. vs. Summit Imaging Inc.**
-Case No. 2:19-cv-01745-JLR
-*Litigation related to third-party repair services.*
-Services: Source code review, document review, report drafting.
-
-**California Physicians Service, Inc D/B/A Blue Shield of California vs. Healthplan Services Inc**
-Case No. 3:18-cv-3730
-*Litigation related to software development practices and breach of contract.*
-Services: Document review, source code review, report drafting.
-
-**Blackberry Limited v. Facebook, Inc.**
-Case No. 2:18-cv-01844-KSx
-*Litigation related to patents on agent-based network monitoring, configuration, and security systems.*
-Services: Infringement analysis, validity analysis, source code review, report drafting.
-
-**Netfuel, Inc. v. Cisco Systems, Inc.**
-Case No. 5:18-cv-2352-EJD
-*Litigation related to patents on agent-based network monitoring, configuration, and security systems.*
-Services: Infringement analysis, claim construction analysis, source code review, report drafting.
-
-**Koninklijke Philips v. Microsoft Inc.**
-Case No. 4:18-cv-01885-HSG
-*Litigation related to patents on secure cryptographic protocols.*
-Services: Non-infringement analysis, validity analysis, claim construction analysis, document review, source code review.
-
-**Finjan v. Qualys**
-Case No. 4:18-cv-07229-YGR
-*Litigation related to patents on vulnerability assessment products.*
-Services: Invalidity analysis, non-infringement analysis, source code review, report drafting.
-
-**Finjan v. SonicWall**
-Case No. 5:17-cv-04467-BLF-HRL
-*Litigation related to patents on malware scanning gateways.*
-Services: Invalidity analysis, non-infringement analysis, source code review, report drafting.
-
-**Carriere v. Symantec Corporation**
-Case No. 500-06-000894-176
-*Class action litigation related to product security.*
-Services: Source code review, documentation review, report drafting.
-
-**IOENGINE, LLC v. Ingenico, Inc.**
-Case No. 1:18-cv-826-WCB
-*Litigation related to patents on payment processing systems.*
-Services: Source code review, documentation review, validity analysis, infringement analysis, report drafting.
-
-**IOENGINE, LLC v. PayPal Holdings, Inc.**
-Case No. 1:18-cv-452-WCB
-*Litigation related to patents on payment processing systems.*
-Services: Source code review, documentation review, validity analysis, infringement analysis, report drafting.
-
-**Strikeforce, Inc. v. Entrust et al.**
-Case No. 1:17-cv-00309
-*Litigation related to patents on authentication technologies.*
-Services: Invalidity argument development, non-infringement argument development, report drafting.
-
-**Symantec Corporation v. Zscaler, Inc.**
-Case No. 3:17-cv-04414-JST
-*Litigation related to patents on security gateways, URL filtering, and categorization.*
-Services: Infringement analysis, assignor estoppel, document review.
-
-**Finjan v. Juniper Networks**
-Case No. 3:17-cv-05659-WHA
-*Litigation related to patents on malware scanning gateways.*
-Services: Invalidity analysis, non-infringement analysis, source code review.
-
-**Grace et al. v. Apple Inc.**
-Case No. 5:17-cv-00551-LHK (NC)
-*Litigation related to device performance and service outages.*
-Services: Mobile forensics and device analysis, report drafting, source code review, document review, technical analysis and argument construction.
-
-**Sony Corporation, Inc. v. Arris**
-Inv. No. 337-TA-1049
-*Litigation related to patents on television streaming devices and/or services.*
-Services: Validity argument development, source code review of entire platform codebase including numerous embedded platforms, infringement argument development.
-
-**Kudelski SA, Nagra USA, Inc., Nagravision SA, and OpenTV, Inc. v. Comcast Corporation**
-Case No. 2:16-cv-1362-JRG, Inv. No. 337-TA-1049
-*Litigation related to patents on television streaming devices and/or services.*
-Services: Validity argument development, source code review of entire platform codebase including numerous embedded platforms, infringement argument development.
-
-**Amazon.com Inc., Hulu, LLC, and Netflix, Inc. v. Uniloc Luxembourg S.A.**
-IPR 2017-00948
-*Litigation related to patents on DRM protection for content distribution.*
-Services: Prior art search, PGR preparation, IPR preparation.
-
-**Uniloc, Inc. v. Big Fish Games, Inc.**
-Case No. 2:16-cv-00741-JRG
-*Litigation related to patents on hardware cryptographic chips.*
-Services: Non-infringement analysis, report drafting, source code review.
-
-**SPEX Technologies, Inc. v. Toshiba America Electronic Components, Inc., et al.**
-Case No. 8:16-cv-01800-JVS
-*Litigation related to patents on hardware cryptographic chips.*
-Services: Non-infringement analysis, report drafting.
-
-**PhishMe v. Wombat Technologies, Inc.**
-Case No. 16-403-LPS-CJB
-*Litigation related to patents on anti-phishing training technologies.*
-Services: Prior art search, PGR preparation, IPR preparation.
-
-**Palo Alto Networks v. Finjan**
-IPR 2016-00159, IPR 2016-00151, IPR 2015-01974, IPR 2015-02001, IPR 2015-01979
-*Litigation related to patents on malware scanning gateways and firewalls.*
-Services: Prior art search, patent interpretation, IPR preparation support, claim chart review.
-
-**Nader Asghari-Kamrani and Kamran Asghari-Kamrani v. United States Automobile Association**
-Case No. 2:15-cv-478
-*Litigation related to patents on authentication technologies.*
-Services: Prior art search, invalidity argument strategy, non-infringement argument strategy, source code reviews.
-
-**Vir2us v. Invincea Inc. and Invincea Labs, LLC**
-Case No. 2:15-cv-00162-HCM-LRL
-*Litigation related to patents on virtualization and automated corruption repair.*
-Services: Prior art search, invalidity argument strategy, non-infringement argument strategy, source code reviews.
-
-**Finjan v. Symantec Corporation**
-Case No. 14-cv-02998-HSG
-*Litigation related to patents on malware scanning gateways, endpoint protection, and firewalls.*
-Services: Build and/or test software for Windows, invalidity argument strategy, non-infringement argument strategy, report preparation, source code reviews.
-
-**TecSec Inc. v. Cisco and Oracle**
-Case No. 1:10-cv-115 LO-TCB
-*Litigation related to patents on hardware accelerated cryptographic processors.*
-Services: Infringement analysis, validity analysis, source code review, report drafting.
-
-**Finjan v. Palo Alto Networks**
-Case No. 4:14-CV-04908-PJH
-*Litigation related to patents on malware scanning gateways.*
-Services: Invalidity analysis, claim construction analysis, source code review.
-
-**TVIIM v. McAfee**
-Case No. 3:13-cv-04545-VC
-*Litigation related to patents on vulnerability scanning.*
-Services: Build and test software for SPARC/Linux/Windows, prior art and non-infringement argument strategy support, source code reviews, prior art search.
-
-**Al Cioffi et al. v. Google**
-Case No. 2:13-cv-103-JRG-RSP
-*Litigation related to patents on browser sandboxing and process isolation.*
-Services: Code review/software testing to collect evidence of infringement, infringement argument preparation support, claim chart review.
-
-**Rovi Solutions & Veracode v. Appthority**
-Case No. 12-10487-DPW
-*Litigation related to patents on static debugging tools.*
-Services: Source code review refuting opposing expert testimony.
-
-**Byrd et al. v. Aaron's, Inc., et al.**
-PA Civil Action No. 1:11-cv-00101-SJM-SPB
-*Class action litigation related to privacy.*
-Services: Attend depositions, source code review, report drafting.
-
----
-
-## Analysis, Design & Development Clients
-
-In addition to litigation work, Dr. Martin has provided technical analysis, design, and development services to organizations across medical devices, telecommunications, semiconductors, and security — including:
-
-Arai, Baxter, Bigfoot Medical, BT Group, Cardiac Sciences, Dyadic, Fresenius, HLFIP Holdings, Hospira, ICU Medical, Inexto, Intuitive Surgical, Merlin, Orpheus, Security First Corporation, Texas Instruments, Thesys, Vaxxin
+[View the full engagement record &mdash; reports, declarations, and consulting matters &rarr;](/expert-witness/engagements/)

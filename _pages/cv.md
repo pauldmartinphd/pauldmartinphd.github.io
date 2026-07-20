@@ -28,7 +28,7 @@ redirect_from:
 
 ---
 
-## Industry Experience
+## Professional Experience
 
 **Chief Scientist**, [Harbor Experts](https://harborexperts.com) (2024-Present)
 
@@ -52,6 +52,8 @@ redirect_from:
 *Designed security architecture for a $20M digital preservation grant*
 
 **Freelance Software Developer**, Brandeis University Computer Repair Shop (2008)
+
+*Consulting and advisory clients span the medical device, telecommunications, semiconductor, and security industries.*
 
 ---
 
@@ -136,17 +138,13 @@ Use of multimodal large language models for diagnosis of disease progression.
 
 ## Technical Skills
 
-**Languages:** BASH, C, C++, C#, HTML, Java, JavaScript, Objective-C, Python, Perl, PHP, Regular Expressions, SQL, XML
+**Programming & Software Development:** BASH, C, C++, C#, HTML, Java, JavaScript, Objective-C, Perl, PHP, Python, Regular Expressions, SQL, XML; Ant, BitBucket, Confluence, gdb, git, GitHub, GitLab, Gradle, Jira, make, Maven, subversion, Trello, Vagrant, valgrind
 
-**Architectures:** 6502, 8051, 8080, ARM Cortex-M, ARMv7, ARMv8, AVR, m68k, MIPS, MSP430, PIC, SPARC, PowerPC, x86, x86-64, Z80
+**Platforms & Architectures:** 6502, 8051, 8080, AVR, PIC, MSP430, Z80, m68k, ARM Cortex-M, ARMv7, ARMv8, MIPS, PowerPC, SPARC, x86, x86-64; Android, ChromeOS, FreeBSD, iOS, Linux, macOS, OpenBSD, Windows
 
-**Operating Systems:** Android, ChromeOS, FreeBSD, iOS, OpenBSD, Linux, macOS, Windows
+**Security & Reverse Engineering:** Aircrack-ng, apktool, binwalk, bulk-extractor, Burp Suite, Charles Proxy, curl, dex2jar, ftk, hashcat, IDA Pro, jad, jd-gui, Metasploit, mitmproxy, Nessus, nmap, OpenSSL, ophcrack, p0f, Scalpel, skipfish, snort, sslstrip, sslyze, Volatility, Web Scarab, wget, Wireshark
 
-**DevOps and Development Tools:** Ansible, Ant, BitBucket, Confluence, Docker, gdb, git, GitHub, GitLab, Gradle, Hadoop, jad, jd-gui, Jira, Maven, make, MySQL, PostgreSQL, subversion, Trello, Vagrant, valgrind
-
-**Security Tools:** Aircrack-ng, apktool, binwalk, bulk-extractor, Burp Suite, Charles Proxy, curl, dex2jar, ftk, hashcat, IDA Pro, Metasploit, mitmproxy, Nessus, nmap, OpenSSL, ophcrack, p0f, Scalpel, skipfish, snort, sslstrip, sslyze, Volatility, Web Scarab, wget, Wireshark
-
-**Cloud and Virtualization:** AWS, Azure, Bhyve, KVM, LXD, QEMU, virt-manager, VMware, Xhyve
+**Infrastructure & Data Systems:** Ansible, Docker, Hadoop, MySQL, PostgreSQL; AWS, Azure, Bhyve, KVM, LXD, QEMU, virt-manager, VMware, Xhyve
 
 ---
 
