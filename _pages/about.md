@@ -24,6 +24,46 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 ---
 
+## Expert Witness
+
+Dr. Martin's expert work spans software and firmware security, reverse engineering, source code analysis, cryptography, embedded systems, and network protocols. What sets his practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine — including production code in FDA-regulated medical devices — designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
+
+Dr. Martin accepts expert witness and consulting engagements through **[Harbor Experts](https://harborexperts.com)**.
+
+[View all expert witness engagements &rarr;](/expert-witness/)
+
+---
+
+## Research & Innovation
+
+Five threads run through Dr. Martin's research and engineering work: **source code analysis**, **security and cryptography**, **performance measurement and optimization**, **virtualization and hosting infrastructure**, and **full-stack systems engineering** from hardware through application software.
+
+He designed and led development of [Firmware IQ](https://harborlabs.com/regulatory-support/persistent-vulnerability-monitoring/), a commercial security analysis platform that scans firmware, containers, and virtual machine images for known vulnerabilities and cryptographic implementation flaws, cross-referencing findings against NIST's National Vulnerability Database. He also designed [Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC), a CPU add-on for IoT-class processors that enforces control-flow integrity on embedded devices. Both the integrated audit and access control system he developed (subsequently patented by Accenture) and the smart grid traffic profiling platform he built at Applied Communication Sciences (commercialized as part of their SecureSmart MSS product) grew directly from this work.
+
+A single idea runs through much of his current research: in a modern software supply chain, a component's version number is a poor guide to whether it is actually vulnerable. Enterprise Linux distributions ship soft-forked packages whose incomplete backports let real vulnerability exposure drift away from upstream, so the same version can hide very different risk. Firmware IQ addresses the detection side, inventorying the components inside firmware, containers, and images to surface their known vulnerabilities; his current research measures the drift itself, across rolling and enterprise distributions; and the Linux distribution he is now building is the constructive answer, engineered around a patch-management model that closes the gap.
+
+He designs, builds, and operates virtualization and hosting infrastructure for security research, AI inference, and expert witness work — currently consolidating what was previously an entire rack of dedicated appliances into a single Proxmox-based system that also serves as a local inference platform for frontier-class large language models. Over twenty years of hands-on performance measurement and tuning across embedded systems, network infrastructure, and datacenter hardware informs both his research and his expert analysis in litigation.
+
+[View publications & patents &rarr;](/publications/)
+
+---
+
+## Teaching
+
+At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network security, and applied cryptography — courses built around hands-on analysis of real codebases, the same discipline he applies in litigation. He co-instructed a hardware-hacking course that earned the department's highest student ratings and received the Computer Science Department's Outstanding Teaching Assistant Award in 2014.
+
+[View teaching experience &rarr;](/teaching/)
+
+---
+
+## Projects & Lab
+
+Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit microcontrollers (6502, 8051, Z80, AVR, PIC) through embedded processors (ARM, MIPS, MSP430) to server-class systems (x86-64, SPARC, PowerPC) — and maintains a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
+
+[View selected projects &rarr;](/portfolio/)
+
+---
+
 ## In the Media
 
 [The Asbury Park Press](https://www.app.com/picture-gallery/news/crime/2026/04/20/paul-caneiro-murder-investigation-to-pretrial-hearings-2018-2026-photos/88996938007/) — photo gallery documenting the State of New Jersey v. Paul Caneiro case, 2018–2026 (April 2026)
@@ -38,54 +78,8 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 ---
 
-## Expert Witness
-
-Dr. Martin's expert work spans software and firmware security, reverse engineering, source code analysis, cryptography, embedded systems, network protocols, and more. Attorneys have described his ability to teach complex technical concepts to judges and juries in a clear and approachable manner.
-
-What distinguishes his practice is that he is not only an analyst — he has written production code deployed in FDA-regulated medical devices, identified and demonstrated remote code execution vulnerabilities in life-critical medical systems, and designed cryptographic protocols implemented in production healthcare environments. He designs and executes **custom experiments** to answer critical questions in litigation, and he can work cases where **source code is lost or unavailable** through binary reverse engineering and forensic reconstruction.
-
-Dr. Martin accepts expert witness and consulting engagements through **[Harbor Experts](https://harborexperts.com)**.
-
-[View all expert witness engagements &rarr;](/expert-witness/)
-
----
-
-## Research & Innovation
-
-Five threads run through Dr. Martin's research and engineering work: **source code analysis**, **security and cryptography**, **performance measurement and optimization**, **virtualization and hosting infrastructure**, and **full-stack systems engineering** from hardware through application software.
-
-He designed and led development of [Firmware IQ](https://harborlabs.com/regulatory-support/persistent-vulnerability-monitoring/), a commercial security analysis platform that scans firmware, containers, and virtual machine images for known vulnerabilities and cryptographic implementation flaws, cross-referencing findings against NIST's National Vulnerability Database. He also designed [Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC), a CPU add-on for IoT-class processors that enforces control-flow integrity on embedded devices. Both the integrated audit and access control system he developed (subsequently patented by Accenture) and the smart grid traffic profiling platform he built at Applied Communication Sciences (commercialized as part of their SecureSmart MSS product) grew directly from this work.
-
-One line of research ties that work to what Dr. Martin is building today: software supply-chain vulnerability assessment — the widening gap between the version a component appears to run and the vulnerabilities it is actually exposed to. Firmware IQ maps component versions to known CVEs; his current research stress-tests that premise at the operating-system layer, quantifying how the soft-forked packages in enterprise Linux distributions diverge from upstream in both real-world exposure and patch lead time. Those findings, in turn, motivate the Linux distribution he is currently building.
-
-He designs, builds, and operates virtualization and hosting infrastructure for security research, AI inference, and expert witness work — currently consolidating what was previously an entire rack of dedicated appliances into a single Proxmox-based system that also serves as a local inference platform for frontier-class large language models. Over twenty years of hands-on performance measurement and tuning across embedded systems, network infrastructure, and datacenter hardware informs both his research and his expert analysis in litigation.
-
-[View research, patents & publications &rarr;](/publications/)
-
----
-
-## Teaching
-
-At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network security, and applied cryptography. His security courses have a significant source code analysis component: students read through real codebases to identify exploitable vulnerabilities, then write working exploits that leverage internal system-architecture knowledge to achieve code execution. This mirrors the analytical work he performs in litigation, where understanding how code actually behaves — not just what it is supposed to do — is critical.
-
-Previously, he co-instructed a course on hardware hacking that received the highest student ratings in the Computer Science department during its session. He was awarded the Computer Science Department Outstanding Teaching Assistant Award in 2014.
-
-[View teaching experience &rarr;](/teaching/)
-
----
-
-## Projects & Lab
-
-Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit microcontrollers (6502, 8051, Z80, AVR, PIC) through embedded processors (ARM, MIPS, MSP430) to server-class systems (x86-64, SPARC, PowerPC) — and maintains a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
-
-[View selected projects &rarr;](/portfolio/)
-
----
-
 Dr. Martin also maintains a [technical laboratory site](https://technicomp.io) documenting systems research and hardware projects.
 
 ---
 
 [Download CV (PDF)](/files/PaulMartin-CV.pdf)
-
-[Download Professional Background (PDF)](/files/PaulMartin-Professional-Background.pdf)

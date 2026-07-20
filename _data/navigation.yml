@@ -2,13 +2,13 @@ main:
   - title: "Expert Witness"
     url: /expert-witness/
 
-  - title: "Research, Patents & Publications"
+  - title: "Patents & Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Selected Technical Work"
+  - title: "Projects"
     url: /portfolio/
 
   - title: "CV"

@@ -177,9 +177,3 @@ Six Sigma Green Belt
 ## Expert Witness Engagements
 
 [View complete list of expert witness engagements &rarr;](/expert-witness/)
-
----
-
-[Download CV (PDF)](/files/PaulMartin-CV.pdf)
-
-[Download Professional Background (PDF)](/files/PaulMartin-Professional-Background.pdf)
