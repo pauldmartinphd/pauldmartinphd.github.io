@@ -12,6 +12,8 @@ redirect_from:
 
 [Download CV (PDF)](/files/PaulMartin-CV.pdf)
 
+[Download Professional Background (PDF)](/files/PaulMartin-Professional-Background.pdf)
+
 ---
 
 ## Education
@@ -114,19 +116,21 @@ IEEE 7024 Working Group — "Standard for the Procurement, Verification and Vali
 
 ## Current Research
 
-Use of multimodal large language models for diagnosis of disease progression.
-
-Use of large language models for certain types of technical research and analysis.
-
-Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models.
+*A central thread in Dr. Martin's current research is software supply-chain security: quantifying, and then reducing, the gap between a software component's nominal version and its true vulnerability exposure — from firmware, through operating-system distributions, to language package managers.*
 
 Automated binary version extraction for NVD cross-reference based on fuzzy matching.
 
 Automated analysis of vulnerabilities in containers and virtual appliances.
 
-Large-scale comparison of nature and kind of firmware vulnerabilities across and within product classes.
+Large-scale comparison of the nature and kind of firmware vulnerabilities across and within product classes.
 
-Quantifying vulnerability divergence and patch lead time between rolling and enterprise Linux distributions, including the distribution-design question of whether enterprise distributions should share soft-forked package versions; related comparison of musl and glibc attack surface normalized by code size and severity.
+Quantifying vulnerability divergence and patch lead time between rolling and enterprise Linux distributions: whether rolling distributions are more secure against known and unknown CVEs, whether enterprise distributions should be based on rolling LTS packages, and whether distributions should converge on shared soft-forked package versions so that maintenance effort can be pooled rather than duplicated. A planned follow-up extends the same analysis to programming-language package managers. Related work compares musl and glibc attack surface normalized by code size and severity.
+
+Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models.
+
+Use of large language models for certain types of technical research and analysis.
+
+Use of multimodal large language models for diagnosis of disease progression.
 
 ---
 
@@ -179,3 +183,5 @@ Six Sigma Green Belt
 ---
 
 [Download CV (PDF)](/files/PaulMartin-CV.pdf)
+
+[Download Professional Background (PDF)](/files/PaulMartin-Professional-Background.pdf)
