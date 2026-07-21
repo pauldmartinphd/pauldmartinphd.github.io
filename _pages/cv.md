@@ -178,4 +178,6 @@ Six Sigma Green Belt
 
 ## Expert Witness Engagements
 
-[View complete list of expert witness engagements &rarr;](/expert-witness/)
+[View testimony record &rarr;](/expert-witness/)
+
+[View reports, declarations & consulting engagements &rarr;](/expert-witness/engagements/)

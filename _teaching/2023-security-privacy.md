@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Baltimore, MD"
 ---
 
-Lecturer. See the [2024 offering](/teaching/2024-security-privacy) for course description.
+Lecturer. Covers hardware and software security design, vulnerability assessment and reverse engineering, hardware- and software-based attacks on computer components including RAM and CPUs, applied cryptography, computer architecture, networking, and component-level analysis, with hands-on projects in emulated and virtualized environments.
