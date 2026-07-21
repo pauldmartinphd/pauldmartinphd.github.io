@@ -14,7 +14,9 @@ He has provided expert testimony in federal and state courts, the International 
 
 He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research, advised by [Dr. Avi Rubin](https://avirubin.com), focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
-## Litigation Experience
+## Expert Witness
+
+What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine — including production code in FDA-regulated medical devices — designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
 
 - 18 testimony appearances
 - 12 depositions
@@ -23,12 +25,6 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 - 100+ large-scale source code reviews
 
 **[Download CV (PDF)](/files/PaulMartin-CV.pdf)**
-
----
-
-## Expert Witness
-
-What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine — including production code in FDA-regulated medical devices — designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
 
 Dr. Martin accepts expert witness and consulting engagements through **[Harbor Experts](https://harborexperts.com)**.
 
