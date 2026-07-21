@@ -1,9 +1,11 @@
 ---
 title: "Dynamic Analysis Plugin for IDA Pro"
-excerpt: "IDA Pro plugin and emulator for observing how binary instruction snippets from malware samples modify their computing environment. Developed in collaboration with the NSA."
+excerpt: "IDA Pro plugin and emulator that observes how binary instruction snippets — including code from malware samples — modify their computing environment, for dynamic analysis of compiled binaries."
 collection: portfolio
 category: analysis
-weight: 12
+weight: 11
 ---
 
-Developed as a student project in collaboration with the NSA, this emulator integrates as an IDA Pro plugin to analyze malware code segments. The tool observes how binary instruction snippets taken from malware samples modify their computing environment, enabling analysts to understand malware behavior without executing it on live systems.
+An IDA Pro plugin and emulator for dynamic analysis of binary code. The tool runs binary instruction snippets — including code taken from malware samples — in an instrumented emulator and observes how they modify their computing environment, letting analysts understand behavior and identify potential algorithm instantiations within compiled binaries without executing the code on live systems.
+
+This work was conducted at Johns Hopkins University (January–May 2013) as part of a research program run by the National Security Agency at universities, and was presented to the NSA in May 2013.

@@ -3,7 +3,6 @@ title: "Security and Privacy in Computing (Teaching Assistant, 2012–2014)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2012-security-privacy-ta
-redirect_to: /teaching/
 venue: "Johns Hopkins University, Department of Computer Science"
 date: 2014-01-01
 location: "Baltimore, MD"

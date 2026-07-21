@@ -3,7 +3,6 @@ title: "Introduction to Hardware Hacking"
 collection: teaching
 type: "Short course"
 permalink: /teaching/2015-hardware-hacking
-redirect_to: /teaching/
 venue: "Johns Hopkins University, Department of Computer Science"
 date: 2015-01-01
 location: "Baltimore, MD"

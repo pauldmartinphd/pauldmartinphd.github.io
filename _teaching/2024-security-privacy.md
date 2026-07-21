@@ -3,7 +3,6 @@ title: "Security and Privacy in Computing (2024)"
 collection: teaching
 type: "Graduate/Undergraduate course"
 permalink: /teaching/2024-security-privacy
-redirect_to: /teaching/
 venue: "Johns Hopkins University, Department of Computer Science"
 date: 2024-01-01
 location: "Baltimore, MD"
