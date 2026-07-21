@@ -23,10 +23,10 @@ Dr. Martin teaches computer security and applied cryptography at Johns Hopkins U
 ## Areas of Expertise
 
 **Software, Source Code & Intellectual Property Analysis**
-Dr. Martin has led over 100 large-scale source code reviews in litigation, spanning systems from thousands to billions of lines of code. This work covers trade secret misappropriation, copyright infringement, breach of contract, and code-quality disputes, and includes manual review, automated comparison, architectural analysis, development-timeline reconstruction, and identification of exploitable vulnerabilities. He has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
+Source code and software architecture at issue in intellectual-property and commercial disputes, including trade secret misappropriation, copyright infringement, breach of contract, and code-quality matters. Dr. Martin has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
 
 **Reverse Engineering, Malware & Digital Forensics**
-Disassembly, decompilation, and forensic reconstruction of software behavior when source code is unavailable, lost, or destroyed — including firmware extraction, binary diffing, and work with tools such as Ghidra and IDA Pro. This area encompasses static and dynamic malware analysis and the attribution of intrusions and code to the actors responsible, including nation-state activity; forensic examination of computers and mobile devices across iOS and Android; reconstruction of system and user activity from logs and execution artifacts; and assessment of the reliability and validity of forensic software, including the computerized DNA-analysis software scrutinized in criminal proceedings. Dr. Martin is a member of the IEEE 7024 Working Group on the verification, validation, and life-cycle management of forensic technologies.
+Compiled software, firmware, and malicious code, and the forensic artifacts that computing systems leave behind. This area covers malware and the attribution of intrusions and code to the actors responsible, including nation-state activity; digital forensics of computers and mobile devices across iOS and Android; and the reliability and validity of forensic software, including the computerized DNA-analysis software scrutinized in criminal proceedings.
 
 **Cybersecurity, Cryptography & Network Security**
 Analysis of cryptographic implementations (elliptic curve cryptography, random number generation, key management, TLS/SSL, DRM, and authentication protocols), network security infrastructure (firewalls, IPS, VPNs, content delivery networks, and wireless handoff protocols), and endpoint security products (malware-scanning gateways, URL filtering, and anti-phishing technologies) — covering both correctness of implementation and conformance to standards such as NIST and IEEE.
@@ -44,7 +44,7 @@ Analysis of AI and large language model systems — model architecture, hosting 
 Analysis of virtualization platforms, container-orchestration systems, hypervisor implementations, and cloud hosting architectures — a thread that runs through much of Dr. Martin's litigation and research work, from VM and container image forensics to PCIe passthrough and hardware isolation, storage virtualization, and the design and security of infrastructure for compute-intensive workloads including AI model serving.
 
 **Performance Analysis & Experimental Testing**
-Measurement, quantification, and tuning of hardware and network system performance across CPU, memory, GPU, storage, and network subsystems — including benchmarking methodology, bottleneck identification, and performance-regression analysis — and the design and execution of custom experiments and system reconstructions built to answer the specific technical questions in dispute. Draws on more than twenty years of hands-on performance engineering across embedded systems, datacenter infrastructure, and consumer devices.
+Hardware and network system performance — CPU, memory, GPU, storage, and network subsystems — in matters that turn on measured behavior such as throughput, latency, bottlenecks, and performance regressions rather than documented intent. Draws on more than twenty years of hands-on performance engineering across embedded systems, datacenter infrastructure, and consumer devices.
 
 ---
 
@@ -56,7 +56,6 @@ Dr. Martin's engagements typically involve:
 - Reverse engineering and forensic reconstruction of software behavior from binaries, firmware, execution traces, and logs when source code is unavailable
 - Firmware extraction and embedded-system analysis, including boot chains and update mechanisms, using interfaces such as SPI and JTAG
 - Malware analysis and cyber-attribution, including large-scale automated sample analysis and evaluation of the reasonableness of an organization's security measures
-- Analysis of cryptographic implementations, network and endpoint security products, and conformance to applicable standards
 - Design and execution of custom experiments — including performance measurement and benchmarking of CPU, GPU, memory, storage, and network subsystems — to answer specific technical questions in dispute
 - Clear technical explanation of complex computing systems to judges and juries in depositions, hearings, and at trial
 

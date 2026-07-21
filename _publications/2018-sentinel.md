@@ -10,3 +10,5 @@ citation: 'P. Martin, D. Russel, M. Ben Salem, S. Checkoway, A. Rubin. &quot;Sen
 ---
 
 Sentinel is a hardware-based security system designed to be soldered directly to the CPU of IoT-class embedded devices. It monitors control-flow transitions to build runtime profiles of normal device behavior and enforces those profiles to detect anomalous execution, providing control-flow integrity for resource-constrained embedded systems.
+
+See the [project page](/portfolio/3-sentinel/) for the hardware build and lab photos.

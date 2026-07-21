@@ -14,7 +14,7 @@ He has provided expert testimony eighteen times across four trials, two evidenti
 
 He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research, advised by [Dr. Avi Rubin](https://avirubin.com), focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
-### Litigation Experience
+## Litigation Experience
 
 - 18 testimony appearances
 - 12 depositions
@@ -26,7 +26,7 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 ## Expert Witness
 
-Dr. Martin's expert work spans software and firmware security, reverse engineering, source code analysis, cryptography, embedded systems, and network protocols. What sets his practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine — including production code in FDA-regulated medical devices — designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
+What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine — including production code in FDA-regulated medical devices — designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
 
 Dr. Martin accepts expert witness and consulting engagements through **[Harbor Experts](https://harborexperts.com)**.
 
@@ -36,13 +36,9 @@ Dr. Martin accepts expert witness and consulting engagements through **[Harbor E
 
 ## Research & Innovation
 
-Five threads run through Dr. Martin's research and engineering work: **source code analysis**, **security and cryptography**, **performance measurement and optimization**, **virtualization and hosting infrastructure**, and **full-stack systems engineering** from hardware through application software.
+Dr. Martin's research and engineering span source code analysis, security and cryptography, performance measurement, virtualization and hosting infrastructure, and full-stack systems engineering from hardware through application software. His current focus is software supply-chain security: in a modern supply chain, a component's version number is a poor guide to whether it is actually vulnerable, because enterprise Linux distributions ship soft-forked packages whose incomplete backports let real exposure drift from upstream.
 
-He designed and led development of [Firmware IQ](https://harborlabs.com/regulatory-support/persistent-vulnerability-monitoring/), a commercial security analysis platform that scans firmware, containers, and virtual machine images for known vulnerabilities and cryptographic implementation flaws, cross-referencing findings against NIST's National Vulnerability Database. He also designed [Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC), a CPU add-on for IoT-class processors that enforces control-flow integrity on embedded devices. Both the integrated audit and access control system he developed (subsequently patented by Accenture) and the smart grid traffic profiling platform he built at Applied Communication Sciences (commercialized as part of their SecureSmart MSS product) grew directly from this work.
-
-A single idea runs through much of his current research: in a modern software supply chain, a component's version number is a poor guide to whether it is actually vulnerable, because enterprise Linux distributions ship soft-forked packages whose incomplete backports let real exposure drift from upstream. His work follows that problem end to end: detecting the hidden vulnerabilities, measuring how far enterprise distributions have diverged, and — in the Linux distribution he is now building — closing the gap.
-
-He designs, builds, and operates virtualization and hosting infrastructure for security research, AI inference, and expert witness work. Over twenty years of hands-on performance measurement and tuning across embedded systems, network infrastructure, and datacenter hardware informs both his research and his expert analysis in litigation.
+He designed and led development of [Firmware IQ](https://harborlabs.com/regulatory-support/persistent-vulnerability-monitoring/), a commercial platform that scans firmware, containers, and virtual machine images for known vulnerabilities against NIST's National Vulnerability Database, and [Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC), a CPU add-on that enforces control-flow integrity on embedded devices; earlier systems he built were patented by Accenture and commercialized by Applied Communication Sciences. His current research measures how far enterprise distributions diverge from upstream and motivates the Linux distribution he is now building to close the gap, supported by the virtualization and hosting infrastructure he designs and operates for security research, AI inference, and expert work — informed by more than twenty years of performance measurement and tuning.
 
 [View publications & patents &rarr;](/publications/)
 
@@ -66,9 +62,9 @@ Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit mi
 
 ## In the Media
 
-[The Asbury Park Press](https://www.app.com/picture-gallery/news/crime/2026/04/20/paul-caneiro-murder-investigation-to-pretrial-hearings-2018-2026-photos/88996938007/) — photo gallery documenting the State of New Jersey v. Paul Caneiro case, 2018–2026 (April 2026)
+[The Asbury Park Press](https://www.app.com/picture-gallery/news/crime/2026/04/20/paul-caneiro-murder-investigation-to-pretrial-hearings-2018-2026-photos/88996938007/) — photo chronology of the *State of New Jersey v. Paul Caneiro* case (April 2026)
 
-[The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/) — "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
+[The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/) — reporting on Dr. Martin's testimony: "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
 
 [Al Jazeera America and Al Jazeera English (international)](/media/al-jazeera-2015/) — television interview on medical device security (February 13, 2015)
 
@@ -78,7 +74,7 @@ Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit mi
 
 ---
 
-Dr. Martin also maintains a [technical laboratory site](https://technicomp.io) documenting systems research and hardware projects.
+Dr. Martin also maintains [TechniComp](https://technicomp.io), an independent site documenting his personal technical, hardware, and restoration projects — separate from his professional and expert work.
 
 ---
 

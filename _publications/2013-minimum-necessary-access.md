@@ -10,3 +10,5 @@ citation: 'P. Martin, A. Rubin, R. Bhatti. &quot;Enforcing Minimum Necessary Acc
 ---
 
 This paper presents a system for enforcing the minimum necessary access principle in healthcare settings by integrating large-scale audit log analysis with access control mechanisms. Using a Hadoop-based application for statistical analysis of electronic medical record audit logs, the system automatically produces human-readable reports and identifies access patterns that may indicate privacy violations. This technology was subsequently patented by Accenture.
+
+See the [project page](/portfolio/1-minimum-necessary-access/).

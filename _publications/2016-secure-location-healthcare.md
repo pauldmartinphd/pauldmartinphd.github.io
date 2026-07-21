@@ -10,3 +10,5 @@ citation: 'P. Martin, M. Rushanan, T. Tantillo, C. Lehmann, A. Rubin. &quot;Appl
 ---
 
 This paper presents a secure indoor location tracking system using unspoofable Bluetooth Low Energy beacons for healthcare environments. The system enables automatic presentation of relevant patient medical records to physicians as they move through a facility, providing a secondary authentication mechanism that is transparent to the user while strengthening access controls.
+
+See the [Beacon+ project page](/portfolio/beacon-plus/).

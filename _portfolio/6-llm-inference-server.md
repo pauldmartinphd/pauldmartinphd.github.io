@@ -1,6 +1,6 @@
 ---
 title: "LLM Inference Testbed for Performance and Agentic-Quality Analysis"
-excerpt: "Single-socket EPYC workstation running frontier-class 600B+ parameter language models locally, with 1TB RAM, 128GB VRAM across four AMD Radeon Pro V620 GPUs, and 200TB of integrated storage."
+excerpt: "Single-socket EPYC workstation running frontier-class 600B+ parameter language models locally, with 1TB RAM and 128GB VRAM across four AMD Radeon Pro V620 GPUs."
 collection: portfolio
 category: infrastructure
 weight: 41
@@ -16,4 +16,4 @@ The V620s are passive datacenter cards that required custom 3D-printed fan shrou
 
 A primary use case is security research conducted on local, self-hosted models. Running inference in-house, with no external API dependency, keeps sensitive material — source code, forensic images, and case data — on controlled infrastructure, makes analyses reproducible, and keeps capability available during confidential investigations. It also gives full control over the models, prompts, and system configuration used to evaluate security-research workloads such as vulnerability analysis, code understanding, and forensic reconstruction. A complementary AMD Strix Halo laptop runs smaller but still capable models on the go.
 
-Running under Proxmox, the system also serves as primary network infrastructure: a TrueNAS VM manages 156TB of RAIDZ2 HDD storage and 48TB of RAIDZ2 SSD storage, while an OPNsense VM with direct PCIe passthrough of the onboard dual 10GbE handles routing and firewall duties. This single box replaced an entire rack of dedicated appliances — a separate TrueNAS server, VM host, 16-bay JBOD, and dedicated OPNsense firewall — while adding LLM inference as an entirely new capability.
+The system runs under Proxmox and shares a chassis with the storage and networking described in [Research Computing Infrastructure](/portfolio/research-computing-infrastructure/); consolidating those roles into a single box added LLM inference as an entirely new capability.

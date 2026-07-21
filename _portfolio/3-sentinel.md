@@ -10,4 +10,4 @@ weight: 21
 
 Sentinel is a hardware-based security system designed to be soldered directly to the CPU of IoT-class embedded devices. It monitors control-flow transitions to build runtime profiles of normal device behavior and enforces those profiles to detect anomalous execution, providing control-flow integrity for resource-constrained embedded systems that cannot support software-based security solutions.
 
-Published at [ACM/IEEE IoTDI 2018](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC).
+Published at [ACM/IEEE IoTDI 2018](/publication/2018-sentinel).
