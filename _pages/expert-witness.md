@@ -12,6 +12,8 @@ His engagements span over 100 matters across federal and state courts, the Inter
 
 Dr. Martin serves as Chief Scientist at **[Harbor Experts](https://harborexperts.com)**, through which he accepts expert witness and consulting engagements.
 
+His testimony record appears below; a separate page lists his [reports, declarations, and consulting engagements](/expert-witness/engagements/).
+
 ---
 
 ## Communicating Technical Evidence

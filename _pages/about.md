@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. Martin is a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) and the Chief Scientist at [Harbor Experts](https://harborexperts.com). He serves as both a testifying and consulting expert in complex software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand complex technical systems and the evidence they produce in high-stakes disputes.
 
-He has provided expert testimony eighteen times across four trials, two evidentiary hearings, and twelve depositions in federal and state courts, the International Trade Commission, and inter partes reviews. His engagements have spanned matters involving major technology companies, criminal proceedings, and international disputes. Across more than one hundred matters, he has led over one hundred large-scale source code reviews involving systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
+He has provided expert testimony in federal and state courts, the International Trade Commission, and inter partes reviews, in matters involving major technology companies, criminal proceedings, and international disputes. Across more than one hundred matters, he has led large-scale source code reviews of systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
 He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research, advised by [Dr. Avi Rubin](https://avirubin.com), focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
@@ -21,6 +21,8 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 - 4 trials
 - 2 evidentiary hearings
 - 100+ large-scale source code reviews
+
+**[Download CV (PDF)](/files/PaulMartin-CV.pdf)**
 
 ---
 
@@ -77,7 +79,3 @@ Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit mi
 ---
 
 Dr. Martin also maintains [TechniComp](https://technicomp.io), an independent site documenting his personal technical, hardware, and restoration projects — separate from his professional and expert work.
-
----
-
-[Download CV (PDF)](/files/PaulMartin-CV.pdf)

@@ -8,9 +8,11 @@ author_profile: true
 
 This page lists Dr. Martin's expert engagements beyond his testimony appearances, which are summarized on the [Expert Witness](/expert-witness/) overview. It covers matters in which he was retained as a testifying expert to prepare reports or declarations, and matters in which he provided litigation support and consulting.
 
+Jump to: [Reports & Declarations](#reports) &middot; [Litigation Support & Consulting](#consulting)
+
 ---
 
-## Reports & Declarations
+## Reports & Declarations {#reports}
 
 Matters in which Dr. Martin was retained as a testifying expert and prepared reports, declarations, or affidavits.
 
@@ -86,7 +88,7 @@ Services: Source code and documentation review, development timeline analysis, a
 
 ---
 
-## Litigation Support & Consulting
+## Litigation Support & Consulting {#consulting}
 
 Matters in which Dr. Martin provided consulting analysis, source code review, and technical support.
 
