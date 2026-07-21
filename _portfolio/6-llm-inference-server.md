@@ -14,8 +14,6 @@ The build centers on an AMD EPYC 7713 (64-core, 8-channel DDR4) with 1TB of ECC 
 
 The V620s are passive datacenter cards that required custom 3D-printed fan shrouds paired with high-static-pressure server fans to achieve adequate cooling in a desktop chassis.
 
-A primary use case for this system is security research: running uncensored open-weight models that provide unrestricted assistance for vulnerability analysis, exploit development, and forensic reconstruction — tasks where commercial API-based models frequently refuse to assist due to safety guardrails. This complements an AMD Strix Halo laptop for running smaller but still capable models on the go.
+A primary use case is security research conducted on local, self-hosted models. Running inference in-house, with no external API dependency, keeps sensitive material — source code, forensic images, and case data — on controlled infrastructure, makes analyses reproducible, and keeps capability available during confidential investigations. It also gives full control over the models, prompts, and system configuration used to evaluate security-research workloads such as vulnerability analysis, code understanding, and forensic reconstruction. A complementary AMD Strix Halo laptop runs smaller but still capable models on the go.
 
 Running under Proxmox, the system also serves as primary network infrastructure: a TrueNAS VM manages 156TB of RAIDZ2 HDD storage and 48TB of RAIDZ2 SSD storage, while an OPNsense VM with direct PCIe passthrough of the onboard dual 10GbE handles routing and firewall duties. This single box replaced an entire rack of dedicated appliances — a separate TrueNAS server, VM host, 16-bay JBOD, and dedicated OPNsense firewall — while adding LLM inference as an entirely new capability.
-
-All hardware was sourced from the used enterprise market at a total build cost of approximately $14,000.

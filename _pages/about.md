@@ -30,7 +30,7 @@ Dr. Martin's expert work spans software and firmware security, reverse engineeri
 
 Dr. Martin accepts expert witness and consulting engagements through **[Harbor Experts](https://harborexperts.com)**.
 
-[View all expert witness engagements &rarr;](/expert-witness/)
+[View expert witness experience &rarr;](/expert-witness/)
 
 ---
 
@@ -40,9 +40,9 @@ Five threads run through Dr. Martin's research and engineering work: **source co
 
 He designed and led development of [Firmware IQ](https://harborlabs.com/regulatory-support/persistent-vulnerability-monitoring/), a commercial security analysis platform that scans firmware, containers, and virtual machine images for known vulnerabilities and cryptographic implementation flaws, cross-referencing findings against NIST's National Vulnerability Database. He also designed [Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC), a CPU add-on for IoT-class processors that enforces control-flow integrity on embedded devices. Both the integrated audit and access control system he developed (subsequently patented by Accenture) and the smart grid traffic profiling platform he built at Applied Communication Sciences (commercialized as part of their SecureSmart MSS product) grew directly from this work.
 
-A single idea runs through much of his current research: in a modern software supply chain, a component's version number is a poor guide to whether it is actually vulnerable. Enterprise Linux distributions ship soft-forked packages whose incomplete backports let real vulnerability exposure drift away from upstream, so the same version can hide very different risk. Firmware IQ addresses the detection side, inventorying the components inside firmware, containers, and images to surface their known vulnerabilities; his current research measures the drift itself, across rolling and enterprise distributions; and the Linux distribution he is now building is the constructive answer, engineered around a patch-management model that closes the gap.
+A single idea runs through much of his current research: in a modern software supply chain, a component's version number is a poor guide to whether it is actually vulnerable, because enterprise Linux distributions ship soft-forked packages whose incomplete backports let real exposure drift from upstream. His work follows that problem end to end: detecting the hidden vulnerabilities, measuring how far enterprise distributions have diverged, and — in the Linux distribution he is now building — closing the gap.
 
-He designs, builds, and operates virtualization and hosting infrastructure for security research, AI inference, and expert witness work — currently consolidating what was previously an entire rack of dedicated appliances into a single Proxmox-based system that also serves as a local inference platform for frontier-class large language models. Over twenty years of hands-on performance measurement and tuning across embedded systems, network infrastructure, and datacenter hardware informs both his research and his expert analysis in litigation.
+He designs, builds, and operates virtualization and hosting infrastructure for security research, AI inference, and expert witness work. Over twenty years of hands-on performance measurement and tuning across embedded systems, network infrastructure, and datacenter hardware informs both his research and his expert analysis in litigation.
 
 [View publications & patents &rarr;](/publications/)
 
