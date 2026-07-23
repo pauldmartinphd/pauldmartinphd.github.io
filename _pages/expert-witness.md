@@ -18,7 +18,7 @@ His testimony record appears below; a separate page lists his [reports, declarat
 
 ## Communicating Technical Evidence
 
-Dr. Martin teaches computer security and applied cryptography at Johns Hopkins University, where he routinely makes deep technical material clear to students from a wide range of backgrounds. That is the same skill he brings to the courtroom: explaining complex computing systems, and the evidence they produce, to judges and juries who may have no technical background.
+Dr. Martin teaches computer security and applied cryptography at [Johns Hopkins University](https://www.cs.jhu.edu/), where he routinely makes deep technical material clear to students from a wide range of backgrounds. That is the same skill he brings to the courtroom: explaining complex computing systems, and the evidence they produce, to judges and juries who may have no technical background.
 
 ---
 
