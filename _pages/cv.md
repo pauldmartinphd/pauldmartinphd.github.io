@@ -22,7 +22,7 @@ Dr. Martin has testified eighteen times, including twelve depositions, four tria
 
 **Ph.D. Computer Science**, [Johns Hopkins University](https://www.cs.jhu.edu/), Baltimore, MD (2011-2016)
 *Dissertation: "Securing Medical Devices and Protecting Patient Privacy in the Technological Age of Healthcare"*
-*Doctoral advisor: [Dr. Avi Rubin](https://avirubin.com)*
+*Doctoral advisor: [Dr. Aviel D. Rubin](https://avirubin.com)*
 
 **M.S.E. Computer Science**, Johns Hopkins University, Baltimore, MD (2011-2013)
 
