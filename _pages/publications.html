@@ -1,0 +1,90 @@
+---
+layout: archive
+title: "Patents & Publications"
+permalink: /publications/
+description: "Patents and publications by Paul D. Martin, Ph.D. in embedded security, applied cryptography, and network protocol analysis."
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find Dr. Martin's articles on <a href="{{site.author.googlescholar}}">his Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+<h2>Current Research</h2><hr />
+
+<p>A central thread in Dr. Martin's current research is software supply-chain security: quantifying, and then reducing, the gap between a software component's nominal version and its true vulnerability exposure &mdash; from firmware, through operating-system distributions, to language package managers.</p>
+
+<p>This work grows directly out of Firmware IQ, which identifies the components inside a firmware image and maps them to known CVEs. Dr. Martin's research applies the same lens one layer up, at the operating-system distribution: because enterprise and &ldquo;stable&rdquo; Linux distributions maintain soft forks of upstream packages, with incomplete backports and out-of-sync LTS trees, two packages reporting the same upstream version can carry very different real-world exposure.</p>
+
+<p>He quantifies this divergence, and the patch lead time between rolling and enterprise distributions, to ask whether rolling releases are in fact more secure and how distributions might share backporting effort rather than duplicate it &mdash; questions that in turn motivate the Linux distribution he is now building.</p>
+
+<p>This research spans several related threads:</p>
+
+<p><strong>Software supply-chain security</strong></p>
+<ul>
+  <li>Automated binary version extraction for NVD cross-reference based on fuzzy matching</li>
+  <li>Automated analysis of vulnerabilities in containers and virtual appliances</li>
+  <li>Large-scale comparison of the nature and kind of firmware vulnerabilities across and within product classes</li>
+  <li>Comparison of musl and glibc attack surface normalized by code size and severity</li>
+</ul>
+
+<p><strong>AI systems and applications</strong></p>
+<ul>
+  <li>Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models</li>
+  <li>Use of large language models for technical research and analysis</li>
+  <li>Exploratory use of multimodal large language models for diagnosis of disease progression</li>
+</ul>
+
+<h2>U.S. Patents</h2><hr />
+
+<p><strong><a href="https://patents.google.com/patent/US10762214B1/">US 10,762,214 B1</a></strong> &mdash; System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries</p>
+
+<p><strong><a href="https://patents.google.com/patent/US10230599B2/">US 10,230,599 B2</a></strong> &mdash; System and Method for Network Traffic Profiling and Visualization</p>
+
+<p><strong><a href="https://patents.google.com/patent/US9667521B2/">US 9,667,521 B2</a></strong> &mdash; System and Method for Network Traffic Profiling and Visualization</p>
+
+<p><strong><a href="https://patents.google.com/patent/US8984583B2/">US 8,984,583 B2</a></strong> &mdash; Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control</p>
+
+<p><strong><a href="https://patents.google.com/patent/US9438632B2/">US 9,438,632 B2</a></strong> &mdash; Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control</p>
+
+<h2>Whitepapers</h2><hr />
+
+<p>P. Martin. "Reliable Software: Industry Best Practices." <em><a href="https://harborexperts.com">Harbor Experts</a> Whitepaper</em>. [<a href="{{ base_path }}/files/HE-WP-ReliableSoftware.pdf">PDF</a>]</p>
+
+<p>P. Martin. "Guidelines for Source Code Comparison in Litigation." <em>Harbor Labs Litigation Support Whitepaper</em>, 2022. [<a href="{{ base_path }}/files/HL-WP-SourceCodeComparison.pdf">PDF</a>]</p>
+
+<p>P. Martin. "Guidelines for Assessing Source Code Quality." <em>Harbor Labs Litigation Support Whitepaper</em>, 2022. [<a href="{{ base_path }}/files/HL-WP-SourceCodeQuality.pdf">PDF</a>]</p>
+
+<p>P. Martin et al. "Guidelines for Source Code Review in Hi-Tech Litigation." <em>Harbor Labs Litigation Support Whitepaper</em>, 2022. [<a href="{{ base_path }}/files/HL-WP-SourceCodeReview.pdf">PDF</a>]</p>
+
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+<h2>Dissertation</h2><hr />
+
+<p>P. Martin, <em>Securing Medical Devices and Protecting Patient Privacy in the Technological Age of Healthcare</em>, Ph.D. Dissertation, Johns Hopkins University, February 2016. [<a href="https://www.cs.jhu.edu/seminars/2016/spring/february12/paul-martin/">JHU Seminar</a>]</p>
+
+<h2>Professional Committees & Standards Bodies</h2><hr />
+
+<p>IEEE 7024 Working Group &mdash; &ldquo;Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies&rdquo; (Current Member)</p>
+
+<p>IEEE Symposium on Security and Privacy &mdash; Program Committee Member (Winter 2024, Summer 2024)</p>

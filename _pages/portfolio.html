@@ -1,0 +1,71 @@
+---
+layout: archive
+title: "Projects"
+permalink: /portfolio/
+redirect_from:
+  - /portfolio/0-algorithmic-bits/
+description: "Selected projects by Paul D. Martin, Ph.D. spanning firmware security, embedded systems, reverse engineering, and hardware investigation."
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Selected projects reflecting the technical depth Dr. Martin brings to expert witness work, research, and teaching. These span firmware security, embedded systems, systems engineering, and hardware investigation.</p>
+
+<hr />
+
+<h2 id="lab">Hardware Analysis Laboratory</h2>
+
+<p>Dr. Martin maintains a dedicated hardware analysis laboratory equipped for the component-level investigation, firmware extraction, and forensic analysis that his expert witness and research work requires. The lab includes oscilloscopes, logic analyzers, stereo microscopes, hot-air and infrared rework stations, soldering stations, programmable power supplies, and a range of device-specific diagnostic tools.</p>
+
+<p>This equipment supports board-level fault isolation, firmware dumping and analysis, signal capture and protocol decoding, and component-level repair &mdash; capabilities that are directly applied in litigation involving hardware failures, embedded system disputes, and firmware forensics.</p>
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="flex: 1; min-width: 280px;">
+    <img src="/images/homelab-overview.jpg" alt="Electronics workbench with oscilloscope, soldering and rework stations, and diagnostic equipment" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px;" />
+  </div>
+  <div style="flex: 1; min-width: 280px;">
+    <img src="/images/sentinel-lab.jpg" alt="Hardware analysis lab with embedded systems development and testing equipment" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px;" />
+  </div>
+</div>
+
+<hr />
+
+<h2>AI, Virtualization & Infrastructure</h2>
+
+{% assign infra = site.portfolio | where: "category", "infrastructure" | sort: "weight" %}
+{% for post in infra %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Embedded Systems, Firmware & Device Security</h2>
+
+{% assign embedded = site.portfolio | where: "category", "embedded" | sort: "weight" %}
+{% for post in embedded %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Reverse Engineering, Binary & Malware Analysis</h2>
+
+{% assign re_malware = site.portfolio | where: "category", "analysis" | sort: "weight" %}
+{% for post in re_malware %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Cryptography & Network Security</h2>
+
+{% assign security = site.portfolio | where: "category", "security" | sort: "weight" %}
+{% for post in security %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Biomedical & Medical Device Security</h2>
+
+{% assign biomedical = site.portfolio | where: "category", "biomedical" | sort: "weight" %}
+{% for post in biomedical %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<hr />
+
+<p><em>Independent technical, hardware, and restoration projects &mdash; distinct from Dr. Martin's professional and expert work &mdash; are documented separately at <a href="https://technicomp.io">TechniComp</a>.</em></p>

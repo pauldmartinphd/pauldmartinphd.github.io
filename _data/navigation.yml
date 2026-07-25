@@ -1,0 +1,15 @@
+main:
+  - title: "Expert Witness"
+    url: /expert-witness/
+
+  - title: "Patents & Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "CV"
+    url: /cv/
