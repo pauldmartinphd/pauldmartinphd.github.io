@@ -14,7 +14,7 @@ redirect_from:
 
 [Download Professional Background (PDF)](/files/PaulMartin-Professional-Background.pdf)
 
-Dr. Martin has testified eighteen times, including twelve depositions, four trials, and two evidentiary hearings.
+Dr. Martin has testified nineteen times, including thirteen depositions, four trials, and two evidentiary hearings.
 
 ---
 

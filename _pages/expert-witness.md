@@ -65,7 +65,13 @@ Dr. Martin's engagements typically involve:
 
 ## Testimony
 
-Dr. Martin has provided expert testimony eighteen times — at trial, in evidentiary hearings, and at deposition — in the following matters:
+Dr. Martin has provided expert testimony nineteen times — at trial, in evidentiary hearings, and at deposition — in the following matters:
+
+**Malikie Innovations Ltd., Key Patent Innovations Ltd. v. Foundry, Inc.**
+Case No. 7:25-cv-00567-DC-DTG
+*Cryptography, elliptic curve cryptography, and hardware-accelerated cryptography.*
+Services: Source code review, claim construction, expert report drafting, validity analysis, infringement analysis.
+Testimony: Deposition — Potomac, MD (July 31, 2026)
 
 **The Nielsen Company v. TVision**
 Case No. 25-575-CJB
