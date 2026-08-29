@@ -128,7 +128,7 @@ Automated analysis of vulnerabilities in containers and virtual appliances.
 
 Large-scale comparison of the nature and kind of firmware vulnerabilities across and within product classes.
 
-Quantifying vulnerability divergence and patch lead time between rolling and enterprise Linux distributions: whether rolling distributions are more secure against known and unknown CVEs, whether enterprise distributions should be based on rolling LTS packages, and whether distributions should converge on shared soft-forked package versions so that maintenance effort can be pooled rather than duplicated. A planned follow-up extends the same analysis to programming-language package managers. Related work compares musl and glibc attack surface normalized by code size and severity.
+Quantifying vulnerability divergence and patch lead time between rolling and enterprise Linux distributions: whether rolling distributions are more secure against known and unknown CVEs, whether enterprise distributions should be based on rolling LTS packages, and whether distributions should converge on shared soft-forked package versions so that maintenance effort can be pooled rather than duplicated. A planned follow-up extends the same analysis to programming-language package managers.
 
 Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models.
 
