@@ -76,4 +76,4 @@ Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit mi
 
 ---
 
-Dr. Martin also maintains [TechniComp](https://technicomp.io), an independent site documenting his personal technical, hardware, and restoration projects — separate from his professional and expert work.
+Dr. Martin also maintains [Technicomp Labs](https://technicomplabs.io), an independent site documenting his personal technical, hardware, and restoration projects — including systems-performance research and a working collection of vintage computers — separate from his professional and expert work.

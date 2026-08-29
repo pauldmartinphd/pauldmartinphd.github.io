@@ -6,7 +6,10 @@ category: infrastructure
 weight: 43
 ---
 
-<img src="/images/homelab-rack.jpg" alt="Server rack with virtualization host, hot-swap drive bays, and CyberPower UPS" style="max-height: 520px; border-radius: 4px;" />
+<div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start;">
+  <img src="/images/homelab-rack.jpg" alt="Server rack with virtualization host, hot-swap drive bays, and CyberPower UPS" style="max-height: 420px; border-radius: 4px;" />
+  <img src="/images/server-build-interior.jpg" alt="Server chassis interior showing Noctua CPU cooler, Corsair RM850x power supply, Intel Arc Pro GPU, and dual hot-swap drive cages with routed SATA cabling" style="max-height: 420px; border-radius: 4px;" />
+</div>
 
 Dr. Martin designs, builds, and operates the self-hosted computing infrastructure behind his security research, AI inference, and expert witness work. Its purpose is to provide isolated, reproducible environments in which confidential code and case data can be analyzed under his own control, and the capacity to run compute-intensive analysis at scale — rapid provisioning of segmented, multi-OS test networks; controlled handling of sensitive material; and repeatable experiments.
 
