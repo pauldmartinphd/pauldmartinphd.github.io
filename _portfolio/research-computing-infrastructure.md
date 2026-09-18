@@ -15,11 +15,11 @@ Dr. Martin designs, builds, and operates the self-hosted computing infrastructur
 
 ## Consolidated virtualization platform
 
-The environment runs on Proxmox, using PCIe passthrough to give dedicated virtual machines direct control of physical hardware — a firewall VM (OPNsense) owns its network interfaces, and a storage VM (TrueNAS) owns its disk controllers. This consolidates what was previously a rack of separate physical appliances into a single chassis without giving up the isolation or performance of dedicated hardware. The same consolidation is what made room for new capability: the platform shares a chassis with the [LLM inference testbed](/portfolio/6-llm-inference-server/) used for local analysis of frontier-class language models.
+The environment runs on Proxmox, using PCIe passthrough to give dedicated virtual machines direct control of physical hardware: a firewall VM (OPNsense) owns its network interfaces, and a storage VM (TrueNAS) owns its disk controllers. This consolidates what was previously a rack of separate physical appliances into a single chassis without giving up the isolation or performance of dedicated hardware. The same consolidation is what made room for new capability: the platform shares a chassis with the [LLM inference testbed](/portfolio/6-llm-inference-server/) used for local analysis of frontier-class language models.
 
 ## Storage and data integrity
 
-Primary storage is high-capacity ZFS with end-to-end data-integrity verification, snapshots, and replication. Checksumming at every layer means silent corruption is detected rather than propagated — a property that matters when the data at rest includes forensic images and case material that must remain demonstrably intact. Hot-swap drive cages keep pool maintenance and capacity changes routine.
+Primary storage is high-capacity ZFS with end-to-end data-integrity verification, snapshots, and replication. Checksumming at every layer means silent corruption is detected rather than propagated, a property that matters when the data at rest includes forensic images and case material that must remain demonstrably intact. Hot-swap drive cages keep pool maintenance and capacity changes routine.
 
 <figure style="margin: 20px 0;">
   <img src="/images/server-build-interior.jpg" alt="Server chassis interior showing Noctua CPU cooler, Corsair RM850x power supply, Intel Arc Pro GPU, and dual hot-swap drive cages with routed SATA cabling" style="width: auto; max-width: 100%; max-height: 480px; border-radius: 4px;" />
@@ -32,4 +32,4 @@ Custom-built OpenBSD and OPNsense network appliances provide deep packet inspect
 
 ## Availability
 
-The rack runs on conditioned, battery-backed power, and storage replication provides recovery points for the systems and data behind active casework — capability stays available, under Dr. Martin's control, for the duration of a confidential investigation.
+The rack runs on conditioned, battery-backed power, and storage replication provides recovery points for the systems and data behind active casework; capability stays available, under Dr. Martin's control, for the duration of a confidential investigation.

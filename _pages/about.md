@@ -16,7 +16,7 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 ## Expert Witness
 
-What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine — including production code in FDA-regulated medical devices — designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
+What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine (including production code in FDA-regulated medical devices), designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
 
 His litigation record to date:
 
@@ -56,7 +56,7 @@ At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network
 
 ## Projects
 
-Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit microcontrollers (6502, 8051, Z80, AVR, PIC) through embedded processors (ARM, MIPS, MSP430) to server-class systems (x86-64, SPARC, PowerPC) — and maintains a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
+Dr. Martin has hands-on experience across 16 CPU architectures, from 8-bit microcontrollers (6502, 8051, Z80, AVR, PIC) through embedded processors (ARM, MIPS, MSP430) to server-class systems (x86-64, SPARC, PowerPC), and maintains a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
 
 [View selected projects &rarr;](/portfolio/)
 
@@ -76,4 +76,4 @@ Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit mi
 
 ---
 
-Dr. Martin also maintains [Technicomp Labs](https://technicomplabs.io), an independent site documenting his personal technical, hardware, and restoration projects — including systems-performance research and a working collection of vintage computers — separate from his professional and expert work.
+Dr. Martin also maintains [Technicomp Labs](https://technicomplabs.io), an independent site documenting his personal technical, hardware, and restoration projects, including systems-performance research and a working collection of vintage computers, separate from his professional and expert work.
