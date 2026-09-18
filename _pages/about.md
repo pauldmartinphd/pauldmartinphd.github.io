@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Martin is a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) and the Chief Scientist at [Harbor Experts](https://harborexperts.com). He serves as both a testifying and consulting expert in complex software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand complex technical systems and the evidence they produce in high-stakes disputes. He serves as Secretary of the [IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860), which is developing the standard for the procurement, verification and validation, and life cycle management of forensic technologies.
+Dr. Martin is a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) and the Chief Scientist at [Harbor Experts](https://harborexperts.com). He serves as both a testifying and consulting expert in software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand technical systems and the evidence they produce. He serves as Secretary of the [IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860), which is developing the standard for the procurement, verification and validation, and life cycle management of forensic technologies.
 
-He has provided expert testimony in federal and state courts, the International Trade Commission, and inter partes reviews, in matters involving major technology companies, criminal proceedings, and international disputes. Across more than one hundred matters, he has led large-scale source code reviews of systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
+He has provided expert testimony in federal and state courts, the International Trade Commission, and inter partes reviews, in civil matters, criminal proceedings, and international disputes. Across more than one hundred matters, he has led large-scale source code reviews of systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
 He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins University, where his doctoral research, advised by [Dr. Aviel D. Rubin](https://avirubin.com), focused on securing medical devices and protecting patient privacy. He is a named inventor on five U.S. patents, a published researcher in embedded security and applied cryptography, and a former member of the program committee for the IEEE Symposium on Security and Privacy.
 
 ## Expert Witness
 
-What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine (including production code in FDA-regulated medical devices), designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
+Dr. Martin has built the kinds of systems he is retained to examine, including production code in FDA-regulated medical devices. He designs custom experiments to answer the questions in dispute and reconstructs system behavior from binaries when source code is lost or unavailable.
 
 His litigation record to date:
 
@@ -48,7 +48,7 @@ His current research measures how far enterprise distributions diverge from upst
 
 ## Teaching
 
-At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network security, and applied cryptography — courses built around hands-on analysis of real codebases, the same discipline he applies in litigation. He co-instructed a hardware-hacking course that earned the department's highest student ratings and received the Computer Science Department's Outstanding Teaching Assistant Award in 2014.
+At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network security, and applied cryptography — courses built around hands-on analysis of real codebases, the same discipline he applies in litigation. He co-instructed a short course on hardware hacking and received the Computer Science Department's Outstanding Teaching Assistant Award in 2014.
 
 [View teaching experience &rarr;](/teaching/)
 

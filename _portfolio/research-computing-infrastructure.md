@@ -32,4 +32,4 @@ Custom-built OpenBSD and OPNsense network appliances provide deep packet inspect
 
 ## Availability
 
-The rack runs on conditioned, battery-backed power, and storage replication provides recovery points for the systems and data behind active casework; capability stays available, under Dr. Martin's control, for the duration of a confidential investigation.
+The rack runs on conditioned, battery-backed power, and storage replication provides recovery points for the systems and data behind active casework.

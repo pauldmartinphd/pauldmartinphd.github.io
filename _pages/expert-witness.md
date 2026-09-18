@@ -6,9 +6,9 @@ description: "Software and cybersecurity expert witness Paul D. Martin, Ph.D.: s
 author_profile: true
 ---
 
-Dr. Martin serves as both a testifying and consulting expert in complex litigation involving software systems, cybersecurity, artificial intelligence, embedded devices, and computer architecture. His work frequently involves large-scale source code review, reverse engineering of complex systems, analysis of embedded firmware, and the explanation of computing systems and technical evidence to judges and juries.
+Dr. Martin serves as both a testifying and consulting expert in litigation involving software systems, cybersecurity, artificial intelligence, embedded devices, and computer architecture. His work includes large-scale source code review, reverse engineering, analysis of embedded firmware, and the explanation of computing systems and technical evidence to judges and juries.
 
-His engagements span over 100 matters across federal and state courts, the International Trade Commission, inter partes reviews before the Patent Trial and Appeal Board, criminal proceedings, and international regulatory actions. Unlike many experts whose experience is limited to analysis, he has built the systems he is retained to examine, including production code deployed in FDA-regulated medical devices, and he serves as Secretary of the [IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860) on the "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies." He designs and conducts custom experiments tailored to the specific technical questions at issue and regularly works cases where source code is incomplete or unavailable through binary reverse engineering and forensic reconstruction.
+His engagements span over 100 matters across federal and state courts, the International Trade Commission, inter partes reviews before the Patent Trial and Appeal Board, criminal proceedings, and international regulatory actions. He has built the systems he is retained to examine, including production code deployed in FDA-regulated medical devices, and he serves as Secretary of the [IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860) on the "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies." He designs and conducts custom experiments tailored to the specific technical questions at issue, and where source code is incomplete or unavailable he works through binary reverse engineering and forensic reconstruction.
 
 Dr. Martin serves as Chief Scientist at **[Harbor Experts](https://harborexperts.com)**, through which he accepts expert witness and consulting engagements.
 
@@ -16,15 +16,7 @@ His testimony record appears below; a separate page lists his [reports, declarat
 
 ---
 
-## Communicating Technical Evidence
-
-Dr. Martin teaches computer security and applied cryptography at [Johns Hopkins University](https://www.cs.jhu.edu/), where he routinely makes deep technical material clear to students from a wide range of backgrounds. That is the same skill he brings to the courtroom: explaining complex computing systems, and the evidence they produce, to judges and juries who may have no technical background.
-
----
-
 ## Areas of Expertise
-
-Each area links to a detailed statement of Dr. Martin's experience.
 
 **[Software, Source Code & Intellectual Property Analysis](/expertise/software-source-code-ip/)**
 Source code and software architecture at issue in intellectual-property and commercial disputes, including trade secret misappropriation, copyright infringement, breach of contract, and code-quality matters. Dr. Martin has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
@@ -61,7 +53,7 @@ Dr. Martin's engagements typically involve:
 - Firmware extraction and embedded-system analysis, including boot chains and update mechanisms, using interfaces such as SPI and JTAG
 - Malware analysis and cyber-attribution, including large-scale automated sample analysis and evaluation of the reasonableness of an organization's security measures
 - Design and execution of custom experiments, including performance measurement and benchmarking of CPU, GPU, memory, storage, and network subsystems, to answer specific technical questions in dispute
-- Clear technical explanation of complex computing systems to judges and juries in depositions, hearings, and at trial
+- Technical explanation of computing systems to judges and juries in depositions, hearings, and at trial
 
 ---
 
