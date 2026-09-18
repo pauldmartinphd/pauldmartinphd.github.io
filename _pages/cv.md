@@ -48,7 +48,7 @@ Dr. Martin has testified twenty times, including fourteen depositions, four tria
 
 **Penetration Tester**, University of Michigan ICPSR (2011)
 
-**Security Intern**, Independent Security Evaluators (2009-2011)
+**Associate Research Scientist**, Independent Security Evaluators (2009-2011)
 
 **Student Software Developer**, Johns Hopkins University DRCC (2008-2010)
 *Designed security architecture for a $20M digital preservation grant*
