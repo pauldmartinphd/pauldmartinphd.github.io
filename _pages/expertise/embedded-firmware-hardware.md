@@ -1,0 +1,29 @@
+---
+layout: archive
+title: "Embedded Systems, Firmware & Hardware Security"
+permalink: /expertise/embedded-firmware-hardware/
+description: "Paul D. Martin, Ph.D. on his experience with embedded systems, firmware, computer architecture, and hardware security."
+author_profile: true
+---
+
+*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
+
+I have substantial experience with embedded systems, firmware, computer architecture, and hardware security. My work includes developing embedded software and security mechanisms, analyzing interactions between hardware and software, extracting and examining firmware, and testing the security and behavior of physical devices. I previously served as Director of Firmware Security and later Vice President of Applied Research and Technology at Harbor Labs. I currently serve as Chief Scientist at Harbor Experts, where I lead technical-analysis engagements and research.
+
+My research includes the design of [Sentinel](/portfolio/3-sentinel/), a hardware security system that attaches directly to an embedded device's processor to build execution profiles and enforce control-flow integrity. This work addressed detection and prevention of departures from expected execution behavior in embedded systems and was published at the ACM/IEEE International Conference on Internet-of-Things Design and Implementation. My broader embedded-security research has included binary analysis, anomaly detection, and automated security enforcement.
+
+I served as the technical and development lead for [Firmware IQ](/portfolio/4-firmware-iq/), a commercial platform for automated security analysis of firmware images. The platform unpacked images into their constituent components and performed more than one hundred automated checks for vulnerabilities, security weaknesses, and indicators of compromise. It supported both examination of firmware updates for security issues before deployment and examination of firmware extracted from devices to determine whether they had been compromised. Its analysis included vulnerable software components, insecure configurations, hardcoded credentials, and cryptographic implementation weaknesses.
+
+As part of Firmware IQ, I developed a patented technique for identifying software components and their versions from binaries and cross-referencing that information with a vulnerability database. I wrote the patent specification and am the named inventor on the resulting patent. My research has also included comparing firmware vulnerabilities across and within product classes and applying lessons from the analysis of large numbers of firmware images to operating-system development.
+
+My commercial experience includes security assessments of products before and after market release. These assessments have involved examining implemented security controls, identifying properties the systems were intended to preserve, and testing whether those properties could be violated. I have written production code deployed in FDA-regulated medical devices and identified and demonstrated remote-code-execution vulnerabilities in medical systems. In one assessment, I found [multiple vulnerabilities in a commercially deployed infusion-pump system](/portfolio/infusion-pump-security/) and developed a working exploit that achieved arbitrary code execution on the device.
+
+My expert-witness and consulting work has included analysis of firmware-based trusted platform modules, trusted execution environments, security processors embedded in microprocessors, hardware cryptographic processors and chips, and secure-erase implementations. I have examined the security and performance characteristics of trusted execution environments and the design of nonvolatile-memory interfaces using SPI. These engagements have included source-code and technical analysis, preparation of expert reports and declarations, and deposition testimony. I have also reviewed embedded-system bootloaders and platform code for television-streaming devices and analyzed fitness-tracking wearables and the security protections incorporated into surgical devices.
+
+I have extracted and reverse engineered firmware from dozens of devices as part of my commercial firmware-security work, including the development of Firmware IQ. This work has required examining physical hardware as well as the software it contains. I maintain a dedicated [hardware-analysis laboratory](/portfolio/#lab) that I use for firmware extraction and reverse engineering, signal capture, protocol decoding, and component-level investigation. The laboratory includes oscilloscopes, logic analyzers, microscopes, programmable power supplies, soldering stations, and rework equipment. My hands-on experience spans a wide range of CPU architectures, from small microcontrollers through embedded processors to desktop and server-class systems. My practical work also includes [open-source firmware and Coreboot work](/portfolio/firmware-board-level-analysis/) on laptop and embedded platforms.
+
+I have taught hardware hacking at Johns Hopkins University, including device-firmware modification, binary analysis and modification, electronics repair, and vulnerability assessment. My teaching has also addressed computer architecture and hardware- and software-based attacks on components such as memory and processors. I use emulation and virtualization to support hands-on investigation of these systems and have peer reviewed research on hardware security, memory-module design, and side-channel attacks for the IEEE Symposium on Security and Privacy.
+
+---
+
+[&larr; Expert witness experience](/expert-witness/) &middot; [Testimony record](/expert-witness/#testimony) &middot; [Download CV (PDF)](/files/PaulMartin-CV.pdf)

@@ -24,28 +24,30 @@ Dr. Martin teaches computer security and applied cryptography at [Johns Hopkins 
 
 ## Areas of Expertise
 
-**Software, Source Code & Intellectual Property Analysis**
+Each area links to a detailed statement of Dr. Martin's experience.
+
+**[Software, Source Code & Intellectual Property Analysis](/expertise/software-source-code-ip/)**
 Source code and software architecture at issue in intellectual-property and commercial disputes, including trade secret misappropriation, copyright infringement, breach of contract, and code-quality matters. Dr. Martin has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
 
-**Reverse Engineering, Malware & Digital Forensics**
+**[Reverse Engineering, Malware & Digital Forensics](/expertise/reverse-engineering-forensics/)**
 Compiled software, firmware, and malicious code, and the forensic artifacts that computing systems leave behind. This area covers malware and the attribution of intrusions and code to the actors responsible, including nation-state activity; digital forensics of computers and mobile devices across iOS and Android; and the reliability and validity of forensic software, including the computerized DNA-analysis software scrutinized in criminal proceedings.
 
-**Cybersecurity, Cryptography & Network Security**
+**[Cybersecurity, Cryptography & Network Security](/expertise/cybersecurity-cryptography/)**
 Analysis of cryptographic implementations (elliptic curve cryptography, random number generation, key management, TLS/SSL, DRM, and authentication protocols), network security infrastructure (firewalls, IPS, VPNs, content delivery networks, and wireless handoff protocols), and endpoint security products (malware-scanning gateways, URL filtering, and anti-phishing technologies), covering both correctness of implementation and conformance to standards such as NIST and IEEE.
 
-**Embedded Systems, Firmware & Hardware Security**
+**[Embedded Systems, Firmware & Hardware Security](/expertise/embedded-firmware-hardware/)**
 Security analysis of firmware, microcontrollers, hardware security modules, trusted execution environments (TEEs), and hardware-software interfaces, including BIOS/UEFI analysis, SPI and JTAG interfaces, fTPM implementations, control-flow-integrity mechanisms, and software update mechanisms.
 
-**Medical Device & Healthcare Systems Security**
+**[Medical Device & Healthcare Systems Security](/expertise/medical-device-healthcare/)**
 Security analysis of medical devices, patient-data systems, and healthcare computing infrastructure. Dr. Martin's doctoral research focused on securing medical devices, and he has written production code deployed in FDA-regulated medical devices, identified remote code execution vulnerabilities in life-critical infusion pump systems, and designed cryptographic protocols implemented in production healthcare environments.
 
-**Artificial Intelligence & Machine Learning Systems**
+**[Artificial Intelligence & Machine Learning Systems](/expertise/ai-ml-systems/)**
 Analysis of AI and large language model systems: model architecture, hosting infrastructure, inference performance, GPU and memory architecture for model serving, quantization and optimization, training and fine-tuning pipelines, and the security properties of AI systems.
 
-**Virtualization, Containerization & Hosting Infrastructure**
+**[Virtualization, Containerization & Hosting Infrastructure](/expertise/virtualization-hosting/)**
 Analysis of virtualization platforms, container-orchestration systems, hypervisor implementations, and cloud hosting architectures — a thread that runs through much of Dr. Martin's litigation and research work, from VM and container image forensics to PCIe passthrough and hardware isolation, storage virtualization, and the design and security of infrastructure for compute-intensive workloads including AI model serving.
 
-**Performance Analysis & Experimental Testing**
+**[Performance Analysis & Experimental Testing](/expertise/performance-testing/)**
 Hardware and network system performance (CPU, memory, GPU, storage, and network subsystems) in matters that turn on measured behavior such as throughput, latency, bottlenecks, and performance regressions rather than documented intent. Draws on more than twenty years of hands-on performance engineering across embedded systems, datacenter infrastructure, and consumer devices.
 
 ---

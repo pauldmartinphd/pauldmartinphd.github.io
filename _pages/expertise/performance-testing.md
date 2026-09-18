@@ -1,0 +1,35 @@
+---
+layout: archive
+title: "Performance Analysis & Experimental Testing"
+permalink: /expertise/performance-testing/
+description: "Paul D. Martin, Ph.D. on his experience with performance analysis, benchmarking, and experimental testing of software and hardware systems."
+author_profile: true
+---
+
+*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
+
+I have substantial experience with performance analysis, benchmarking, and experimental testing of software and hardware systems. My work spans desktop and laptop computers, mobile devices, embedded systems, network infrastructure, and servers. I design experiments to evaluate technical claims, investigate performance problems, and determine how systems behave under controlled conditions. This work draws on more than twenty years of hands-on performance measurement and tuning, together with my experience analyzing source code, operating systems, firmware, and hardware-software interfaces.
+
+My litigation work has included investigations of system stuttering associated with firmware-based trusted platform modules, interactive latency following mobile operating-system changes, and performance throttling associated with battery-management behavior. In the firmware-security work, I examined the security and performance characteristics of trusted execution environments and nonvolatile-memory interfaces using SPI, prepared expert reports, and testified at deposition. I have also worked on numerous battery-management matters involving the relationship between power-management decisions and device performance.
+
+In another engagement, I performed benchmarking to determine whether software installed on consumer computers affected device performance. My other expert work has included analysis of computer-memory performance, mobile-device behavior, software-update processes, and service outages. These engagements have required examining the relationship between software behavior, hardware characteristics, and the performance experienced by users.
+
+A substantial part of my operating-system development work concerns latency and desktop responsiveness. I developed and launched [Technicomp Benchtop Linux](/portfolio/5-technicomp-workbench/) and have performed extensive work on latency testing and the design of low-latency Linux desktops. This work addresses how a desktop responds to user input while competing workloads consume processor time, memory, and storage bandwidth. My design and testing approach considers responsiveness during activities such as large file transfers, video encoding, parallel compilation, and combined CPU, memory, and disk pressure.
+
+My Linux performance work addresses kernel preemption, scheduling, interrupt handling, memory reclamation, compressed swap, storage scheduling, writeback behavior, and power management. I examine how these mechanisms interact and how choices intended to improve throughput or reduce power consumption can affect interactive latency. My design notes also address low-latency audio and the scheduling and memory-management requirements of applications that must meet timing deadlines.
+
+My benchmarking approach distinguishes throughput from responsiveness and considers the distribution of delays, including infrequent but substantial stalls. The testing framework documented in my Linux notes includes baseline and loaded conditions, frame timing, input responsiveness, scheduling-latency percentiles, and worst-case observations. It also includes throughput comparisons to evaluate whether changes intended to improve responsiveness impose costs on computation or data transfer. These methods address both the amount of work a system completes and the consistency with which it responds.
+
+I also conduct performance research on large-language-model inference. I designed and built a [local testbed](/portfolio/6-llm-inference-server/) combining substantial system memory with multiple GPUs and use it to investigate the interaction among model architecture, memory bandwidth, CPU and GPU execution, and scheduling. My work distinguishes prompt-processing performance from token-generation performance and includes developing quantitative models, measuring hardware limits, and comparing predicted behavior with observed results.
+
+These investigations have included changes to the llama.cpp scheduler that improved prompt-processing throughput, experiments with speculative decoding, and analysis of how processing-batch size, context length, and model placement affect performance. I maintain a [public laboratory notebook](https://github.com/pauldmartinphd/llm-performance-engineering-notebook) containing experimental conditions, raw results, software changes, and hypotheses that testing did not support. I have also identified benchmarking pitfalls and repeated measurements under common conditions to distinguish the effects of different software builds, configurations, and hardware changes.
+
+My experimental work extends beyond performance optimization to testing the effectiveness of security mechanisms. At Independent Security Evaluators, I designed and built an [automated system](/portfolio/ise-malware-automation/) capable of testing antivirus products against thousands of malware samples for Consumer Reports' annual antivirus analysis. The system ran on a VMware ESXi server that I managed and used automated virtual-machine snapshot creation and restoration to establish repeatable test conditions. In other engagements, I built custom test infrastructure and conducted large-scale testing of techniques intended to prevent exploitation of software vulnerabilities.
+
+My early operating-system work included creating a Linux distribution for resource-constrained computers and tuning its kernel and configuration to reduce memory requirements, runtime overhead, and binary size. I have also developed systems for [real-time network-traffic analysis](/portfolio/2-smartgrid/) and performed algorithm analysis and simulations in expert engagements. Across these activities, I combine implementation-level investigation with experiments designed to test the particular technical question under examination.
+
+I hold Six Sigma Black Belt and Green Belt certifications, reflecting formal training in measurement, statistical analysis, root-cause analysis, and quality management. I also serve as Secretary of the [IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860), which is developing the Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies. Testing and validation are also central to my teaching at Johns Hopkins University, where students examine real software and experimentally validate their findings.
+
+---
+
+[&larr; Expert witness experience](/expert-witness/) &middot; [Testimony record](/expert-witness/#testimony) &middot; [Download CV (PDF)](/files/PaulMartin-CV.pdf)

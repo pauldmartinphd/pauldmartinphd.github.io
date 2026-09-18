@@ -125,6 +125,8 @@ Quantifying vulnerability divergence and patch lead time between rolling and ent
 
 Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models.
 
+Security analysis of AI integration software, including source-code evaluation of Model Context Protocol (MCP) server implementations, and large-language-model security.
+
 Use of large language models for certain types of technical research and analysis.
 
 Use of multimodal large language models for diagnosis of disease progression.

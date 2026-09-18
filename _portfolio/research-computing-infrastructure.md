@@ -15,7 +15,7 @@ Dr. Martin designs, builds, and operates the self-hosted computing infrastructur
 
 ## Consolidated virtualization platform
 
-The environment runs on Proxmox, using PCIe passthrough to give dedicated virtual machines direct control of physical hardware: a firewall VM (OPNsense) owns its network interfaces, and a storage VM (TrueNAS) owns its disk controllers. This consolidates what was previously a rack of separate physical appliances into a single chassis without giving up the isolation or performance of dedicated hardware. The same consolidation is what made room for new capability: the platform shares a chassis with the [LLM inference testbed](/portfolio/6-llm-inference-server/) used for local analysis of frontier-class language models.
+The environment runs on Proxmox, using PCIe passthrough to give dedicated virtual machines direct control of physical hardware: a firewall VM (OPNsense) owns its network interfaces, and a storage VM (TrueNAS) owns its disk controllers. This consolidates what was previously a rack of separate physical appliances into a single chassis without giving up the isolation or performance of dedicated hardware. The same consolidation is what made room for new capability: the platform shares a chassis with the [LLM inference testbed](/portfolio/6-llm-inference-server/) used for local analysis of frontier-class language models. Beyond this environment, Dr. Martin built a Proxmox cluster for his laboratory at Johns Hopkins University and operates a second cluster for AI agent workloads.
 
 ## Storage and data integrity
 

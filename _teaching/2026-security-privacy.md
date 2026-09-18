@@ -8,4 +8,4 @@ date: 2026-01-01
 location: "Baltimore, MD"
 ---
 
-Lecturer. Covers hardware and software security design, vulnerability assessment and reverse engineering, hardware and software-based attacks on computer components including RAM and CPUs, applied cryptography, computer architecture, networking, and component-level analysis. The course uses hardware and software emulation and virtualization techniques to present students with real-world environments for hands-on projects.
+Lecturer. Covers hardware and software security design, vulnerability assessment and reverse engineering, hardware and software-based attacks on computer components including RAM and CPUs, applied cryptography, computer architecture, networking, and component-level analysis. The course uses hardware and software emulation and virtualization techniques to present students with real-world environments for hands-on projects. The 2026 offering adds a new module on large-language-model security.
