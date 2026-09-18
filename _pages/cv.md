@@ -61,6 +61,8 @@ Dr. Martin has testified twenty times, including fourteen depositions, four tria
 
 ## Teaching Experience
 
+**2026** Security and Privacy in Computing, Lecturer
+
 **2025** Intermediate Programming, Lecturer
 
 **2024** Security and Privacy in Computing, Lecturer
@@ -112,7 +114,7 @@ Contributor to Charm, an open-source rapid prototyping framework for advanced cr
 
 ## Professional Committees & Standards Bodies
 
-IEEE 7024 Working Group — "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies" (Current Member)
+IEEE 7024 Working Group — "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies" (Secretary)
 
 IEEE Symposium on Security and Privacy (Winter 2024)
 

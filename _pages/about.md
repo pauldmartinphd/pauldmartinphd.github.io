@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Martin is a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) and the Chief Scientist at [Harbor Experts](https://harborexperts.com). He serves as both a testifying and consulting expert in complex software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand complex technical systems and the evidence they produce in high-stakes disputes.
+Dr. Martin is a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) and the Chief Scientist at [Harbor Experts](https://harborexperts.com). He serves as both a testifying and consulting expert in complex software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand complex technical systems and the evidence they produce in high-stakes disputes. He serves as Secretary of the IEEE 7024 Working Group, which is developing the standard for the procurement, verification and validation, and life cycle management of forensic technologies.
 
 He has provided expert testimony in federal and state courts, the International Trade Commission, and inter partes reviews, in matters involving major technology companies, criminal proceedings, and international disputes. Across more than one hundred matters, he has led large-scale source code reviews of systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
