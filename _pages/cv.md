@@ -184,8 +184,6 @@ Member, Association for Computing Machinery
 
 Computer Science Department Outstanding Teaching Assistant Award (2014), Johns Hopkins University
 
-Student Representative, Computer Science Undergraduate Curriculum Planning Committee, Johns Hopkins University
-
 ---
 
 ## Certifications
