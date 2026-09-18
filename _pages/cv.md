@@ -114,7 +114,7 @@ Contributor to Charm, an open-source rapid prototyping framework for advanced cr
 
 ## Professional Committees & Standards Bodies
 
-IEEE 7024 Working Group — "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies" (Secretary)
+[IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860) — "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies" (Secretary)
 
 IEEE Symposium on Security and Privacy (Winter 2024)
 
