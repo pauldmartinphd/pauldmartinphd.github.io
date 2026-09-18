@@ -146,8 +146,6 @@ Johns Hopkins Computer Science Department Educational Planning Committee (2013-2
 
 ## Current Research
 
-*A central thread in Dr. Martin's current research is software supply-chain security: quantifying, and then reducing, the gap between a software component's nominal version and its true vulnerability exposure — from firmware, through operating-system distributions, to language package managers.*
-
 Automated binary version extraction for NVD cross-reference based on fuzzy matching.
 
 Automated analysis of vulnerabilities in containers and virtual appliances.
