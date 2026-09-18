@@ -134,7 +134,7 @@ ACM Programming Competition Site Judge (September 7, 2015)
 
 Ingenuity Project Mentor, Yitzhak Oshry (2014-2015)
 
-**Departmental & Student Organization Service**
+**Departmental Service**
 
 Treasurer, Upsilon Pi Epsilon International Computer Science Honor Society, JHU Chapter (2014-2015)
 
