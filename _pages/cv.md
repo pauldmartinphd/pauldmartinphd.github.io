@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-description: "Curriculum vitae of Paul D. Martin, Ph.D.: expert witness, Chief Scientist at Harbor Experts, and Lecturer in Computer Science at Johns Hopkins University."
+description: "Curriculum vitae of Paul D. Martin, Ph.D. — expert witness, Chief Scientist at Harbor Experts, and Lecturer in Computer Science at Johns Hopkins University."
 author_profile: true
 redirect_from:
   - /resume
@@ -98,21 +98,21 @@ Contributor to Charm, an open-source rapid prototyping framework for advanced cr
 
 ## Patents
 
-**[US 10,762,214 B1](https://patents.google.com/patent/US10762214B1/)**: System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries
+**[US 10,762,214 B1](https://patents.google.com/patent/US10762214B1/)** — System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries
 
-**[US 10,230,599 B2](https://patents.google.com/patent/US10230599B2/)**: System and Method for Network Traffic Profiling and Visualization
+**[US 10,230,599 B2](https://patents.google.com/patent/US10230599B2/)** — System and Method for Network Traffic Profiling and Visualization
 
-**[US 9,667,521 B2](https://patents.google.com/patent/US9667521B2/)**: System and Method for Network Traffic Profiling and Visualization
+**[US 9,667,521 B2](https://patents.google.com/patent/US9667521B2/)** — System and Method for Network Traffic Profiling and Visualization
 
-**[US 8,984,583 B2](https://patents.google.com/patent/US8984583B2/)**: Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
+**[US 8,984,583 B2](https://patents.google.com/patent/US8984583B2/)** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
 
-**[US 9,438,632 B2](https://patents.google.com/patent/US9438632B2/)**: Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
+**[US 9,438,632 B2](https://patents.google.com/patent/US9438632B2/)** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
 
 ---
 
 ## Professional Committees & Standards Bodies
 
-IEEE 7024 Working Group: "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies" (Current Member)
+IEEE 7024 Working Group — "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies" (Current Member)
 
 IEEE Symposium on Security and Privacy (Winter 2024)
 
@@ -144,7 +144,7 @@ Computer Science Department Faculty Liaison Czar, Johns Hopkins University (2013
 
 ## Current Research
 
-*A central thread in Dr. Martin's current research is software supply-chain security: quantifying, and then reducing, the gap between a software component's nominal version and its true vulnerability exposure, from firmware, through operating-system distributions, to language package managers.*
+*A central thread in Dr. Martin's current research is software supply-chain security: quantifying, and then reducing, the gap between a software component's nominal version and its true vulnerability exposure — from firmware, through operating-system distributions, to language package managers.*
 
 Automated binary version extraction for NVD cross-reference based on fuzzy matching.
 

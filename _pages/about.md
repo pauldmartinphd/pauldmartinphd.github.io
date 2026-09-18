@@ -16,7 +16,7 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 ## Expert Witness
 
-What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine (including production code in FDA-regulated medical devices), designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
+What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine — including production code in FDA-regulated medical devices — designs **custom experiments** to answer the questions in dispute, and reconstructs system behavior from binaries when **source code is lost or unavailable**.
 
 His litigation record to date:
 
@@ -48,7 +48,7 @@ His current research measures how far enterprise distributions diverge from upst
 
 ## Teaching
 
-At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network security, and applied cryptography, courses built around hands-on analysis of real codebases, the same discipline he applies in litigation. He co-instructed a hardware-hacking course that earned the department's highest student ratings and received the Computer Science Department's Outstanding Teaching Assistant Award in 2014.
+At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network security, and applied cryptography — courses built around hands-on analysis of real codebases, the same discipline he applies in litigation. He co-instructed a hardware-hacking course that earned the department's highest student ratings and received the Computer Science Department's Outstanding Teaching Assistant Award in 2014.
 
 [View teaching experience &rarr;](/teaching/)
 
@@ -56,7 +56,7 @@ At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network
 
 ## Projects
 
-Dr. Martin has hands-on experience across 16 CPU architectures, from 8-bit microcontrollers (6502, 8051, Z80, AVR, PIC) through embedded processors (ARM, MIPS, MSP430) to server-class systems (x86-64, SPARC, PowerPC), and maintains a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
+Dr. Martin has hands-on experience across 16 CPU architectures — from 8-bit microcontrollers (6502, 8051, Z80, AVR, PIC) through embedded processors (ARM, MIPS, MSP430) to server-class systems (x86-64, SPARC, PowerPC) — and maintains a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
 
 [View selected projects &rarr;](/portfolio/)
 
@@ -64,16 +64,16 @@ Dr. Martin has hands-on experience across 16 CPU architectures, from 8-bit micro
 
 ## In the Media
 
-[The Asbury Park Press](https://www.app.com/picture-gallery/news/crime/2026/04/20/paul-caneiro-murder-investigation-to-pretrial-hearings-2018-2026-photos/88996938007/): photo chronology of the *State of New Jersey v. Paul Caneiro* case (April 2026)
+[The Asbury Park Press](https://www.app.com/picture-gallery/news/crime/2026/04/20/paul-caneiro-murder-investigation-to-pretrial-hearings-2018-2026-photos/88996938007/) — photo chronology of the *State of New Jersey v. Paul Caneiro* case (April 2026)
 
-[The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/): reporting on Dr. Martin's testimony: "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
+[The Asbury Park Press](https://www.app.com/story/news/local/courts/2024/12/07/dna-software-used-in-caneiro-murder-case-is-quite-good-expert-says/76452750007/) — reporting on Dr. Martin's testimony: "DNA software used in Caneiro murder case is 'quite good,' expert says" (December 2024)
 
-[Al Jazeera America and Al Jazeera English (international)](/media/al-jazeera-2015/): television interview on medical device security (February 13, 2015)
+[Al Jazeera America and Al Jazeera English (international)](/media/al-jazeera-2015/) — television interview on medical device security (February 13, 2015)
 
-[The Washington Post](https://web.archive.org/web/20150907223319/http://www.washingtonpost.com/wp-dyn/content/article/2009/02/01/AR2009020101732_pf.html): coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
+[The Washington Post](https://web.archive.org/web/20150907223319/http://www.washingtonpost.com/wp-dyn/content/article/2009/02/01/AR2009020101732_pf.html) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
 
-[The Baltimore Sun](https://www.baltimoresun.com/2009/02/03/tell-your-friends-hopkins-students-take-course-to-design-facebook-apps-2/): coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
+[The Baltimore Sun](https://www.baltimoresun.com/2009/02/03/tell-your-friends-hopkins-students-take-course-to-design-facebook-apps-2/) — coverage of a Johns Hopkins University intersession course on Facebook application development (February 2009)
 
 ---
 
-Dr. Martin also maintains [Technicomp Labs](https://technicomplabs.io), an independent site documenting his personal technical, hardware, and restoration projects, including systems-performance research and a working collection of vintage computers, separate from his professional and expert work.
+Dr. Martin also maintains [Technicomp Labs](https://technicomplabs.io), an independent site documenting his personal technical, hardware, and restoration projects — including systems-performance research and a working collection of vintage computers — separate from his professional and expert work.
