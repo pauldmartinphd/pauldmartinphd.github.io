@@ -6,8 +6,6 @@ description: "Paul D. Martin, Ph.D. on his experience with embedded systems, fir
 author_profile: true
 ---
 
-*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
-
 I have substantial experience with embedded systems, firmware, computer architecture, and hardware security. My work includes developing embedded software and security mechanisms, analyzing interactions between hardware and software, extracting and examining firmware, and testing the security and behavior of physical devices. I previously served as Director of Firmware Security and later Vice President of Applied Research and Technology at Harbor Labs. I currently serve as Chief Scientist at Harbor Experts, where I lead technical-analysis engagements and research.
 
 My research includes the design of [Sentinel](/portfolio/3-sentinel/), a hardware security system that attaches directly to an embedded device's processor to build execution profiles and enforce control-flow integrity. This work addressed detection and prevention of departures from expected execution behavior in embedded systems and was published at the ACM/IEEE International Conference on Internet-of-Things Design and Implementation. My broader embedded-security research has included binary analysis, anomaly detection, and automated security enforcement.

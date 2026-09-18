@@ -6,8 +6,6 @@ description: "Paul D. Martin, Ph.D. on his experience with software development,
 author_profile: true
 ---
 
-*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
-
 I have substantial experience with software development, source-code analysis, and the technical investigation of software in intellectual-property and commercial disputes. I am the Chief Scientist at Harbor Experts and a Lecturer in the Department of Computer Science at Johns Hopkins University. I have served as a testifying or consulting expert in more than one hundred matters and have personally led more than one hundred large-scale source-code reviews involving systems ranging from thousands to billions of lines of code. A substantial portion of my professional practice involves directing and performing these reviews, developing methods for evaluating technical claims, and explaining the resulting findings.
 
 The systems I have reviewed encompass a broad range of software architectures and applications, including security products, television set-top boxes, network appliances, web-based enterprise systems, email-management systems, telephony products, embedded-system bootloaders, social-network platforms, and virtualization platforms. My work has included reconstructing system functionality, development history, and technical provenance from source code, binaries, documentation, and forensic artifacts. Where source code was lost or unavailable, I have used binary reverse engineering and forensic reconstruction to investigate the software's behavior and implementation.

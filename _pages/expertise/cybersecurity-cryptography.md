@@ -6,8 +6,6 @@ description: "Paul D. Martin, Ph.D. on his experience with cybersecurity, applie
 author_profile: true
 ---
 
-*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
-
 I have substantial experience with cybersecurity, applied cryptography, network security, authentication systems, and privacy-preserving technologies. My work includes designing and implementing security mechanisms, analyzing software and hardware implementations, identifying and demonstrating vulnerabilities, and evaluating the effectiveness of security controls. I teach computer and network security and applied cryptography as a Lecturer in the Department of Computer Science at Johns Hopkins University. Earlier in my academic career, I also served as a course assistant for Practical Cryptographic Systems.
 
 My research has included the design of cryptographic authentication systems. My co-authors and I designed a wearable authentication device that received a Kerberos credential from a computer terminal and transferred that credential to other terminals through low-energy electrical signals transmitted over the wearer's skin. The device was designed to lose its cryptographic secret when removed from the wearer. This work, published at Financial Cryptography and Data Security, addressed credential handling, protection of secret material, and the practical use of authentication mechanisms in healthcare environments.

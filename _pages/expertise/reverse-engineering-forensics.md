@@ -6,8 +6,6 @@ description: "Paul D. Martin, Ph.D. on his experience with reverse engineering, 
 author_profile: true
 ---
 
-*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
-
 I have substantial experience with reverse engineering, malware analysis, and digital forensics across desktop and laptop computers, mobile phones, and embedded devices. My work has involved examining compiled software, firmware, and digital artifacts to reconstruct system behavior, development history, and technical provenance. I have conducted these investigations in research, commercial consulting, and litigation, including circumstances where source code was incomplete, lost, or unavailable.
 
 My malware-related development work began early in my career. In 2007, I developed a Linux distribution and associated LiveCD build system intended to support identification and removal of malware from Windows computers. At Independent Security Evaluators, I subsequently designed and built an [automated system](/portfolio/ise-malware-automation/) capable of testing antivirus products against thousands of malware samples for Consumer Reports' annual antivirus analysis. The system operated on a VMware ESXi server that I managed and automated the creation and restoration of Windows virtual-machine snapshots and the testing of antivirus software against actual malware samples, enabling large-scale, repeatable evaluation of antivirus products.

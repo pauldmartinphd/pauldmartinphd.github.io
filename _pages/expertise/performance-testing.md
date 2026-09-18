@@ -6,8 +6,6 @@ description: "Paul D. Martin, Ph.D. on his experience with performance analysis,
 author_profile: true
 ---
 
-*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
-
 I have substantial experience with performance analysis, benchmarking, and experimental testing of software and hardware systems. My work spans desktop and laptop computers, mobile devices, embedded systems, network infrastructure, and servers. I design experiments to evaluate technical claims, investigate performance problems, and determine how systems behave under controlled conditions. This work draws on more than twenty years of hands-on performance measurement and tuning, together with my experience analyzing source code, operating systems, firmware, and hardware-software interfaces.
 
 My litigation work has included investigations of system stuttering associated with firmware-based trusted platform modules, interactive latency following mobile operating-system changes, and performance throttling associated with battery-management behavior. In the firmware-security work, I examined the security and performance characteristics of trusted execution environments and nonvolatile-memory interfaces using SPI, prepared expert reports, and testified at deposition. I have also worked on numerous battery-management matters involving the relationship between power-management decisions and device performance.

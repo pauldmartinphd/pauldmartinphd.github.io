@@ -6,8 +6,6 @@ description: "Paul D. Martin, Ph.D. on his experience with virtualization, conta
 author_profile: true
 ---
 
-*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
-
 I have substantial experience with virtualization, containerization, cloud computing, distributed processing, and the infrastructure underlying hosted applications. My work includes designing and operating computing environments, developing systems that use virtualization, assessing their security, and analyzing their implementation in litigation. I use these technologies in my commercial work, research, and teaching.
 
 Early in my career, I performed a security assessment and wide-scale penetration test of virtualized cloud-based research systems using Amazon EC2 and VMware infrastructure, including penetration testing of VMware ESXi. The systems were intended to provide secure environments for researchers working with confidential information. I developed a formal threat model addressing potential attack vectors, conducted testing, and prepared reports documenting the results.

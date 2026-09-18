@@ -6,8 +6,6 @@ description: "Paul D. Martin, Ph.D. on his experience with medical-device securi
 author_profile: true
 ---
 
-*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
-
 I have substantial experience with medical-device security, healthcare information systems, and the protection of patient information. My work includes academic research, production software development, commercial security assessments, and expert-witness analysis. I earned my Ph.D. in Computer Science at Johns Hopkins University, where my dissertation, *Securing Medical Devices and Protecting Patient Privacy in the Technological Age of Healthcare*, addressed the design of secure healthcare technologies and their integration into practical clinical workflows.
 
 My commercial experience includes writing production code deployed in FDA-regulated medical devices and designing cryptographic protocols implemented in production healthcare environments. At Independent Security Evaluators and Harbor Labs, I performed security assessments of products before and after market release. My assessment work included identifying the security properties and policies a system was intended to preserve, examining their implementation, and designing tests to determine whether those protections could be bypassed. Where appropriate, my work also includes evaluating compliance with applicable regulatory requirements and technical standards.

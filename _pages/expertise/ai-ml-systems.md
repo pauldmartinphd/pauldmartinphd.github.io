@@ -6,8 +6,6 @@ description: "Paul D. Martin, Ph.D. on his experience with artificial-intelligen
 author_profile: true
 ---
 
-*One of eight [areas of expertise](/expert-witness/#areas-of-expertise) in Dr. Martin's expert witness practice, in his own words.*
-
 I have experience with artificial-intelligence and machine-learning systems through expert-witness engagements, source-code analysis, research, teaching, and development of computing infrastructure for local model execution. My work includes examining machine-learning implementations and AI integration software, investigating large-language-model security, and measuring and optimizing inference performance.
 
 In my expert-witness practice, I have analyzed audience-measurement and identification systems incorporating machine learning. This work included source-code review, analysis of the implemented technology, preparation of expert reports, and testimony at deposition and trial. In related work involving audience-measurement and audio-fingerprinting systems, I performed source-code and algorithm analysis, developed simulations, and testified at trial.
