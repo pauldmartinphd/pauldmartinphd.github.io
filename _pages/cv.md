@@ -162,18 +162,6 @@ Use of multimodal large language models for diagnosis of disease progression.
 
 ---
 
-## Technical Skills
-
-**Programming & Software Development:** BASH, C, C++, C#, HTML, Java, JavaScript, Objective-C, Perl, PHP, Python, Regular Expressions, SQL, XML; Ant, BitBucket, Confluence, gdb, git, GitHub, GitLab, Gradle, Jira, make, Maven, subversion, Trello, Vagrant, valgrind
-
-**Platforms & Architectures:** 6502, 8051, 8080, AVR, PIC, MSP430, Z80, m68k, ARM Cortex-M, ARMv7, ARMv8, MIPS, PowerPC, SPARC, x86, x86-64; Android, ChromeOS, FreeBSD, iOS, Linux, macOS, OpenBSD, Windows
-
-**Security & Reverse Engineering:** Aircrack-ng, apktool, binwalk, bulk-extractor, Burp Suite, Charles Proxy, curl, dex2jar, ftk, hashcat, IDA Pro, jad, jd-gui, Metasploit, mitmproxy, Nessus, nmap, OpenSSL, ophcrack, p0f, Scalpel, skipfish, snort, sslstrip, sslyze, Volatility, Web Scarab, wget, Wireshark
-
-**Infrastructure & Data Systems:** Ansible, Docker, Hadoop, MySQL, PostgreSQL; AWS, Azure, Bhyve, KVM, LXD, QEMU, virt-manager, VMware, Xhyve
-
----
-
 ## Honors, Societies, and Awards
 
 Member, Upsilon Pi Epsilon International Computer Science Honor Society
