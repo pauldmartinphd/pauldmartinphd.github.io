@@ -55,7 +55,8 @@ Dr. Martin has testified twenty times, including fourteen depositions, four tria
 
 **Freelance Software Developer**, Brandeis University Computer Repair Shop (2008)
 
-*Consulting and advisory clients span the medical device, telecommunications, semiconductor, and security industries.*
+**Analysis, Design & Development Clients**
+Arai, Baxter, Bigfoot Medical, BT Group, Cardiac Sciences, Dyadic, Fresenius, HLFIP Holdings, Hospira, ICU Medical, Inexto, Intuitive Surgical, Merlin, Orpheus, Security First Corporation, Texas Instruments, Thesys, Vaxxin
 
 ---
 
@@ -74,6 +75,20 @@ Dr. Martin has testified twenty times, including fourteen depositions, four tria
 **2012-2014** Security and Privacy, Teaching Assistant
 
 **2011** Practical Cryptographic Systems, Course Assistant
+
+---
+
+## Patents
+
+**[US 10,762,214 B1](https://patents.google.com/patent/US10762214B1/)** — System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries
+
+**[US 10,230,599 B2](https://patents.google.com/patent/US10230599B2/)** — System and Method for Network Traffic Profiling and Visualization
+
+**[US 9,667,521 B2](https://patents.google.com/patent/US9667521B2/)** — System and Method for Network Traffic Profiling and Visualization
+
+**[US 8,984,583 B2](https://patents.google.com/patent/US8984583B2/)** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
+
+**[US 9,438,632 B2](https://patents.google.com/patent/US9438632B2/)** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
 
 ---
 
@@ -98,17 +113,21 @@ Contributor to Charm, an open-source rapid prototyping framework for advanced cr
 
 ---
 
-## Patents
+## Current Research
 
-**[US 10,762,214 B1](https://patents.google.com/patent/US10762214B1/)** — System and Method for Automatically Extracting Information from Binary Files for Use in Database Queries
+Automated binary version extraction for NVD cross-reference based on fuzzy matching.
 
-**[US 10,230,599 B2](https://patents.google.com/patent/US10230599B2/)** — System and Method for Network Traffic Profiling and Visualization
+Automated analysis of vulnerabilities in containers and virtual appliances.
 
-**[US 9,667,521 B2](https://patents.google.com/patent/US9667521B2/)** — System and Method for Network Traffic Profiling and Visualization
+Large-scale comparison of the nature and kind of firmware vulnerabilities across and within product classes.
 
-**[US 8,984,583 B2](https://patents.google.com/patent/US8984583B2/)** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
+Quantifying vulnerability divergence and patch lead time between rolling and enterprise Linux distributions: whether rolling distributions are more secure against known and unknown CVEs, whether enterprise distributions should be based on rolling LTS packages, and whether distributions should converge on shared soft-forked package versions so that maintenance effort can be pooled rather than duplicated. A planned follow-up extends the same analysis to programming-language package managers.
 
-**[US 9,438,632 B2](https://patents.google.com/patent/US9438632B2/)** — Healthcare Privacy Breach Prevention Through Integrated Audit and Access Control
+Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models.
+
+Use of large language models for certain types of technical research and analysis.
+
+Use of multimodal large language models for diagnosis of disease progression.
 
 ---
 
@@ -119,6 +138,26 @@ Contributor to Charm, an open-source rapid prototyping framework for advanced cr
 IEEE Symposium on Security and Privacy (Winter 2024)
 
 IEEE Symposium on Security and Privacy (Summer 2024)
+
+---
+
+## Honors, Societies, and Awards
+
+Member, Upsilon Pi Epsilon International Computer Science Honor Society
+
+Member, Institute for Electrical and Electronics Engineers
+
+Member, Association for Computing Machinery
+
+Computer Science Department Outstanding Teaching Assistant Award (2014), Johns Hopkins University
+
+---
+
+## Certifications
+
+Six Sigma Black Belt
+
+Six Sigma Green Belt
 
 ---
 
@@ -141,44 +180,6 @@ Treasurer, Upsilon Pi Epsilon International Computer Science Honor Society, JHU 
 Computer Science Department Faculty Liaison Czar, Johns Hopkins University (2013-2015)
 
 Johns Hopkins Computer Science Department Educational Planning Committee (2013-2014)
-
----
-
-## Current Research
-
-Automated binary version extraction for NVD cross-reference based on fuzzy matching.
-
-Automated analysis of vulnerabilities in containers and virtual appliances.
-
-Large-scale comparison of the nature and kind of firmware vulnerabilities across and within product classes.
-
-Quantifying vulnerability divergence and patch lead time between rolling and enterprise Linux distributions: whether rolling distributions are more secure against known and unknown CVEs, whether enterprise distributions should be based on rolling LTS packages, and whether distributions should converge on shared soft-forked package versions so that maintenance effort can be pooled rather than duplicated. A planned follow-up extends the same analysis to programming-language package managers.
-
-Performance analysis and optimization of local large language model inference, including forecasting of architecture and parameter-scaling trends across frontier, open-weight, and agentic models.
-
-Use of large language models for certain types of technical research and analysis.
-
-Use of multimodal large language models for diagnosis of disease progression.
-
----
-
-## Honors, Societies, and Awards
-
-Member, Upsilon Pi Epsilon International Computer Science Honor Society
-
-Member, Institute for Electrical and Electronics Engineers
-
-Member, Association for Computing Machinery
-
-Computer Science Department Outstanding Teaching Assistant Award (2014), Johns Hopkins University
-
----
-
-## Certifications
-
-Six Sigma Black Belt
-
-Six Sigma Green Belt
 
 ---
 
