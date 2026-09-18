@@ -141,24 +141,17 @@ IEEE Symposium on Security and Privacy (Summer 2024)
 
 ---
 
-## Honors, Societies, and Awards
+## Honors, Memberships & Certifications
 
 Member, Upsilon Pi Epsilon International Computer Science Honor Society
 
-Member, Institute for Electrical and Electronics Engineers
+Member, Institute of Electrical and Electronics Engineers
 
 Member, Association for Computing Machinery
 
 Computer Science Department Outstanding Teaching Assistant Award (2014), Johns Hopkins University
 
----
-
-## Certifications
-
-Six Sigma Black Belt
-
-Six Sigma Green Belt
-
+Six Sigma Black Belt and Green Belt, Six Sigma Integration, Inc. (2009)
 ---
 
 ## Professional & Academic Service
