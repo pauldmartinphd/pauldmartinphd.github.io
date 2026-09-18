@@ -118,8 +118,6 @@ IEEE Symposium on Security and Privacy (Winter 2024)
 
 IEEE Symposium on Security and Privacy (Summer 2024)
 
-Johns Hopkins Computer Science Department Educational Planning Committee (2013-2014)
-
 ---
 
 ## Professional & Academic Service
@@ -139,6 +137,8 @@ Ingenuity Project Mentor, Yitzhak Oshry (2014-2015)
 Treasurer, Upsilon Pi Epsilon International Computer Science Honor Society, JHU Chapter (2014-2015)
 
 Computer Science Department Faculty Liaison Czar, Johns Hopkins University (2013-2015)
+
+Johns Hopkins Computer Science Department Educational Planning Committee (2013-2014)
 
 ---
 
