@@ -14,7 +14,7 @@ redirect_from:
 
 [Download Professional Background (PDF)](/files/PaulMartin-Professional-Background.pdf)
 
-Dr. Martin has testified nineteen times, including thirteen depositions, four trials, and two evidentiary hearings.
+Dr. Martin has testified twenty times, including fourteen depositions, four trials, and two evidentiary hearings.
 
 ---
 
@@ -114,7 +114,31 @@ Contributor to Charm, an open-source rapid prototyping framework for advanced cr
 
 IEEE 7024 Working Group: "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies" (Current Member)
 
-IEEE Symposium on Security and Privacy, Program Committee (Winter 2024, Summer 2024)
+IEEE Symposium on Security and Privacy (Winter 2024)
+
+IEEE Symposium on Security and Privacy (Summer 2024)
+
+Johns Hopkins Computer Science Department Educational Planning Committee (2013-2014)
+
+---
+
+## Professional & Academic Service
+
+**Judging**
+
+HopHacks Judge (2025, 2026)
+
+ACM Programming Competition Site Judge (September 7, 2015)
+
+**Mentoring**
+
+Ingenuity Project Mentor, Yitzhak Oshry (2014-2015)
+
+**Departmental & Student Organization Service**
+
+Treasurer, Upsilon Pi Epsilon International Computer Science Honor Society, JHU Chapter (2014-2015)
+
+Computer Science Department Faculty Liaison Czar, Johns Hopkins University (2013-2015)
 
 ---
 
@@ -159,10 +183,6 @@ Member, Institute for Electrical and Electronics Engineers
 Member, Association for Computing Machinery
 
 Computer Science Department Outstanding Teaching Assistant Award (2014), Johns Hopkins University
-
-Treasurer, Upsilon Pi Epsilon (JHU Chapter)
-
-Computer Science Department Faculty Liaison Czar, Johns Hopkins University
 
 Student Representative, Computer Science Undergraduate Curriculum Planning Committee, Johns Hopkins University
 

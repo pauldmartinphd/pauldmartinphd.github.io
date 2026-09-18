@@ -20,8 +20,8 @@ What sets Dr. Martin's practice apart is that he is not only an analyst: he has 
 
 His litigation record to date:
 
-- 19 testimony appearances
-- 13 depositions
+- 20 testimony appearances
+- 14 depositions
 - 4 trials
 - 2 evidentiary hearings
 - 100+ large-scale source code reviews

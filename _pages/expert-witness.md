@@ -65,7 +65,13 @@ Dr. Martin's engagements typically involve:
 
 ## Testimony
 
-Dr. Martin has provided expert testimony nineteen times, at trial, in evidentiary hearings, and at deposition, in the following matters:
+Dr. Martin has provided expert testimony twenty times, at trial, in evidentiary hearings, and at deposition, in the following matters:
+
+**Evox Productions, LLC v. Cars.com, LLC**
+Case No. 5:25-cv-02357-KK-SP
+*Web architecture.*
+Services: Source code review, expert report drafting, comparative analysis.
+Testimony: Deposition, Potomac, MD (August 26, 2026)
 
 **Malikie Innovations Ltd., Key Patent Innovations Ltd. v. Foundry, Inc.**
 Case No. 7:25-cv-00567-DC-DTG
