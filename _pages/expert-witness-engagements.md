@@ -2,7 +2,7 @@
 layout: archive
 title: "Reports, Declarations & Consulting Engagements"
 permalink: /expert-witness/engagements/
-description: "The full engagement record of expert witness Paul D. Martin, Ph.D. — reports, declarations, and litigation support and consulting matters."
+description: "The full engagement record of expert witness Paul D. Martin, Ph.D.: reports, declarations, and litigation support and consulting matters."
 author_profile: true
 ---
 
