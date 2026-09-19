@@ -16,7 +16,7 @@ He earned his B.S., M.S.E., and Ph.D. in Computer Science from Johns Hopkins Uni
 
 ## Expert Witness
 
-Dr. Martin has built the kinds of systems he is retained to examine, including production code in FDA-regulated medical devices. He designs custom experiments to answer the questions in dispute and reconstructs system behavior from binaries when source code is lost or unavailable.
+What sets Dr. Martin's practice apart is that he is not only an analyst: he has built the kinds of systems he is retained to examine, including production code in FDA-regulated medical devices, designs custom experiments to answer the questions in dispute, and reconstructs system behavior from binaries when source code is lost or unavailable.
 
 His litigation record to date:
 
