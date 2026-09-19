@@ -28,6 +28,7 @@ author:
   bio              : "Researcher · Educator · Innovator"
   location         : "Washington, DC"
   employer         : "Harbor Experts"
+  employer_url     : "https://harborexperts.com"
   uri              : # URL
   email            : "pmartin@pauldmartin.org" 
 
