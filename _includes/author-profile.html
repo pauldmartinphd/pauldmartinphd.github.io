@@ -28,7 +28,10 @@
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        {% if author.employer_url %}<li class="author__desktop"><a href="{{ author.employer_url }}"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a></li>{% else %}<li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>{% endif %}
+        <li class="author__desktop">{% if author.employer_url %}<a href="{{ author.employer_url }}"><i class="fas fa-fw fa-briefcase icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a>{% else %}<i class="fas fa-fw fa-briefcase icon-pad-right" aria-hidden="true"></i>{{ author.employer }}{% endif %}</li>
+      {% endif %}
+      {% if author.institution %}
+        <li class="author__desktop">{% if author.institution_url %}<a href="{{ author.institution_url }}"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.institution }}</a>{% else %}<i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.institution }}{% endif %}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>

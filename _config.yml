@@ -29,6 +29,8 @@ author:
   location         : "Washington, DC"
   employer         : "Harbor Experts"
   employer_url     : "https://harborexperts.com"
+  institution      : "Johns Hopkins University"
+  institution_url  : "https://www.cs.jhu.edu/"
   uri              : # URL
   email            : "pmartin@pauldmartin.org" 
 
