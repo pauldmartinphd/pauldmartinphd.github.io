@@ -65,3 +65,24 @@
     font-weight: 700;
   }
 }
+/* Dark header bar (same in light and dark site themes) */
+$masthead-bg: #161616;
+$masthead-link: #dddddd;
+$masthead-accent: #52adc8;
+
+.masthead {
+  background: $masthead-bg;
+  &::after { background: rgba(255, 255, 255, 0.06); }
+}
+.masthead__menu-item { background-color: transparent; }
+.masthead .greedy-nav { background: transparent; }
+.masthead .greedy-nav .visible-links a {
+  color: $masthead-link;
+  &:hover, &.is-active { color: #fff; }
+  &:before { height: 2px; background: $masthead-accent; }
+  &.is-active:before { transform: scaleX(1); }
+}
+.masthead .greedy-nav .visible-links .masthead__menu-item--lg a { color: #fff; }
+.masthead .greedy-nav .visible-links .masthead__menu-item--lg a:before { display: none; }
+.masthead .greedy-nav button { background-color: transparent; }
+.masthead .greedy-nav .hidden-links a { color: #333; &.is-active { color: #000; } }
