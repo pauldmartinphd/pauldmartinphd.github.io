@@ -56,7 +56,7 @@ At Johns Hopkins, Dr. Martin teaches C and C++ programming, computer and network
 
 ## Projects
 
-Dr. Martin has hands-on experience across dozens of CPU architectures, from 8-bit processors (6502, 8051, Z80, PIC) through embedded systems (AVR, MSP430) to workstation- and server-class systems (x86-64, ARM, MIPS, SPARC, PowerPC), and maintains a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
+Dr. Martin has hands-on experience across dozens of CPU architectures, from 8-bit processors (e.g., 6502, 8051, Z80, PIC) through embedded systems (e.g., AVR, MSP430) to workstation- and server-class systems (e.g., x86-64, ARM, MIPS, SPARC, PowerPC), and maintains a [hardware analysis laboratory](/portfolio/#lab) equipped with oscilloscopes, logic analyzers, microscopes, soldering and rework stations, and other diagnostic equipment used for component-level hardware investigation, firmware extraction, and forensic analysis.
 
 [View selected projects &rarr;](/portfolio/)
 
