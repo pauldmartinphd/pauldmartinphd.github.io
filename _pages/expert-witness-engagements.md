@@ -19,12 +19,12 @@ Matters in which Dr. Martin was retained as a testifying expert and prepared rep
 **Netskope, Inc. v. Fortinet, Inc.**
 IPR2026-00473, IPR2026-00474
 *Cloud security policy tagging and behavior-based file access control.*
-Services: Validity analysis.
+Services: Invalidity analysis, IPR drafting.
 
 **DISH Network L.L.C. v. Eleven Software Inc.**
 Case No. 2:26-cv-01845-CDS-BNW
-*Patent eligibility under 35 U.S.C. § 101.*
-Services: Section 101 validity analysis, expert report drafting.
+*Wi-Fi (WPA/WPA2) authentication and network access control.*
+Services: Section 101 validity analysis, expert declaration drafting.
 
 **CITI v. WellSpan Health and Triyam**
 Case No. 1:25-cv-01551-KMN
