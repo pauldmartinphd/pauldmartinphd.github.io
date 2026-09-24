@@ -16,6 +16,16 @@ Jump to: [Reports & Declarations](#reports) &middot; [Litigation Support & Consu
 
 Matters in which Dr. Martin was retained as a testifying expert and prepared reports, declarations, or affidavits.
 
+**CITI v. WellSpan Health and Triyam**
+Case No. 1:25-cv-01551-KMN
+*Trade secrets and contractual disputes involving electronic health record (EHR) software.*
+Services: Source code review, expert report drafting.
+
+**SerpApi, LLC v. Zilvinas Kucinskas and SearchApi LLC**
+Case No. 1:26-cv-00143
+*Alleged trade secret misappropriation and copyright infringement involving web-scraping and search-results API software.*
+Services: Source code review, expert report drafting.
+
 **Bayerische Motoren Werke Aktiengesellschaft v. Onesta IP, LLC**
 Case No. 6:2025-cv-00581
 *Power and latency-sensitive process scheduling.*
@@ -91,6 +101,31 @@ Services: Source code and documentation review, development timeline analysis, a
 ## Litigation Support & Consulting {#consulting}
 
 Matters in which Dr. Martin provided consulting analysis, source code review, and technical support.
+
+**Touchstream Technologies, Inc. v. Optimum Communications, Inc.**
+Case No. 2:24-cv-03816
+*Casting and media-streaming control.*
+Services: Validity analysis, infringement analysis.
+
+**Carma Technology Corp. v. Uber Technologies, Inc.**
+Case No. 2:25-cv-00029-JRG-RSP
+*Ridesharing and delivery systems.*
+Services: Noninfringement analysis.
+
+**Certain Smart Televisions**
+ITC Investigation No. 337-TA-1461
+*Audio processing libraries in smart televisions.*
+Services: Source code review.
+
+**Dr. Rachel Kent v. Apple Inc. and Apple Distribution International Limited**
+Case No. 1403/7/7/21 (Competition Appeal Tribunal, London)
+*Class action related to App Store competition.*
+Services: App Store security and privacy analysis.
+
+**Virtru Corporation v. Microsoft Corporation**
+Case No. 2:23-cv-00872
+*Distributing cryptographic data to authenticated recipients (email and file encryption).*
+Services: Infringement analysis, secondary considerations analysis, non-infringing alternatives analysis.
 
 **Video Solutions v. Cisco, Inc.**
 Case No. 2:23-cv-222-JRG

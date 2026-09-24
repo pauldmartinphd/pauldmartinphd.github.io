@@ -56,7 +56,7 @@ Dr. Martin has testified twenty times, including fourteen depositions, four tria
 **Freelance Software Developer**, Brandeis University Computer Repair Shop (2008)
 
 **Analysis, Design & Development Clients**
-Arai, Baxter, Bigfoot Medical, BT Group, Cardiac Sciences, Dyadic, Fresenius, HLFIP Holdings, Hospira, ICU Medical, Inexto, Intuitive Surgical, Merlin, Orpheus, Security First Corporation, Texas Instruments, Thesys, Vaxxin
+Arai, Baxter, Bigfoot Medical, BT Group, Cardiac Sciences, Dyadic, Fresenius, HLFIP Holdings, Hospira, ICU Medical, Inexto, Intuitive Surgical, Merlin, Orpheus, Security First Corporation, Smart Solutions IP, Texas Instruments, Thesys, Vaxxin
 
 ---
 
