@@ -76,4 +76,4 @@ Dr. Martin has hands-on experience across 16 CPU architectures, from 8-bit micro
 
 ---
 
-Dr. Martin also maintains [Technicomp Labs](https://technicomplabs.io), an independent site documenting his personal technical, hardware, and restoration projects, including systems-performance research and a working collection of vintage computers, separate from his professional and expert work.
+Dr. Martin also runs [Technicomp Labs](https://technicomplabs.io), his independent lab and the home of [Technicomp Benchtop Linux](https://technicomplabs.io/projects/), the operating system for the technical workbench. The site also hosts his independent technical blog, open-source projects, performance research, hardware restorations, and a museum archive of vintage computers and game consoles. Technicomp Labs is separate from his professional and expert witness work.
