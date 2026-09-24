@@ -10,4 +10,4 @@ Technicomp Benchtop Linux is a Linux distribution that Dr. Martin developed and 
 
 The distribution also grows out of Dr. Martin's research into vulnerability divergence and patch management across Linux distributions. It is an applied response to a question raised by that work: how a stable distribution can deliver enterprise-grade reliability without the incomplete backports and version drift that let a package's real vulnerability exposure diverge from its upstream version.
 
-The project is developed and released through [Technicomp Labs](https://technicomplabs.io/projects/).
+The project is developed and released through [Technicomp Labs](https://technicomplabs.io/benchtop/).
