@@ -154,6 +154,7 @@ Member, Association for Computing Machinery
 Computer Science Department Outstanding Teaching Assistant Award (2014), Johns Hopkins University
 
 Six Sigma Black Belt and Green Belt, Six Sigma Integration, Inc. (2009)
+
 ---
 
 ## Professional & Academic Service
