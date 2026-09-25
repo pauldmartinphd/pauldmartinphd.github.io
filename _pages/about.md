@@ -40,7 +40,7 @@ Dr. Martin's research and engineering span source code analysis, security and cr
 
 He designed and led development of [Firmware IQ](https://harborlabs.com/regulatory-support/persistent-vulnerability-monitoring/), a commercial platform that scans firmware, containers, and virtual machine images for known vulnerabilities against NIST's National Vulnerability Database, and [Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC), a CPU add-on that enforces control-flow integrity on embedded devices; earlier systems he built were patented by Accenture and commercialized by Applied Communication Sciences.
 
-His current research measures how far enterprise distributions diverge from upstream, and whether a rolling distribution with an LTS core, like the one he has built, narrows that gap. That work runs on virtualization and hosting infrastructure he designs and operates for security research, AI inference, and expert engagements, informed by more than twenty years of performance measurement and tuning.
+In 2026 he released [Technicomp Benchtop Linux](/portfolio/#benchtop-linux), the operating system for the technical workbench: an immutable Linux desktop with an LTS core. His current research measures how far enterprise distributions diverge from upstream, and whether a release model like Benchtop Linux's narrows that gap. That work runs on virtualization and hosting infrastructure he designs and operates for security research, AI inference, and expert engagements, informed by more than twenty years of performance measurement and tuning.
 
 [View publications & patents &rarr;](/publications/)
 

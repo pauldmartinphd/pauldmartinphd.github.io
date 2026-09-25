@@ -108,6 +108,9 @@ P. Martin, A. Rubin, R. Bhatti, "Enforcing Minimum Necessary Access in Healthcar
 
 ## Open-Source Contributions
 
+**Technicomp Benchtop Linux** (2026-Present)
+Creator of Technicomp Benchtop Linux, an immutable GNOME-based Linux distribution for technical workstations, released in alpha through the openSUSE Build Service. ([Technicomp Labs](https://technicomplabs.io/benchtop/))
+
 **Charm: A Framework for Rapid Cryptographic Prototyping** (2010-2012)
 Contributor to Charm, an open-source rapid prototyping framework for advanced cryptographic algorithms, developed at Johns Hopkins University.
 
