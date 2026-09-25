@@ -9,7 +9,7 @@ featured: true
 
 Technicomp Benchtop Linux is a Linux distribution that Dr. Martin designed, built, and released in alpha in 2026. It is the operating system for the technical workbench: an immutable GNOME desktop for x86 and ARM workstations, built on openSUSE Tumbleweed and MicroOS.
 
-Even though the system uses a rolling release model, it has LTS core packages and a GNOME old-stable desktop, so the system stays stable while security and bug fixes arrive promptly. Every update is a snapshot that can be rolled back. The distribution ships LTS and Current kernels, both patched for hardware support, and is tuned for low interactive latency so that the desktop remains responsive under heavy load. Applications come from Flatpak and command-line tools from Homebrew, both managed per user.
+Even though the system uses a rolling release model, it has LTS core packages and a GNOME old stable desktop, so the system stays stable while security and bug fixes arrive promptly. Every update is a snapshot that can be rolled back. The distribution ships LTS and Current kernels, both patched for hardware support, and is tuned for low interactive latency so that the desktop remains responsive under heavy load. Applications come from Flatpak and command-line tools from Homebrew, both managed per user.
 
 Benchtop Linux is configured for security analysis, reverse engineering, virtualization, software development, system administration, and AI work without additional setup.
 
