@@ -36,7 +36,7 @@ Security analysis of firmware, microcontrollers, hardware security modules, trus
 Security analysis of medical devices, patient-data systems, and healthcare computing infrastructure. Dr. Martin's doctoral research focused on securing medical devices, and he has written production code deployed in FDA-regulated medical devices, identified remote code execution vulnerabilities in life-critical infusion pump systems, and designed cryptographic protocols implemented in production healthcare environments.
 
 **[Artificial Intelligence & Machine Learning Systems](/expertise/ai-ml-systems/)**
-Analysis of AI and large language model systems: model architecture, hosting infrastructure, inference performance, GPU and memory architecture for model serving, quantization and optimization, training and fine-tuning pipelines, and the security properties of AI systems.
+Analysis of AI and large language model systems: model architecture, hosting infrastructure, inference performance, GPU and memory architecture for model serving, quantization and optimization, and the security properties of AI systems.
 
 **[Virtualization, Containerization & Hosting Infrastructure](/expertise/virtualization-hosting/)**
 Analysis of virtualization platforms, container-orchestration systems, hypervisor implementations, and cloud hosting architectures — a thread that runs through much of Dr. Martin's litigation and research work, from VM and container image forensics to PCIe passthrough and hardware isolation, storage virtualization, and the design and security of infrastructure for compute-intensive workloads including AI model serving.
