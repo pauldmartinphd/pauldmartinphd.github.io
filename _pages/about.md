@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Paul D. Martin, Ph.D."
-description: "Paul D. Martin, Ph.D. is a testifying and consulting expert witness in software, cybersecurity, AI, and embedded systems, with 100+ matters and large-scale source code review."
+description: "Paul D. Martin, Ph.D. is a testifying and consulting expert witness in patent, trade-secret, and technology litigation involving software, cybersecurity, AI, and embedded systems, with 100+ matters and large-scale source code review."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Dr. Martin is a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) and the Chief Scientist at [Harbor Experts](https://harborexperts.com). He serves as both a testifying and consulting expert in software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. His work focuses on helping attorneys, courts, and juries understand technical systems and the evidence they produce in high-stakes disputes. He serves as Secretary of the [IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860), which is developing the standard for the procurement, verification and validation, and life cycle management of forensic technologies.
+Dr. Martin is a Lecturer in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) and the Chief Scientist at [Harbor Experts](https://harborexperts.com). He serves as both a testifying and consulting expert in software, cybersecurity, artificial intelligence, embedded systems, and hardware-related litigation. Most of his expert work involves patents, where he addresses claim construction, infringement and non-infringement, validity, prior art, and how products actually implement the technology at issue. Trade-secret disputes, which turn on software copying and derivation, development history, and technical provenance, are another major part of his practice. His work focuses on helping attorneys, courts, and juries understand technical systems and the evidence they produce in high-stakes disputes. He serves as Secretary of the [IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860), which is developing the standard for the procurement, verification and validation, and life cycle management of forensic technologies.
 
 He has provided expert testimony in federal and state courts, the International Trade Commission, and inter partes reviews, in civil matters, criminal proceedings, and international disputes. Across more than one hundred matters, he has led large-scale source code reviews of systems ranging from thousands to billions of lines of code, reconstructing system behavior, development history, and technical provenance.
 
@@ -36,7 +36,7 @@ Dr. Martin accepts expert witness and consulting engagements through **[Harbor E
 
 ## Research & Innovation
 
-Dr. Martin's research and engineering span source code analysis, security and cryptography, performance measurement, virtualization and hosting infrastructure, and full-stack systems engineering from hardware through application software. His current focus is software supply-chain security: in a modern supply chain, a component's version number is a poor guide to whether it is actually vulnerable, because enterprise Linux distributions ship soft-forked packages whose incomplete backports let real exposure drift from upstream.
+Dr. Martin's research and engineering span source code analysis, security and cryptography, performance measurement, virtualization and hosting infrastructure, and full-stack systems engineering from hardware through application software. His current focus is software supply-chain security: in a modern supply chain, a component's version number can be a poor guide to whether it is actually vulnerable, because enterprise Linux distributions ship soft-forked packages whose backports can leave real exposure out of step with upstream. His research measures how large that gap is.
 
 He designed and led development of [Firmware IQ](https://harborlabs.com/regulatory-support/persistent-vulnerability-monitoring/), a commercial platform that scans firmware, containers, and virtual machine images for known vulnerabilities against NIST's National Vulnerability Database, and [Sentinel](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lmafl-QAAAAJ&citation_for_view=lmafl-QAAAAJ:eQOLeE2rZwMC), a CPU add-on that enforces control-flow integrity on embedded devices; earlier systems he built were patented by Accenture and commercialized by Applied Communication Sciences.
 

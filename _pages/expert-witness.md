@@ -8,6 +8,8 @@ author_profile: true
 
 Dr. Martin serves as both a testifying and consulting expert in litigation involving software systems, cybersecurity, artificial intelligence, embedded devices, and computer architecture. His work includes large-scale source code review, reverse engineering, analysis of embedded firmware, and the explanation of computing systems and technical evidence to judges and juries.
 
+Patent litigation makes up most of his practice. In district court, at the International Trade Commission, and in inter partes reviews, he analyzes claim construction, infringement and non-infringement, validity and prior art, and how accused products actually implement the technology at issue. Trade-secret disputes are the other major focus: he evaluates allegations of software copying and derivation by reconstructing development history and technical provenance, using a methodology he developed for that purpose. He also works on copyright, contract, licensing, and software-quality disputes.
+
 His engagements span over 100 matters across federal and state courts, the International Trade Commission, inter partes reviews before the Patent Trial and Appeal Board, criminal proceedings, and international regulatory actions. He has built the systems he is retained to examine, including production code deployed in FDA-regulated medical devices, and he serves as Secretary of the [IEEE 7024 Working Group](https://development.standards.ieee.org/myproject-web/public/view.html#pardetail/13860) on the "Standard for the Procurement, Verification and Validation, and Life Cycle Management of Forensic Technologies." He designs and conducts custom experiments tailored to the specific technical questions at issue, and where source code is incomplete or unavailable he works through binary reverse engineering and forensic reconstruction.
 
 Dr. Martin serves as Chief Scientist at **[Harbor Experts](https://harborexperts.com)**, through which he accepts expert witness and consulting engagements.
@@ -19,7 +21,7 @@ His testimony record appears below; a separate page lists his [reports, declarat
 ## Areas of Expertise
 
 **[Software, Source Code & Intellectual Property Analysis](/expertise/software-source-code-ip/)**
-Source code and software architecture at issue in intellectual-property and commercial disputes, including trade secret misappropriation, copyright infringement, breach of contract, and code-quality matters. Dr. Martin has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
+Source code and software architecture at issue in patent, trade-secret, and other intellectual-property and commercial disputes. Patent work covers claim construction, infringement and non-infringement, validity, prior art, and implementation analysis; trade-secret work covers software copying and derivation, development history, and technical provenance. Copyright, breach-of-contract, licensing, and code-quality matters are additional areas. Dr. Martin has authored whitepapers on [source code comparison](/files/HL-WP-SourceCodeComparison.pdf), [source code quality assessment](/files/HL-WP-SourceCodeQuality.pdf), and [source code review in litigation](/files/HL-WP-SourceCodeReview.pdf).
 
 **[Reverse Engineering, Malware & Digital Forensics](/expertise/reverse-engineering-forensics/)**
 Compiled software, firmware, and malicious code, and the forensic artifacts that computing systems leave behind. This area covers malware and the attribution of intrusions and code to the actors responsible, including nation-state activity; digital forensics of computers and mobile devices across iOS and Android; and the reliability and validity of forensic software, including the computerized DNA-analysis software scrutinized in criminal proceedings.
@@ -48,7 +50,8 @@ Hardware and network system performance (CPU, memory, GPU, storage, and network 
 
 Dr. Martin's engagements typically involve:
 
-- Large-scale source code review and automated and manual comparison across systems ranging from thousands to billions of lines of code, in trade secret, copyright, contract, and code-quality disputes
+- Patent analysis: claim construction, infringement and non-infringement, validity and prior art, and analysis of how accused products implement the claimed technology
+- Large-scale source code review and automated and manual comparison across systems ranging from thousands to billions of lines of code, in patent, trade secret, copyright, contract, and code-quality disputes
 - Reverse engineering and forensic reconstruction of software behavior from binaries, firmware, execution traces, and logs when source code is unavailable
 - Firmware extraction and embedded-system analysis, including boot chains and update mechanisms, using interfaces such as SPI and JTAG
 - Malware analysis and cyber-attribution, including large-scale automated sample analysis and evaluation of the reasonableness of an organization's security measures
