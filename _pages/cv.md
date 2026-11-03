@@ -111,10 +111,11 @@ P. Martin, A. Rubin, R. Bhatti, "Enforcing Minimum Necessary Access in Healthcar
 **Technicomp Benchtop Linux** (2026-Present)
 Creator of an immutable GNOME-based Linux distribution for x86 and ARM workstations. ([Technicomp Labs](https://technicomplabs.io/benchtop/))
 
-**Bug fixes and patches to other projects** (2026-Present)
+**openSUSE OpenRGB package** (2026)
+Removed the udev-rules subpackage's dependency on the Qt application; accepted into the hardware project. ([Request](https://build.opensuse.org/request/show/1380204))
 
-- openSUSE sdbootutil: reported and diagnosed the vendor kernel command-line drop-in path bug; fixed upstream with co-authorship credit ([#467](https://github.com/openSUSE/sdbootutil/issues/467)).
-- openSUSE OpenRGB package: removed the udev-rules subpackage's dependency on the Qt application; accepted into the hardware project ([request 1380204](https://build.opensuse.org/request/show/1380204)).
+**openSUSE sdbootutil** (2026)
+Reported and diagnosed a kernel command-line drop-in path bug; fixed upstream with co-authorship credit. ([Issue](https://github.com/openSUSE/sdbootutil/issues/467))
 
 **Charm: A Framework for Rapid Cryptographic Prototyping** (2010-2012)
 Contributor to Charm, an open-source rapid prototyping framework for advanced cryptographic algorithms, developed at Johns Hopkins University.
