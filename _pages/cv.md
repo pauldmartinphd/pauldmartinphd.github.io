@@ -111,6 +111,9 @@ P. Martin, A. Rubin, R. Bhatti, "Enforcing Minimum Necessary Access in Healthcar
 **Technicomp Benchtop Linux** (2026-Present)
 Creator of an immutable GNOME-based Linux distribution for x86 and ARM workstations. ([Technicomp Labs](https://technicomplabs.io/benchtop/))
 
+**openSUSE health-checker** (2026)
+Fixed an invalid sysctl name in the default configuration that kept the reboot-after-panic setting from being applied; accepted into devel:microos. ([Request](https://build.opensuse.org/request/show/1380231))
+
 **openSUSE OpenRGB package** (2026)
 Removed the udev-rules subpackage's dependency on the Qt application; accepted into the hardware project. ([Request](https://build.opensuse.org/request/show/1380204))
 
